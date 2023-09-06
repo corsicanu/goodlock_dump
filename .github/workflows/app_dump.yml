@@ -1,0 +1,117 @@
+name: GoodLock Modules Dumper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 */4 * * *"
+  push:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[ci skip]')"
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        include:
+          - device: "SM-S918B"
+            sdk: "34"
+            os: "14"
+            csc: "EUX"
+            oneui: "60000"
+          - device: "SM-F946B"
+            sdk: "33"
+            os: "13"
+            csc: "EUX"
+            oneui: "50101"
+          - device: "SM-F936B"
+            sdk: "32"
+            os: "12L"
+            csc: "EUX"
+            oneui: "40101"
+          - device: "SM-G998B"
+            sdk: "31"
+            os: "12"
+            csc: "DBT"
+            oneui: "40100"
+          - device: "SM-N985F"
+            sdk: "30"
+            os: "11"
+            csc: "DBT"
+            oneui: "0"
+          - device: "SM-N985F"
+            sdk: "29"
+            os: "10"
+            csc: "DBT"
+            oneui: "0"
+          - device: "SM-G965F"
+            sdk: "28"
+            os: "9"
+            csc: "DBT"
+            oneui: "0"
+
+    steps:
+
+      - name: Check for update
+        id: check
+        run: |
+          need_update=0
+          curl --retry 5 --retry-delay 5 "http://vas.samsungapps.com/product/getContentCategoryProductList.as?contentCategoryID=0000005309&deviceId=${{ matrix.device }}&sdkVer=${{ matrix.sdk }}&mcc=262&mnc=01&csc=${{ matrix.csc }}&imgWidth=512&imgHeight=512&startNum=1&endNum=100&alignOrder=recent&callerId=com.samsung.android.goodlock&cc=NONE&systemId=1608665720954&abiType=64&oneUiVersion=${{ matrix.oneui }}" > tmp-${{ matrix.sdk }}.xml
+          curl --retry 5 --retry-delay 5 "https://raw.githubusercontent.com/corsicanu/goodlock_dump/main/xml/${{ matrix.sdk }}.xml" > current-${{ matrix.sdk }}.xml
+          if [ ! -f current-${{ matrix.sdk }}.xml ]; then echo "" > current-${{ matrix.sdk }}.xml; fi
+          if [ "$(diff tmp-${{ matrix.sdk }}.xml current-${{ matrix.sdk }}.xml)" != "" ]; then need_update=1; fi
+          echo "need_update=$need_update" >> $GITHUB_ENV
+
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        if: env.need_update == 1
+        with:
+          submodules: true
+          lfs: true
+
+      - name: Update current version
+        if: env.need_update == 1
+        run: |
+          rm -rf tmp* current*
+          date=$(date +'%d-%m-%Y %H:%M:%S')
+          echo "date=$date" >> $GITHUB_ENV
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git pull origin ${{github.ref}} --ff-only
+          sudo apt install -y python3 python3-dev
+          python3 -m pip install -r requirements.txt
+          python3 dumper.py -d ${{ matrix.device }} -s ${{ matrix.sdk }} -o ${{ matrix.os }} -c ${{ matrix.csc }} -v ${{ matrix.oneui }}
+          echo "files=`echo -n $(find releases/${{ matrix.sdk }} -name '*.apk') | sed 's/\n/ /g'`" >> $GITHUB_ENV
+          git add *.xml
+          git commit -m "${{ matrix.os }}: update of ${{ env.date }} [ci skip]"
+          
+      - name: Read versions.txt and use it as a body of new release
+        id: read_release
+        shell: bash
+        run: |
+          r=$(cat versions.txt)
+          r="${r//'%'/'%25'}"
+          r="${r//$'\n'/'%0A'}"
+          r="${r//$'\r'/'%0D'}"
+          echo "release_body=$r" >> $GITHUB_ENV
+            
+      - name: Edit release assets
+        if: env.need_update == 1
+        uses: meeDamian/github-release@master
+        with:
+          token: ${{ secrets.TOKEN }}
+          tag: ${{ matrix.sdk }}
+          name: ${{ matrix.os }} - Update of ${{ env.date }}
+          body: ${{ env.release_body }}
+          prerelease: true
+          files: |
+            ${{ env.files }}
+          allow_override: true
+          gzip: false
+
+      - name: Push changes to repo
+        if: env.need_update == 1
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
