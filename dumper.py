@@ -29,7 +29,7 @@ if os.path.exists(os.path.join("xml", f"{args.sdk}.xml")):
 if os.path.exists("versions.txt"):
     os.remove("versions.txt")
 with open("versions.txt", "a") as versions_file:
-    versions_file.write(f"Included apps and versions:\n")
+    versions_file.write(f"Included apps and versions: \n")
 
 # Step 2: Construct URL
 base_url = "http://vas.samsungapps.com/product/getContentCategoryProductList.as"
@@ -95,6 +95,6 @@ for app_id in app_ids:
                 
                 # Write down versions
                 with open("versions.txt", "a") as versions_file:
-                    versions_file.write(f"\t{product_name} {version_name}\n")
+                    versions_file.write(f"- {product_name} {version_name} \n")
         else:
             print(f"Warning: 'download_uri' is None for appId: {sub_app_id}")

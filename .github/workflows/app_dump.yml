@@ -5,6 +5,7 @@ on:
   schedule:
     - cron: "5 */4 * * *"
   push:
+    branches: [ main ]
 
 jobs:
   update:
@@ -15,29 +16,9 @@ jobs:
       max-parallel: 1
       matrix:
         include:
-          - device: "SM-S918B"
-            sdk: "34"
-            os: "14"
-            csc: "EUX"
-            oneui: "60000"
-          - device: "SM-F946B"
-            sdk: "33"
-            os: "13"
-            csc: "EUX"
-            oneui: "50101"
-          - device: "SM-F936B"
-            sdk: "32"
-            os: "12L"
-            csc: "EUX"
-            oneui: "40101"
-          - device: "SM-G998B"
-            sdk: "31"
-            os: "12"
-            csc: "DBT"
-            oneui: "40100"
-          - device: "SM-N985F"
-            sdk: "30"
-            os: "11"
+          - device: "SM-G965F"
+            sdk: "28"
+            os: "9"
             csc: "DBT"
             oneui: "0"
           - device: "SM-N985F"
@@ -45,11 +26,31 @@ jobs:
             os: "10"
             csc: "DBT"
             oneui: "0"
-          - device: "SM-G965F"
-            sdk: "28"
-            os: "9"
+          - device: "SM-N985F"
+            sdk: "30"
+            os: "11"
             csc: "DBT"
             oneui: "0"
+          - device: "SM-G998B"
+            sdk: "31"
+            os: "12"
+            csc: "DBT"
+            oneui: "40100"
+          - device: "SM-F936B"
+            sdk: "32"
+            os: "12L"
+            csc: "EUX"
+            oneui: "40101"
+          - device: "SM-F946B"
+            sdk: "33"
+            os: "13"
+            csc: "EUX"
+            oneui: "50101"
+          - device: "SM-S918B"
+            sdk: "34"
+            os: "14"
+            csc: "EUX"
+            oneui: "60000"
 
     steps:
 
@@ -67,11 +68,11 @@ jobs:
         uses: actions/checkout@v3
         if: env.need_update == 1
         with:
-          submodules: true
-          lfs: true
+          ref: 'main'
 
       - name: Update current version
         if: env.need_update == 1
+        id: stuff
         run: |
           rm -rf tmp* current*
           date=$(date +'%d-%m-%Y %H:%M:%S')
@@ -84,17 +85,12 @@ jobs:
           python3 dumper.py -d ${{ matrix.device }} -s ${{ matrix.sdk }} -o ${{ matrix.os }} -c ${{ matrix.csc }} -v ${{ matrix.oneui }}
           echo "files=`echo -n $(find releases/${{ matrix.sdk }} -name '*.apk') | sed 's/\n/ /g'`" >> $GITHUB_ENV
           git add *.xml
-          git commit -m "${{ matrix.os }}: update of ${{ env.date }} [ci skip]"
-          
-      - name: Read versions.txt and use it as a body of new release
-        id: read_release
-        shell: bash
-        run: |
-          r=$(cat versions.txt)
-          r="${r//'%'/'%25'}"
-          r="${r//$'\n'/'%0A'}"
-          r="${r//$'\r'/'%0D'}"
-          echo "release_body=$r" >> $GITHUB_ENV
+          git commit -m "${{ matrix.os }}: update of $date [ci skip]"
+          value=$(cat versions.txt)
+          value="${value//'%'/'%25'}"
+          value="${value//$'\n'/'%0A'}"
+          value="${value//$'\r'/'%0D'}"
+          echo "::set-output name=release_body::$value"
             
       - name: Edit release assets
         if: env.need_update == 1
@@ -103,7 +99,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
           tag: ${{ matrix.sdk }}
           name: ${{ matrix.os }} - Update of ${{ env.date }}
-          body: ${{ env.release_body }}
+          body: "${{ steps.stuff.outputs.release_body }}"
           prerelease: true
           files: |
             ${{ env.files }}
@@ -115,3 +111,5 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TOKEN }}
+          branch: ${{github.ref}}
+
