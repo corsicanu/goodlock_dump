@@ -2,13 +2,13 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>16</endNum>
+	<endNum>17</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20230728080741996_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20230911070349536_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -45,7 +45,7 @@ English, Korean, Chinese(TBD)
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20230822081719365_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20230911070140124_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -91,7 +91,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20230814054517343_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20230911063211240_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -135,7 +135,7 @@ We are trying to make a fresh experience for users.
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20230817022018249_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20230911070205890_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -179,7 +179,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20230818101530543_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20230911070343286_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -235,7 +235,7 @@ Floating Notification
 		<productID>000003202866</productID>
 		<productName><![CDATA[ClockFace]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20230901025939314_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20230913060614770_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -274,7 +274,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20230814054656143_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20230911070306103_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -309,7 +309,7 @@ HomeUp is the extension edition of One UI Home.
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20230822095746880_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20230911070311962_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -350,7 +350,7 @@ HomeUp is the extension edition of One UI Home.
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20230830023036708_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20230911070319925_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -379,7 +379,7 @@ You can add your favorite images and create a motion effect. Use the various par
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20230814054445238_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20230911070214356_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -441,7 +441,7 @@ Permissions
 		<productID>000005198690</productID>
 		<productName><![CDATA[Pentastic]]></productName>
 		<appId>com.samsung.android.pentastic</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20230728080226576_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20230911070114604_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -534,6 +534,71 @@ Press "Vibration history" in app's main screen and you get a list of application
 (please make sure that the switch is enabled before use.)
 
 #GoodLockFriends #3]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003036952</productID>
+		<productName><![CDATA[One Hand Operation +]]></productName>
+		<appId>com.samsung.android.sidegesturepad</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20230906090147347_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.5.23.0]]></versionName>
+		<versionCode>652300000</versionCode> 
+		<realContentSize>7790489</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
+
+With this app you can easily use your device with your thumb gesture.
+
+When the feature is set, a thin gesture handle is added to the left/right side of the screen. 
+Swipe this handle to execute the defined functions. The default function is the most frequently used back button.
+
+You can set various functions for horizontal/diagonal up/down diagonal gestures.
+Once you get used to using short swipe gestures, you can set more features for long swipe gestures.
+
+Depending on the size of your hand, the thickness of your thumb, or the shape of the bumper case you are using, different handle settings are provided to optimize gesture recognition.
+
+The handle receives the user's touch event on top of the running app. It can interfere with running applications. Therefore, it is recommended to set the handle as thin as possible for gesture recognition. 
+
+If the touch interference is severe with running application such as game, you can set [App exceptions] in [Advanced Settings], then the gesture handles will not work when the app is running.
+
+Currently available functions are as follows, and we plan to provide additional function upgrades.
+
+ - Back key
+ - Home key
+ - Recent key
+ - Menu key
+ - Apps screen
+ - Previous app
+ - Forward ( web browser )
+ - Open notification panel 
+ - Open quick panel 
+ - Screen off 
+ - Close app
+ - Flashlight
+ - Split screen view
+ - Assistance app 
+ - Finder search
+ - Screenshot 
+ - Show/hide navigation bar
+ - Floating navigation buttons
+ - Pull screen down
+ - One-handed mode
+ - Power key menu
+ - Home screen shortcuts 
+ - Start application 
+ - Task switcher 
+ - Virtual touch pad
+ - Quick tools
+
+Enjoy the convenience of gestures on your phone and tablet with this app.
+
+Thank you.
+
+#GoodLockFriends #5]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003032367</productID>
@@ -634,7 +699,7 @@ Features available since Android version 10
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20230901083917450_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20230911063141985_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
