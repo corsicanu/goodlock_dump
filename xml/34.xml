@@ -213,7 +213,7 @@ We are trying to make a fresh experience for users.
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20230911070205890_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20230925085958452_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -251,7 +251,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
   : When editing icons accessible on the lock screen, Storage is accessed to show the wallpaper on the preview screen.
 
 [Version Code]
-<NOTISTAR:2001:6002>]]></description>
+<NOTISTAR:2001:7001>]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003266196</productID>
