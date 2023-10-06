@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>18</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006559401</productID>
@@ -169,11 +169,11 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20230911063211240_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20231005230542407_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[6.4.08.45]]></versionName>
 		<versionCode>640845000</versionCode> 
 		<realContentSize>15320543</realContentSize>
@@ -204,9 +204,10 @@ We are trying to make a fresh experience for users.
 - Korean
 - English
 - Chinese
+- Japanese
 
 [Version Code]
-<SLIMINDICATOR:1003:6004>
+<SLIMINDICATOR:1003:7004>
 #2]]></description>
 		</appInfo>
 	<appInfo>
