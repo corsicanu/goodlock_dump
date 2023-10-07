@@ -173,10 +173,10 @@ Provides advanced functions related to Samsung Keyboard.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.4.08.45]]></versionName>
-		<versionCode>640845000</versionCode> 
-		<realContentSize>15320543</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.0.03.20]]></versionName>
+		<versionCode>700320000</versionCode> 
+		<realContentSize>15248626</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your special Quickpanel.
