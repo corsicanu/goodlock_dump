@@ -310,7 +310,7 @@ HomeUp is the extension edition of One UI Home.
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20231017023023068_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20231018013031636_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -344,7 +344,7 @@ HomeUp is the extension edition of One UI Home.
   : The navigation bar images and user settings are saved.
 
 [Version Code]
-<NAVSTAR:1001:8000>
+<NAVSTAR:1001:9000>
 #7]]></description>
 		</appInfo>
 	<appInfo>
@@ -620,7 +620,7 @@ Thank you.
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20230817073534833_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20231018022147775_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -637,44 +637,35 @@ Provides various convenience functions related to audio
 ※ How to use : https://youtu.be/Z5mrB4ryKjE
 ※ Some devices may not be supported
 
+- Flux Volume UI (Support from One UI 5)
+Choose effect, texture, size and control type.
+
+- Dual App Volume View (Support from One UI 5)
+When the volume of the app is not 100%, it appears next to the main volume.
+
+- Customized voice effects (Support from One UI 6)
+Provide custom effect creation option.
+
 - Allow you to control the media volume instead of ringtone when pressing the volume keys
 - Support individual application volume (You can control the volume of music and games differently)  
 - 150 steps of fine volume and support Floating Equalizer(EQ)
 - Create and activate personalize sound settings
-- Support mono audio and left/right balance
-- Touch the app volume icon in the floating dialog to play/pause and long click to enter the app.
-
-The following features are available only if the Samsung Experience version of the smartphone on which Sound Assistant is installed is 8.5 or later
-※ How to check Samsung Experience(OneUI) Version : Run SoundAssistant - Top right menu - About
+- Support mono audio and left / right balance
+- Touch the app volume icon in the floating dialog to mute/unmute and long click to enter the app.
 - Default volume step when pressing volume button can now be changed
 - Audio output of an application can now be switched between Bluetooth or speaker via floating volume dialog
 - EQ settings can now be saved and shared
-
-Features available since Samsung Experience version 9.0
 - Ability to swap left and right sounds on headphones
 - Ability to hear ringtone, notification, and alarm sounds only through headphones when headphone is connected
-
-Features available since Samsung Experience version 10.1
 - Favorite media app : Select an app to control music when you press multimedia keys.
-
-Features available since OneUI version 1.5
 - Supports concert hall effect
 - Adjust previous/next song with volume key
 - When an earphone or Bluetooth is connected, you can select where the ringtone, notification, and alarm sound will be played.
-
-Features available since Android version 10
-- Provides a volume panel of expanded features that can change the volume and output devices of each app
-- Provides panel form theme (Sero / Classic)  
-- Provides panel color theme 
-- Renewed EQ panel design 
 - Dual app sound is extended to multi sound so all apps can be played simultaneously
--Provide vibration effect of the volume panel theme slider according to whether the vibration feedback of the -default setting app is activated
--Fix the bug that do not disappear from the existing volume panel when rebooting device
--Apps that appear once in the app volume slider are maintained for a certain period of time even if they do not sound
--Add an option that reverse the ability to switch to the previous/next song through volume key long press
--More sound effects menu
--Fixed the issue that the panel does not disappear while using "Classic" volume panel
--Fixed to rotate the screen based on user settings
+- Provide vibration effect of the volume panel theme slider according to whether the vibration feedback of the -default setting app is activated
+- Apps that appear once in the app volume slider are maintained for a certain period of time even if they do not sound
+- Add an option that reverse the ability to switch to the previous/next song through volume key long press
+- More sound effects menu
 
 #GoodLockFriends]]></description>
 		</appInfo>
