@@ -673,7 +673,7 @@ Provide custom effect creation option.
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20231031072921273_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20231102041434318_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -701,7 +701,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 2.  Contacts (Required)
   : Access to Storage is required to show the Contacts information location on the preview screen.
 
-<LOCKSTAR:1003:3200>#1]]></description>
+<LOCKSTAR:1003:3401>#1]]></description>
 		</appInfo>
 	<serverType>PRD</serverType>
 </result>
