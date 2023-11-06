@@ -34,14 +34,14 @@
 		<productID>000006559401</productID>
 		<productName><![CDATA[RegiStar]]></productName>
 		<appId>com.samsung.android.app.galaxyregistry</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20231103014209028_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20231106065816844_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.43]]></versionName>
-		<versionCode>104300000</versionCode> 
-		<realContentSize>32391078</realContentSize>
+		<versionName><![CDATA[1.0.47]]></versionName>
+		<versionCode>104700000</versionCode> 
+		<realContentSize>32402902</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Conveniently configure the Settings app and press the side key, tap the back, or press the screen strongly to quickly launch useful features.
@@ -149,14 +149,14 @@ English, Korean, Chinese
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20231103014315319_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20231106065828127_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.07.2]]></versionName>
-		<versionCode>100700002</versionCode> 
-		<realContentSize>79734888</realContentSize>
+		<versionName><![CDATA[1.6.00.9]]></versionName>
+		<versionCode>160000009</versionCode> 
+		<realContentSize>79617790</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Set up a keyboard that’s tailored to you.
