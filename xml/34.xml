@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>20</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000007063417</productID>
