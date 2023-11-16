@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>19</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000007063417</productID>
@@ -69,30 +69,30 @@
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
-
 [Description]
 It provides ON/OFF features for the following features:
-- Optical quality crop zoom
-  Add a 2x zoom option to Camera. The zoom is cropped from the high resolution sensor, so it's as good as an optical lens.
+- 2x crop zoom shortcut
+  Add a 2x zoom shortcut to Camera. This zoom uses a remosaiced crop of the high-resolution sensor to match the quality of an optical lens.
 - Auto HDR
   Capture more details in the bright and dark areas of your pictures and videos.
 - Picture softening
   Smooth out sharp edges and textures in Photo mode pictures.
 - Auto lens switching
   Let the camera pick the best lens based on the zoom, lighting, and distance to the subject.
+- Distortion correction
+  Automatically fix bowing or bending lines caused by lens and perspective distortion.
 - Adaptive pixel
   Reduce noise in low light shots by combining multiple lower-resolution frames into the final high-resolution picture.
+- Upscale digital zoom
+  If the resolution decreases due to zoom, upscale pictures back to the resolution you selected.
 - Quick tap shutter
   Take pictures as soon as your finger touches the Shutter button instead of when you lift it off. You can still swipe or press and hold the Shutter button to capture GIFs, burst shots, and videos, but a picture will be taken too.
 - Prioritize focus over speed
   Wait for the camera to finish focusing before triggering the shutter. This may delay the shutter slightly.
-- Capture speed
-  Prioritize quality for the best pictures. Prioritize speed to capture pictures as fast as possible. Balance speed and quality for faster capturing without sacrificing too much quality.
 - Video recording in Photo mode
   Touch and hold the Shutter button to record videos in Photo mode.
 - Clean preview on HDMI displays
   Show the camera preview without settings or buttons on HDMI-connected displays.
-
 
 The following features are also available.  
 - Timer multi-photo options
@@ -149,7 +149,7 @@ English, Korean, Chinese
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20231108013705323_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20231116085347006_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -724,14 +724,14 @@ Thank you.
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20231020080136380_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20231116085742155_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.1.00.6]]></versionName>
-		<versionCode>510000006</versionCode> 
-		<realContentSize>23683281</realContentSize>
+		<versionName><![CDATA[5.1.00.10]]></versionName>
+		<versionCode>510000010</versionCode> 
+		<realContentSize>23694860</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
