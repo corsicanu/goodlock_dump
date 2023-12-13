@@ -1,5 +1,6 @@
 import argparse
 import os
+import time
 import shutil
 import requests
 import xml.etree.ElementTree as ET
@@ -53,6 +54,16 @@ query_params = {
 }
 url = f"{base_url}?{'&'.join([f'{key}={value}' for key, value in query_params.items()])}"
 
+# Calculate systemId (current epoch time minus 180 seconds)
+current_time = int(time.time())
+system_id = current_time - 180
+
+# Update query_params with the new systemId
+query_params["systemId"] = str(system_id)
+
+# Reconstruct the URL with the updated systemId
+url = f"{base_url}?{'&'.join([f'{key}={value}' for key, value in query_params.items()])}"
+
 # Step 3: Perform Initial cURL Request and Save to tmp file
 response = requests.get(url)
 if response.status_code == 200:    
@@ -69,7 +80,7 @@ app_ids = [element.text for element in root.findall(".//appId")]
 # Step 5: Loop through extracted "appId" values
 for app_id in app_ids:
     # Step 6: Construct Subsequent URL
-    subsequent_url = f"https://vas.samsungapps.com/stub/stubDownload.as?appId={app_id}&deviceId={args.deviceId}&mcc=262&mnc=01&csc={args.csc}&sdkVer={args.sdk}&pd=0&systemId=0&callerId=com.sec.android.app.samsungapps&abiType=64&extuk=0191d6627f38685f"
+    subsequent_url = f"https://vas.samsungapps.com/stub/stubDownload.as?appId={app_id}&deviceId={args.deviceId}&mcc=262&mnc=01&csc={args.csc}&sdkVer={args.sdk}&pd=0&systemId={system_id}&callerId=com.sec.android.app.samsungapps&abiType=64&extuk=0191d6627f38685f"
 
     # Step 7: Perform Subsequent cURL Request
     subsequent_response = requests.get(subsequent_url)

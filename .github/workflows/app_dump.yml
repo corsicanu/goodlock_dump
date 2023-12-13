@@ -54,11 +54,15 @@ jobs:
 
     steps:
 
+      - name: Calculate systemId
+        id: calculate_system_id
+        run: echo "systemId=$(($(date +%s) - 180))" >> $GITHUB_ENV
+
       - name: Check for update
         id: check
         run: |
           need_update=0
-          curl --retry 5 --retry-delay 5 "http://vas.samsungapps.com/product/getContentCategoryProductList.as?contentCategoryID=0000005309&deviceId=${{ matrix.device }}&sdkVer=${{ matrix.sdk }}&mcc=262&mnc=01&csc=${{ matrix.csc }}&imgWidth=512&imgHeight=512&startNum=1&endNum=100&alignOrder=recent&callerId=com.samsung.android.goodlock&cc=NONE&abiType=64&oneUiVersion=${{ matrix.oneui }}" > tmp-${{ matrix.sdk }}.xml
+          curl --retry 5 --retry-delay 5 "http://vas.samsungapps.com/product/getContentCategoryProductList.as?contentCategoryID=0000005309&deviceId=${{ matrix.device }}&sdkVer=${{ matrix.sdk }}&mcc=262&mnc=01&csc=${{ matrix.csc }}&imgWidth=512&imgHeight=512&startNum=1&endNum=100&alignOrder=recent&callerId=com.samsung.android.goodlock&cc=NONE&systemId=${{ env.systemId }}&abiType=64&oneUiVersion=${{ matrix.oneui }}" > tmp-${{ matrix.sdk }}.xml
           curl --retry 5 --retry-delay 5 "https://raw.githubusercontent.com/corsicanu/goodlock_dump/main/xml/${{ matrix.sdk }}.xml" > current-${{ matrix.sdk }}.xml
           if [ ! -f current-${{ matrix.sdk }}.xml ]; then echo "" > current-${{ matrix.sdk }}.xml; fi
           if [ "$(diff tmp-${{ matrix.sdk }}.xml current-${{ matrix.sdk }}.xml)" != "" ]; then need_update=1; fi
