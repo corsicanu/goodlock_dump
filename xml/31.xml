@@ -2,13 +2,13 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>17</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20231213011809847_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20231214013547678_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -136,11 +136,11 @@ We are trying to make a fresh experience for users.
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20231213022238744_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20231214032134038_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[5.3.73.0]]></versionName>
 		<versionCode>537300000</versionCode> 
 		<realContentSize>9452494</realContentSize>
@@ -180,7 +180,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20231213010706089_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20231214013714277_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -275,7 +275,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20231213030559432_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20231214021140908_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -441,7 +441,7 @@ Permissions
 		<productID>000005198690</productID>
 		<productName><![CDATA[Pentastic]]></productName>
 		<appId>com.samsung.android.pentastic</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20231213012556375_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20231214013558943_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -470,7 +470,7 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003926817</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20231213011518854_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20231214013627067_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -508,7 +508,7 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20231207014545858_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20231214013724663_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -535,7 +535,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20231018070400359_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20231214013640801_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -646,7 +646,7 @@ Thank you.
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20231116085742155_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20231214032058170_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
