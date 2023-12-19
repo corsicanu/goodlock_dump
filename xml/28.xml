@@ -57,10 +57,10 @@ We are trying to make a fresh experience for users.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[5.3.73.0]]></versionName>
-		<versionCode>537300000</versionCode> 
-		<realContentSize>9452494</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.0.32.0]]></versionName>
+		<versionCode>603200000</versionCode> 
+		<realContentSize>9506259</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[NotiStar is new notification management service
