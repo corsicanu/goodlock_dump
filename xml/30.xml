@@ -641,14 +641,14 @@ Task Changer is provided as a submenu of Home Up after One UI 3. (Home Up > Task
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20231214032058170_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20231222081423531_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.1.00.10]]></versionName>
-		<versionCode>510000010</versionCode> 
-		<realContentSize>23694860</realContentSize>
+		<versionName><![CDATA[5.2.00.1]]></versionName>
+		<versionCode>520000001</versionCode> 
+		<realContentSize>23373826</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
