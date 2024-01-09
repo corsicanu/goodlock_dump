@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>16</endNum>
+	<endNum>17</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000005563964</productID>
@@ -275,7 +275,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20231227015746698_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20240109073559647_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -576,6 +576,71 @@ Press "Vibration history" in app's main screen and you get a list of application
 (please make sure that the switch is enabled before use.)
 
 #GoodLockFriends #3]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003036952</productID>
+		<productName><![CDATA[One Hand Operation +]]></productName>
+		<appId>com.samsung.android.sidegesturepad</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20240109042700662_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.8.27.0]]></versionName>
+		<versionCode>682700000</versionCode> 
+		<realContentSize>7983190</realContentSize>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
+
+With this app you can easily use your device with your thumb gesture.
+
+When the feature is set, a thin gesture handle is added to the left/right side of the screen. 
+Swipe this handle to execute the defined functions. The default function is the most frequently used back button.
+
+You can set various functions for horizontal/diagonal up/down diagonal gestures.
+Once you get used to using short swipe gestures, you can set more features for long swipe gestures.
+
+Depending on the size of your hand, the thickness of your thumb, or the shape of the bumper case you are using, different handle settings are provided to optimize gesture recognition.
+
+The handle receives the user's touch event on top of the running app. It can interfere with running applications. Therefore, it is recommended to set the handle as thin as possible for gesture recognition. 
+
+If the touch interference is severe with running application such as game, you can set [App exceptions] in [Advanced Settings], then the gesture handles will not work when the app is running.
+
+Currently available functions are as follows, and we plan to provide additional function upgrades.
+
+ - Back key
+ - Home key
+ - Recent key
+ - Menu key
+ - Apps screen
+ - Previous app
+ - Forward ( web browser )
+ - Open notification panel 
+ - Open quick panel 
+ - Screen off 
+ - Close app
+ - Flashlight
+ - Split screen view
+ - Assistance app 
+ - Finder search
+ - Screenshot 
+ - Show/hide navigation bar
+ - Floating navigation buttons
+ - Pull screen down
+ - One-handed mode
+ - Power key menu
+ - Home screen shortcuts 
+ - Start application 
+ - Task switcher 
+ - Virtual touch pad
+ - Quick tools
+
+Enjoy the convenience of gestures on your phone and tablet with this app.
+
+Thank you.
+
+#GoodLockFriends #5]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003206291</productID>
