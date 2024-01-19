@@ -71,8 +71,8 @@
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
 [Description]
 It provides ON/OFF features for the following features:
-- 2x crop zoom shortcut
-  Add a 2x zoom shortcut to Camera. This zoom uses a remosaiced crop of the high-resolution sensor to match the quality of an optical lens.
+- Zoom shortcuts
+  Select the extra zoom shortcuts to show in Camera.
 - Auto HDR
   Capture more details in the bright and dark areas of your pictures and videos.
 - Picture softening
@@ -91,6 +91,12 @@ It provides ON/OFF features for the following features:
   Wait for the camera to finish focusing before triggering the shutter. This may delay the shutter slightly.
 - Video recording in Photo mode
   Touch and hold the Shutter button to record videos in Photo mode.
+- DOF adapter correction
+  Automatically correct images flipped by external depth-of-field adapters. This correction is only applied in Pro and Pro Video modes.
+- Anamorphic lens correction
+  Automatically de-squeeze previews and videos to correct distortion from external anamorphic lenses. This correction is only applied in Pro Video mode while using 16:9 ratio (8K and 120 fps excluded).
+- Audio monitoring
+  Monitor the sound to be recorded in video modes through external output devices such as BT, HDMI, and USB earphones.
 - Clean preview on HDMI displays
   Show the camera preview without settings or buttons on HDMI-connected displays.
 
