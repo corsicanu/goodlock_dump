@@ -2,17 +2,17 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>17</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20240116014412560_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20240125062905205_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[1.0.44]]></versionName>
 		<versionCode>104407000</versionCode> 
 		<realContentSize>16048525</realContentSize>
