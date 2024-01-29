@@ -46,11 +46,11 @@ jobs:
             os: "13"
             csc: "EUX"
             oneui: "50101"
-          - device: "SM-S918B"
+          - device: "SM-S928B"
             sdk: "34"
             os: "14"
             csc: "EUX"
-            oneui: "60000"
+            oneui: "60100"
 
     steps:
 
