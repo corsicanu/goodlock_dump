@@ -12,10 +12,10 @@
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.0.44]]></versionName>
-		<versionCode>104407000</versionCode> 
-		<realContentSize>16048525</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.49]]></versionName>
+		<versionCode>104907000</versionCode> 
+		<realContentSize>19047834</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Add advanced features to Bixby Routines so you can make more powerful routines.
@@ -236,7 +236,7 @@ Floating Notification
 		<productID>000003202866</productID>
 		<productName><![CDATA[ClockFace]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20231227015558402_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20240129075906054_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -247,6 +247,13 @@ Floating Notification
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[ONE UI 6.1]
+added font/weather item ( From S24 models)
+added framed image(GIF) item.
+
+[ONE UI 6.0]
+added framed image(GIF) item.
 
 [ONE UI 5.0]
 Support Tablet ( From Galaxy Tab S8)
