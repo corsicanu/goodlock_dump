@@ -820,10 +820,10 @@ Provide custom effect creation option.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.0.00.5]]></versionName>
-		<versionCode>600005000</versionCode> 
-		<realContentSize>68598882</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.1.00.4]]></versionName>
+		<versionCode>610004000</versionCode> 
+		<realContentSize>68715018</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Create new Lockscreen style
