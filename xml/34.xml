@@ -12,10 +12,10 @@
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.0.00.4]]></versionName>
-		<versionCode>600000004</versionCode> 
-		<realContentSize>18231691</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.1.00.5]]></versionName>
+		<versionCode>610000005</versionCode> 
+		<realContentSize>10126120</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Add your own personal touch to your notifications. Enjoy fun effects when receiving notifications.
