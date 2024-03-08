@@ -431,10 +431,10 @@ HomeUp is the extension edition of One UI Home.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.1.05.33]]></versionName>
-		<versionCode>610533000</versionCode> 
-		<realContentSize>15047683</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.1.05.39]]></versionName>
+		<versionCode>610539000</versionCode> 
+		<realContentSize>15064122</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create your own navigation bar.
