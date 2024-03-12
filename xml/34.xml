@@ -488,7 +488,11 @@ You can add your favorite images and create a motion effect. Use the various par
 - Creating a particle effect for your wallpaper: You can set up a particle effect for images of your choice, use presets and directly set up an effect.
 
 [Supported Languages]
-- Korean, English, Chinese Simplified
+- Korean, English, Chinese Simplified,  Japanese
+
+[Notice for application's permission]
+To provide service, application needs below permission.
+Storage : When creating a wallpaper, access to storage is made in order to import images or videos.
 
 #wonderland #motionwallpaper #movingwallpaper #livewallpaper #GoodLockFriends #1]]></description>
 		</appInfo>
