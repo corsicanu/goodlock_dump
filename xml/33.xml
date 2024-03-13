@@ -8,27 +8,26 @@
 		<productID>000007063417</productID>
 		<productName><![CDATA[Edge lighting+]]></productName>
 		<appId>com.samsung.android.edgelightingplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000007063417/IconImage_20240131062020555_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000007063417/IconImage_20240312204929687_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[6.0.00.4]]></versionName>
-		<versionCode>600000004</versionCode> 
-		<realContentSize>18231691</realContentSize>
+		<discountFlag></discountFlag>
+		<versionName><![CDATA[6.1.00.5]]></versionName>
+		<versionCode>610000005</versionCode> 
+		<realContentSize>10126120</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Add your own personal touch to your notifications. Enjoy fun effects when receiving notifications.
 
+※ It works in One UI 5.1.1 and higher
 [Key Features]
 - Customize the edge lighting style displayed on the screen when receiving notifications
 - Set styles by keyword
 - Used only when the screen is off
 - Change images to app icons
 - Change app launch methods from notification pop-ups
-   : Double-tap to launch apps, prevents swiping down
-
-* It works in One UI 5.1.1 and higher]]></description>
+   : Double-tap to launch apps, prevents swiping down]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000006559401</productID>
