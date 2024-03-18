@@ -470,7 +470,7 @@ HomeUp is the extension edition of One UI Home.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[1.4.08]]></versionName>
 		<versionCode>140800000</versionCode> 
 		<realContentSize>85000246</realContentSize>
