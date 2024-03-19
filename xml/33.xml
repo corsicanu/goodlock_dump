@@ -12,9 +12,9 @@
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.1.00.5]]></versionName>
-		<versionCode>610000005</versionCode> 
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.1.00.6]]></versionName>
+		<versionCode>610000006</versionCode> 
 		<realContentSize>10126120</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -121,10 +121,10 @@ The following features are also available.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.0.44]]></versionName>
-		<versionCode>104407000</versionCode> 
-		<realContentSize>16048525</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.52]]></versionName>
+		<versionCode>105207000</versionCode> 
+		<realContentSize>19047556</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Add advanced features to Bixby Routines so you can make more powerful routines.
