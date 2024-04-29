@@ -391,14 +391,14 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20240415032216957_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20240429003644333_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[15.0.01.19]]></versionName>
-		<versionCode>1500100019</versionCode> 
-		<realContentSize>16766030</realContentSize>
+		<discountFlag></discountFlag>
+		<versionName><![CDATA[15.0.00.19]]></versionName>
+		<versionCode>1500000019</versionCode> 
+		<realContentSize>14791586</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
