@@ -293,10 +293,10 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[7.1.17]]></versionName>
-		<versionCode>711700000</versionCode> 
-		<realContentSize>16903826</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.1.33]]></versionName>
+		<versionCode>713300000</versionCode> 
+		<realContentSize>16924360</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
