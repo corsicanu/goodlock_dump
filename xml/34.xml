@@ -499,14 +499,14 @@ Storage : When creating a wallpaper, access to storage is made in order to impor
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20240429035814157_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20240502041531005_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.0.09.72]]></versionName>
-		<versionCode>100972000</versionCode> 
-		<realContentSize>23798718</realContentSize>
+		<versionName><![CDATA[1.1.00.8]]></versionName>
+		<versionCode>110008000</versionCode> 
+		<realContentSize>25797703</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily.
