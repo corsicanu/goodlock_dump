@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>19</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000007063417</productID>
@@ -158,10 +158,10 @@ English, Korean, Chinese
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.6.00.9]]></versionName>
-		<versionCode>160000009</versionCode> 
-		<realContentSize>79617790</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.6.01.10]]></versionName>
+		<versionCode>160100010</versionCode> 
+		<realContentSize>79688394</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Set up a keyboard that’s tailored to you.
@@ -204,10 +204,10 @@ Provides advanced functions related to Samsung Keyboard.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[7.1.03.22]]></versionName>
-		<versionCode>710322000</versionCode> 
-		<realContentSize>15248626</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.2.06.35]]></versionName>
+		<versionCode>720635000</versionCode> 
+		<realContentSize>15302156</realContentSize>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your special Quickpanel.
