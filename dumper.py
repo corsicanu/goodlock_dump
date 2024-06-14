@@ -45,7 +45,7 @@ query_params = {
     "imgHeight": "512",
     "startNum": "1",
     "endNum": "100",
-    "alignOrder": "recent",
+    "alignOrder": "alphabetical",
     "callerId": "com.samsung.android.goodlock",
     "cc": "NONE",
     "systemId": "0",
