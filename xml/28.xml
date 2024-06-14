@@ -5,154 +5,6 @@
 	<endNum>16</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
-		<productID>000003084407</productID>
-		<productName><![CDATA[QuickStar]]></productName>
-		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20240513010237685_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.5.03.4]]></versionName>
-		<versionCode>250304000</versionCode> 
-		<realContentSize>3520520</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your special Quickpanel.
-
-[Description]
-- Make a simple status bar.
-
-<One UI 5>
- ※ Support seconds clock on panel.
- ※ Support date clock on indicator.
-
-<One UI 4>
- ※ Improve app stability.
-
-[Detail Description]
-QuickStar is QuickPanel Star a SystemUI service app for early adopters.
-QuickStar is a plugin application for customizing SAMSUNG SystemUI Quicksettings components.
-By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provides.
-We are trying to make a fresh experience for users.
-
-[Target]
-- Android 8 or higher devices
-
-[Language]
-- Korean
-- English
-- Chinese
-- Japanese
-
-[Version Code]
-<SLIMINDICATOR:1003:7005>
-#2]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000004085658</productID>
-		<productName><![CDATA[NotiStar]]></productName>
-		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20231227015724352_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[6.0.32.0]]></versionName>
-		<versionCode>603200000</versionCode> 
-		<realContentSize>9506259</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[NotiStar is new notification management service
-
-[Description]
-NotiStar is new notification management service
-By using this, You can manage many of the notifications you have received so far
-In addition, you can search for delivered notifications or categorize them as you like.
-All of these notifications are always there before you delete them.
-We are trying to make fresh experience for users.
-
-Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is created on the home screen
-
-[Target]
-- Android T OS 13.0 SAMSUNG devices.
-- Android S OS 12.0 SAMSUNG devices.
-- Android R OS 11.0 SAMSUNG devices.
-- Android Q OS 10.0 SAMSUNG devices.
-- Android P OS 9.0 SAMSUNG devices.
-
-[Language]
-- Korean
-- English
-- Chinese
-
-[Optional permission]
-- Storage (Optional)
-  : When editing icons accessible on the lock screen, Storage is accessed to show the wallpaper on the preview screen.
-
-[Version Code]
-<NOTISTAR:2001:7001>]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003266196</productID>
-		<productName><![CDATA[MultiStar]]></productName>
-		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20240502015417481_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.5.02]]></versionName>
-		<versionCode>250200000</versionCode> 
-		<realContentSize>5494099</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
-
-[Description]
-[ One UI 4]
-Improved usability on the cover screen of Flip 3. (※ Always On Display  v7.1.30.4 or later)
--Cover launcher widget
- Launch game apps or some media apps directly from the cover screen. (Flip 3 target, you can add up to 5 apps)
-
-Use Multi window without pausing
-- You can use several apps at the same time on the Multi window mode without stopping.
-
-[One UI 3 (Android 11)]
-Immersive Mode 
-- Hide status bar and navigation bar in split screen view
- 
-The app size stretch to camera hole 
-- Open the app by widening the camera area
-
-[One UI 2 (Android 10)]
-Enable Multi window to all apps 
-- All apps can be launched in a Popup window and split screen.
-
-[One UI 1 (Android 9)]
-Ghost Mode 
-- When you use Popup Window, you can adjust the transparency of Windows so that you can see what is under the window.
-
-Floating Notification 
-- You can receive notifications in the form of icons.
-
-
-[Target]
-- Android O os 8.1~  SAMSUNG devices.
-
-[Language]
-- English
-- Korean
-- Chinese
-
-[Version Code]
-<MULTISTAR:1000:7001>
-#6]]></description>
-		</appInfo>
-	<appInfo>
 		<productID>000003202866</productID>
 		<productName><![CDATA[ClockFace]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
@@ -228,6 +80,34 @@ Enjoy your own clockface on Lockscreen and AOD
 #GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
+		<productID>000003084395</productID>
+		<productName><![CDATA[EdgeTouch]]></productName>
+		<appId>com.samsung.android.app.edgetouch</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20231214013724663_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.26]]></versionName>
+		<versionCode>112600000</versionCode> 
+		<realContentSize>2088459</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
+
+
+The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
+
+[Essential Access Rights]
+- Storage: Save image files to the device
+
+If your system software version is lower than Android 6.0, please update the software to configure App permissions.
+Previously allowed permissions can be reset on Apps menu in device settings after software update.
+
+#GoodLockFriends]]></description>
+		</appInfo>
+	<appInfo>
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
@@ -262,6 +142,98 @@ HomeUp is the extension edition of One UI Home.
   : Access to Storage is required to back up the preview screen and layout.
 
 <HOME_HOMESTAR:3001:5002>]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003002072</productID>
+		<productName><![CDATA[LockStar]]></productName>
+		<appId>com.samsung.systemui.lockstar</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20240524084649139_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.00.12]]></versionName>
+		<versionCode>110012000</versionCode> 
+		<realContentSize>7371593</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Create new Lockscreen style
+
+You can decorate your lockscreen wallpapers more beautiful.
+
+[Target]
+- Android O os 8.0 SAMSUNG devices.
+
+[Language]
+- Korean
+- English
+- Simplified Chinese
+
+[Required permissions]
+1. Storage (Required)
+  : Access to Storage is required to show the wallpaper on the preview screen.
+2.  Contacts (Required)
+  : Access to Storage is required to show the Contacts information location on the preview screen.
+
+<LOCKSTAR:1003:3501>#1]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003266196</productID>
+		<productName><![CDATA[MultiStar]]></productName>
+		<appId>com.samsung.android.multistar</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20240502015417481_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.5.02]]></versionName>
+		<versionCode>250200000</versionCode> 
+		<realContentSize>5494099</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
+
+[Description]
+[ One UI 4]
+Improved usability on the cover screen of Flip 3. (※ Always On Display  v7.1.30.4 or later)
+-Cover launcher widget
+ Launch game apps or some media apps directly from the cover screen. (Flip 3 target, you can add up to 5 apps)
+
+Use Multi window without pausing
+- You can use several apps at the same time on the Multi window mode without stopping.
+
+[One UI 3 (Android 11)]
+Immersive Mode 
+- Hide status bar and navigation bar in split screen view
+ 
+The app size stretch to camera hole 
+- Open the app by widening the camera area
+
+[One UI 2 (Android 10)]
+Enable Multi window to all apps 
+- All apps can be launched in a Popup window and split screen.
+
+[One UI 1 (Android 9)]
+Ghost Mode 
+- When you use Popup Window, you can adjust the transparency of Windows so that you can see what is under the window.
+
+Floating Notification 
+- You can receive notifications in the form of icons.
+
+
+[Target]
+- Android O os 8.1~  SAMSUNG devices.
+
+[Language]
+- English
+- Korean
+- Chinese
+
+[Version Code]
+<MULTISTAR:1000:7001>
+#6]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003488383</productID>
@@ -303,164 +275,6 @@ HomeUp is the extension edition of One UI Home.
 [Version Code]
 <NAVSTAR:1001:9000>
 #7]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003205433</productID>
-		<productName><![CDATA[Routines]]></productName>
-		<appId>com.samsung.android.app.routine2</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003205433/IconImage_20230626112501570_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.3.00.4]]></versionName>
-		<versionCode>130001004</versionCode> 
-		<realContentSize>9030256</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Shorten your task.
-
-[Description]
-At the right time or place, your custom routines do just what you need.
-Set up auto actions based on your situation.
-
-[Language]
-- Korean
-- English
-- Chinese
-
-#4]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000004623161</productID>
-		<productName><![CDATA[Theme Park]]></productName>
-		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20240513010255851_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.09.72]]></versionName>
-		<versionCode>100972000</versionCode> 
-		<realContentSize>23798718</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily.
-
-It extracts dominant colors from wallpaper and creates theme automatically based on user's style and the colors. Users can see the final appearance from preview screens. Create your own theme that can express your personality!
-
-
-
-Main feature
-
-▣ Creating a theme from a background image
-  ■ The theme color is automatically determined from the background image.
-  ■ You can change the colors of the style.
-  ■ The theme include colors for light mode theme and dark mode.
-  ■ You can edit the color of the icon or the color of the tray. (OneUI 2.0)
-  ■ You can apply icon packs downloaded from the theme store. (OneUI 2.5)
-  ■ You can change the color of the keyboard and key cap images. (OneUI 2.5)
-  ■ You can customize the quick panel as you wish. (OneUI 3.0)
-
-▣ Creating a theme for samsung keyboard (OneUI 2.5, with KeysCafe)
-  ■ You can apply a keyboard theme separately from the main theme.
-  ■ You can easily create a keyboard theme by selecting a basic color and style.
-  ■ You can customize keycaps and text colors to your own color or image.
-  ■ Templates for key cap is provided.
-
-▣ Deciding whether to apply the theme for each app (OneUI 2.5)
-  ■ You can decide whether to apply the theme for each app.
-
-▣ Creating a theme for quick panel (OneUI 3.0)
-  ■ You can apply the theme for quick panel separately from the main theme.
-  ■ You can easily create a theme for a quick panel by selecting a basic color and style.
-  ■ You can change the color of each part of the quick panel.
-
-▣ Tablet device support (OneUI 3.0)
-  ■ You can use the theme park on tablet devices with OneUI 3.0 or higher.
-  ■ Landscape mode is also supported on devices with sw700 or higher.
-
-
-
-Cautions
-  ■ Previews could be not matched with actual screen that the theme is applied.
-  ■ The applications supported by theme can be varied based on version.
-  ■ Some features may not be available depending on the Android version.
-
-Permissions
-  To provide this service, following permission are needed.
-  ■ Storage: Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
-
-#GoodLockFriends #2]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003926817</productID>
-		<productName><![CDATA[Nice Shot]]></productName>
-		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20240222043541450_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.18]]></versionName>
-		<versionCode>101800000</versionCode> 
-		<realContentSize>96227744</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[[One UI 5]
-○ Screen capture : Delete the "Do not copy image to the clipboard when saving" setting
-                         (Do not support saving the clipboard when capturing from One UI 5)
-○ Screen recording : Delete the "Selfie video options -> Selfie video size" setting
-                           (※ Please use the settings in "Settings -> Advanced features -> Screenshots and screen recorder" of the device.)
-
-[One UI 4]
-* Each menu offered will appear differently on the specifications supported by the device.
-○ Screen capture : Provides settings such as activating the delete button immediately when capturing the screen, not saving it to the clipboard, and turning off the magnet effect after capturing.
-
-○ Screen recording : You can set various backgrounds when shooting self-videos, and you can automatically run the Do Not Disturb mode when recording screens.
-
-[Before Q os]
-Provides a variety of screenshot options.
-(Some functions are available only on smart capture support devices.)
-Provides a variety of screen shot options.(Some functions are available only on smart capture support terminals.)
-- Save Format: Change the screen shot format to PNG or JPG.
-- Automatic removal of system UI: Remove indicator and navigation bar and save.
-- #Tag: We recommend Tag for easy classification after smart capture.
-- Automatic deletion after sharing: It will be automatically deleted from the Smart Capture toolbar when it is not saved in Gallery.
-- Screen Recording: Provides screen recording function.
-
-* Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000003084395</productID>
-		<productName><![CDATA[EdgeTouch]]></productName>
-		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20231214013724663_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.26]]></versionName>
-		<versionCode>112600000</versionCode> 
-		<realContentSize>2088459</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
-
-
-The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
-
-[Essential Access Rights]
-- Storage: Save image files to the device
-
-If your system software version is lower than Android 6.0, please update the software to configure App permissions.
-Previously allowed permissions can be reset on Apps menu in device settings after software update.
-
-#GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003711875</productID>
@@ -508,6 +322,90 @@ Press "Vibration history" in app's main screen and you get a list of application
 (please make sure that the switch is enabled before use.)
 
 #GoodLockFriends #3]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003926817</productID>
+		<productName><![CDATA[Nice Shot]]></productName>
+		<appId>com.samsung.android.app.captureplugin</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20240222043541450_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.18]]></versionName>
+		<versionCode>101800000</versionCode> 
+		<realContentSize>96227744</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[[One UI 5]
+○ Screen capture : Delete the "Do not copy image to the clipboard when saving" setting
+                         (Do not support saving the clipboard when capturing from One UI 5)
+○ Screen recording : Delete the "Selfie video options -> Selfie video size" setting
+                           (※ Please use the settings in "Settings -> Advanced features -> Screenshots and screen recorder" of the device.)
+
+[One UI 4]
+* Each menu offered will appear differently on the specifications supported by the device.
+○ Screen capture : Provides settings such as activating the delete button immediately when capturing the screen, not saving it to the clipboard, and turning off the magnet effect after capturing.
+
+○ Screen recording : You can set various backgrounds when shooting self-videos, and you can automatically run the Do Not Disturb mode when recording screens.
+
+[Before Q os]
+Provides a variety of screenshot options.
+(Some functions are available only on smart capture support devices.)
+Provides a variety of screen shot options.(Some functions are available only on smart capture support terminals.)
+- Save Format: Change the screen shot format to PNG or JPG.
+- Automatic removal of system UI: Remove indicator and navigation bar and save.
+- #Tag: We recommend Tag for easy classification after smart capture.
+- Automatic deletion after sharing: It will be automatically deleted from the Smart Capture toolbar when it is not saved in Gallery.
+- Screen Recording: Provides screen recording function.
+
+* Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000004085658</productID>
+		<productName><![CDATA[NotiStar]]></productName>
+		<appId>com.samsung.systemui.notilus</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20231227015724352_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.0.32.0]]></versionName>
+		<versionCode>603200000</versionCode> 
+		<realContentSize>9506259</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[NotiStar is new notification management service
+
+[Description]
+NotiStar is new notification management service
+By using this, You can manage many of the notifications you have received so far
+In addition, you can search for delivered notifications or categorize them as you like.
+All of these notifications are always there before you delete them.
+We are trying to make fresh experience for users.
+
+Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is created on the home screen
+
+[Target]
+- Android T OS 13.0 SAMSUNG devices.
+- Android S OS 12.0 SAMSUNG devices.
+- Android R OS 11.0 SAMSUNG devices.
+- Android Q OS 10.0 SAMSUNG devices.
+- Android P OS 9.0 SAMSUNG devices.
+
+[Language]
+- Korean
+- English
+- Chinese
+
+[Optional permission]
+- Storage (Optional)
+  : When editing icons accessible on the lock screen, Storage is accessed to show the wallpaper on the preview screen.
+
+[Version Code]
+<NOTISTAR:2001:7001>]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003036952</productID>
@@ -576,38 +474,78 @@ Thank you.
 #GoodLockFriends #5]]></description>
 		</appInfo>
 	<appInfo>
-		<productID>000003032367</productID>
-		<productName><![CDATA[Task Changer]]></productName>
-		<appId>com.samsung.android.pluginrecents</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003032367/IconImage_20220530071523449_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<productID>000003084407</productID>
+		<productName><![CDATA[QuickStar]]></productName>
+		<appId>com.samsung.android.qstuner</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20240513010237685_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[3.0.00.23]]></versionName>
-		<versionCode>300023000</versionCode> 
-		<realContentSize>7412507</realContentSize>
+		<versionName><![CDATA[2.5.03.4]]></versionName>
+		<versionCode>250304000</versionCode> 
+		<realContentSize>3520520</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Task Changer with new style.
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your special Quickpanel.
 
-*Attention*
-As a standalone app, 'Task Changer' can only be used for one UI 2 (Android 10).
-Task Changer is provided as a submenu of Home Up after One UI 3. (Home Up > Task Changer)
+[Description]
+- Make a simple status bar.
 
+<One UI 5>
+ ※ Support seconds clock on panel.
+ ※ Support date clock on indicator.
+
+<One UI 4>
+ ※ Improve app stability.
+
+[Detail Description]
+QuickStar is QuickPanel Star a SystemUI service app for early adopters.
+QuickStar is a plugin application for customizing SAMSUNG SystemUI Quicksettings components.
+By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provides.
+We are trying to make a fresh experience for users.
 
 [Target]
-- Android O, P, Q OS SAMSUNG devices.
+- Android 8 or higher devices
 
 [Language]
 - Korean
 - English
-- Simplified Chinese
+- Chinese
+- Japanese
 
 [Version Code]
-<RECENTS:1001:3001>
-#3]]></description>
+<SLIMINDICATOR:1003:7005>
+#2]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000003205433</productID>
+		<productName><![CDATA[Routines]]></productName>
+		<appId>com.samsung.android.app.routine2</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003205433/IconImage_20230626112501570_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.3.00.4]]></versionName>
+		<versionCode>130001004</versionCode> 
+		<realContentSize>9030256</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Shorten your task.
+
+[Description]
+At the right time or place, your custom routines do just what you need.
+Set up auto actions based on your situation.
+
+[Language]
+- Korean
+- English
+- Chinese
+
+#4]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003206291</productID>
@@ -664,39 +602,101 @@ Provide custom effect creation option.
 #GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
-		<productID>000003002072</productID>
-		<productName><![CDATA[LockStar]]></productName>
-		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20240524084649139_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<productID>000003032367</productID>
+		<productName><![CDATA[Task Changer]]></productName>
+		<appId>com.samsung.android.pluginrecents</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003032367/IconImage_20220530071523449_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.00.12]]></versionName>
-		<versionCode>110012000</versionCode> 
-		<realContentSize>7371593</realContentSize>
+		<versionName><![CDATA[3.0.00.23]]></versionName>
+		<versionCode>300023000</versionCode> 
+		<realContentSize>7412507</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Create new Lockscreen style
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Task Changer with new style.
 
-You can decorate your lockscreen wallpapers more beautiful.
+*Attention*
+As a standalone app, 'Task Changer' can only be used for one UI 2 (Android 10).
+Task Changer is provided as a submenu of Home Up after One UI 3. (Home Up > Task Changer)
+
 
 [Target]
-- Android O os 8.0 SAMSUNG devices.
+- Android O, P, Q OS SAMSUNG devices.
 
 [Language]
 - Korean
 - English
 - Simplified Chinese
 
-[Required permissions]
-1. Storage (Required)
-  : Access to Storage is required to show the wallpaper on the preview screen.
-2.  Contacts (Required)
-  : Access to Storage is required to show the Contacts information location on the preview screen.
+[Version Code]
+<RECENTS:1001:3001>
+#3]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000004623161</productID>
+		<productName><![CDATA[Theme Park]]></productName>
+		<appId>com.samsung.android.themedesigner</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20240513010255851_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.09.72]]></versionName>
+		<versionCode>100972000</versionCode> 
+		<realContentSize>23798718</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily.
 
-<LOCKSTAR:1003:3501>#1]]></description>
+It extracts dominant colors from wallpaper and creates theme automatically based on user's style and the colors. Users can see the final appearance from preview screens. Create your own theme that can express your personality!
+
+
+
+Main feature
+
+▣ Creating a theme from a background image
+  ■ The theme color is automatically determined from the background image.
+  ■ You can change the colors of the style.
+  ■ The theme include colors for light mode theme and dark mode.
+  ■ You can edit the color of the icon or the color of the tray. (OneUI 2.0)
+  ■ You can apply icon packs downloaded from the theme store. (OneUI 2.5)
+  ■ You can change the color of the keyboard and key cap images. (OneUI 2.5)
+  ■ You can customize the quick panel as you wish. (OneUI 3.0)
+
+▣ Creating a theme for samsung keyboard (OneUI 2.5, with KeysCafe)
+  ■ You can apply a keyboard theme separately from the main theme.
+  ■ You can easily create a keyboard theme by selecting a basic color and style.
+  ■ You can customize keycaps and text colors to your own color or image.
+  ■ Templates for key cap is provided.
+
+▣ Deciding whether to apply the theme for each app (OneUI 2.5)
+  ■ You can decide whether to apply the theme for each app.
+
+▣ Creating a theme for quick panel (OneUI 3.0)
+  ■ You can apply the theme for quick panel separately from the main theme.
+  ■ You can easily create a theme for a quick panel by selecting a basic color and style.
+  ■ You can change the color of each part of the quick panel.
+
+▣ Tablet device support (OneUI 3.0)
+  ■ You can use the theme park on tablet devices with OneUI 3.0 or higher.
+  ■ Landscape mode is also supported on devices with sw700 or higher.
+
+
+
+Cautions
+  ■ Previews could be not matched with actual screen that the theme is applied.
+  ■ The applications supported by theme can be varied based on version.
+  ■ Some features may not be available depending on the Android version.
+
+Permissions
+  To provide this service, following permission are needed.
+  ■ Storage: Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
+
+#GoodLockFriends #2]]></description>
 		</appInfo>
 	<serverType>PRD</serverType>
 </result>
