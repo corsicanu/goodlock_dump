@@ -617,10 +617,10 @@ Set double tap to shortcut by pressing S Pen
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[7.2.06.35]]></versionName>
-		<versionCode>720635000</versionCode> 
-		<realContentSize>15302156</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.3.06.50]]></versionName>
+		<versionCode>730650000</versionCode> 
+		<realContentSize>15412929</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
