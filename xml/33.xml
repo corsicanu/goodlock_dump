@@ -448,10 +448,10 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.0.32.0]]></versionName>
-		<versionCode>603200000</versionCode> 
-		<realContentSize>9506259</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.0.92.0]]></versionName>
+		<versionCode>609200000</versionCode> 
+		<realContentSize>10084435</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -635,10 +635,10 @@ We are trying to make a fresh experience for users.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.0.48]]></versionName>
-		<versionCode>104800000</versionCode> 
-		<realContentSize>32400698</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.54]]></versionName>
+		<versionCode>105400000</versionCode> 
+		<realContentSize>32441916</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
