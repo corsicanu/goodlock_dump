@@ -614,10 +614,10 @@ English, Korean, Chinese
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[5.2.00.1]]></versionName>
-		<versionCode>520000001</versionCode> 
-		<realContentSize>23373826</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.1.00.7]]></versionName>
+		<versionCode>610000007</versionCode> 
+		<realContentSize>26794443</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
