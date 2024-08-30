@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>19</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -493,10 +493,10 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[7.1.23.0]]></versionName>
-		<versionCode>712300000</versionCode> 
-		<realContentSize>8084961</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.2.21.0]]></versionName>
+		<versionCode>722100000</versionCode> 
+		<realContentSize>6906954</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
