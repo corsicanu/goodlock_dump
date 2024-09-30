@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>17</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000003202866</productID>
@@ -726,10 +726,10 @@ Permissions
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.5.16]]></versionName>
-		<versionCode>151600000</versionCode> 
-		<realContentSize>87490125</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.5.21]]></versionName>
+		<versionCode>152100000</versionCode> 
+		<realContentSize>86814338</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
