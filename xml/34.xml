@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>20</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -617,10 +617,10 @@ Set double tap to shortcut by pressing S Pen
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[7.3.06.50]]></versionName>
-		<versionCode>730650000</versionCode> 
-		<realContentSize>15412929</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.4.07.56]]></versionName>
+		<versionCode>740756000</versionCode> 
+		<realContentSize>15422106</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -843,10 +843,10 @@ Permissions
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.5.16]]></versionName>
-		<versionCode>151600000</versionCode> 
-		<realContentSize>87490125</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.5.21]]></versionName>
+		<versionCode>152100000</versionCode> 
+		<realContentSize>86814338</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
