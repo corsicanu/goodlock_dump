@@ -66,53 +66,6 @@ The following features are also available.
 #GoodLockFriends #10]]></description>
 		</appInfo>
 	<appInfo>
-		<productID>000003202866</productID>
-		<productName><![CDATA[ClockFace]]></productName>
-		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20240821070232848_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[3.1.07.0]]></versionName>
-		<versionCode>310700000</versionCode> 
-		<realContentSize>161373702</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
-
-[ONE UI 6.1]
-added font/weather item ( From S24 models)
-added framed image(GIF) item.
-
-[ONE UI 6.0]
-added framed image(GIF) item.
-
-[ONE UI 5.0]
-Support Tablet ( From Galaxy Tab S8)
-
-[ONE UI 4.1]
-Connect a Galaxy Watch to preview more watch faces (※ However, created by Watch Face Studio)
-
-[One UI 3]
-Create a clockface to your taste. 
-You can select the clockface style and decorate it by adding text, images and GIFs.
-Enjoy your own clockface on Lockscreen and AOD
- - Create clockface: You can change the style and color of an hour hand, minute hand, pin, background, etc.
- - Apply the clockface on Lockscreen and AOD
-
-
-[Target]
-- Android 9/10/11 SAMSUNG devices.
-
-[Language]
-- Korean
-- English
-- Simplified Chinese
-#5]]></description>
-		</appInfo>
-	<appInfo>
 		<productID>000007063417</productID>
 		<productName><![CDATA[Edge lighting+]]></productName>
 		<appId>com.samsung.android.edgelightingplus</appId>
@@ -175,9 +128,9 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[15.0.01.19]]></versionName>
-		<versionCode>1500100019</versionCode> 
-		<realContentSize>16766030</realContentSize>
+		<versionName><![CDATA[16.0.00.1]]></versionName>
+		<versionCode>1600005001</versionCode> 
+		<realContentSize>40475969</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
