@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>17</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000003202866</productID>
@@ -303,10 +303,10 @@ Floating Notification
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.0.01.3]]></versionName>
-		<versionCode>600100003</versionCode> 
-		<realContentSize>6913031</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.0.00.0]]></versionName>
+		<versionCode>700000000</versionCode> 
+		<realContentSize>6209157</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -619,7 +619,7 @@ English, Korean, Chinese
 		<versionCode>610000009</versionCode> 
 		<realContentSize>26794146</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<sellerName><![CDATA[Good Lock Labs ]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
 
