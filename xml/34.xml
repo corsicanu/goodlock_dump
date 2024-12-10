@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>20</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -142,7 +142,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20241204082801658_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20241210040054663_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -158,8 +158,9 @@ Enjoy your own clockface on Lockscreen and AOD
 
 The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
 
-[Essential Access Rights]
-- Storage: Save image files to the device
+[Optional permissions]
+- Photos and videos : Save image files to the device
+- Notification : Show selected edge zone information
 
 If your system software version is lower than Android 6.0, please update the software to configure App permissions.
 Previously allowed permissions can be reset on Apps menu in device settings after software update.
@@ -776,7 +777,7 @@ Provide custom effect creation option.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20241130043112997_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20241210035556851_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -829,9 +830,10 @@ Cautions
   ■ The applications supported by theme can be varied based on version.
   ■ Some features may not be available depending on the Android version.
 
-Permissions
+
+Permissions (Required)
   To provide this service, following permission are needed.
-  ■ Storage: Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
+  ■ Photos and videos (Storage): Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
 
 #GoodLockFriends #2]]></description>
 		</appInfo>
