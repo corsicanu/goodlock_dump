@@ -182,10 +182,10 @@ HomeUp is the extension edition of One UI Home.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.6.01.10]]></versionName>
-		<versionCode>160100010</versionCode> 
-		<realContentSize>79688394</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.6.01.11]]></versionName>
+		<versionCode>160100011</versionCode> 
+		<realContentSize>79850044</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
