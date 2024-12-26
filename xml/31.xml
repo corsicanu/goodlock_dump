@@ -120,7 +120,7 @@ HomeUp is the extension edition of One UI Home.
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20241202080719917_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20241226095208731_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -300,7 +300,7 @@ Floating Notification
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20241204091714047_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20241226095138324_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -347,7 +347,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003926817</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20241115063255762_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20241226094542511_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -435,10 +435,10 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[7.1.23.0]]></versionName>
-		<versionCode>712300000</versionCode> 
-		<realContentSize>8084961</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.3.19.0]]></versionName>
+		<versionCode>731900000</versionCode> 
+		<realContentSize>8164949</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -497,7 +497,7 @@ Thank you.
 		<productID>000005198690</productID>
 		<productName><![CDATA[Pentastic]]></productName>
 		<appId>com.samsung.android.pentastic</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20241115023340607_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20241226094518214_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -729,7 +729,7 @@ Permissions (Required)
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20241115070314219_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20241226095030256_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
