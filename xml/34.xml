@@ -142,14 +142,14 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20241225230128586_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20250103023448303_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.2.29]]></versionName>
-		<versionCode>122900000</versionCode> 
-		<realContentSize>4694148</realContentSize>
+		<discountFlag></discountFlag>
+		<versionName><![CDATA[1.1.26]]></versionName>
+		<versionCode>112600000</versionCode> 
+		<realContentSize>2088459</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -781,10 +781,10 @@ Provide custom effect creation option.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.1.00.23]]></versionName>
-		<versionCode>110023000</versionCode> 
-		<realContentSize>33832065</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.01.5]]></versionName>
+		<versionCode>110105000</versionCode> 
+		<realContentSize>37582764</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
