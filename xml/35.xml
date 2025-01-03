@@ -95,14 +95,14 @@ The following features are also available.
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20241225230128586_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20250103023448303_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.2.29]]></versionName>
-		<versionCode>122900000</versionCode> 
-		<realContentSize>4694148</realContentSize>
+		<discountFlag></discountFlag>
+		<versionName><![CDATA[1.1.26]]></versionName>
+		<versionCode>112600000</versionCode> 
+		<realContentSize>2088459</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -246,10 +246,10 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[7.2.19]]></versionName>
-		<versionCode>721900000</versionCode> 
-		<realContentSize>16924756</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.0.15]]></versionName>
+		<versionCode>901500000</versionCode> 
+		<realContentSize>16989827</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -734,10 +734,10 @@ Provide custom effect creation option.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.1.00.23]]></versionName>
-		<versionCode>110023000</versionCode> 
-		<realContentSize>33832065</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.01.5]]></versionName>
+		<versionCode>110105000</versionCode> 
+		<realContentSize>37582764</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
