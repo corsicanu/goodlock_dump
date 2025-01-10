@@ -51,7 +51,7 @@ jobs:
             os: "14"
             csc: "EUX"
             oneui: "60100"
-          - device: "SM-S928B"
+          - device: "SM-S938B"
             sdk: "35"
             os: "15"
             csc: "EUX"
