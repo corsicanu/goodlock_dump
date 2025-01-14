@@ -1,7 +1,7 @@
 # GoodLock Dump repository
 ### File repository for Patched GoodLock Manager
 ```
-Copyright 2020-2023 © corsicanu
+Copyright 2017-2025 © corsicanu
 Licensed under CC BY-NC-SA 4.0
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 ```
