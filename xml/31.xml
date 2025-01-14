@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>17</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000003202866</productID>
@@ -59,10 +59,10 @@ Enjoy your own clockface on Lockscreen and AOD
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.1.26]]></versionName>
-		<versionCode>112600000</versionCode> 
-		<realContentSize>2088459</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.2.29]]></versionName>
+		<versionCode>122900000</versionCode> 
+		<realContentSize>4694148</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
