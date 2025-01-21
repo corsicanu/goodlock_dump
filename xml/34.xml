@@ -120,10 +120,10 @@ Enjoy your own clockface on Lockscreen and AOD
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.1.00.6]]></versionName>
-		<versionCode>610000006</versionCode> 
-		<realContentSize>10126120</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.0.00.9]]></versionName>
+		<versionCode>700000009</versionCode> 
+		<realContentSize>10910318</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -618,10 +618,10 @@ Set double tap to shortcut by pressing S Pen
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[7.4.07.56]]></versionName>
-		<versionCode>740756000</versionCode> 
-		<realContentSize>15422106</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.0.02.18]]></versionName>
+		<versionCode>800218000</versionCode> 
+		<realContentSize>17503285</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -845,10 +845,10 @@ Permissions (Required)
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.5.21]]></versionName>
-		<versionCode>152100000</versionCode> 
-		<realContentSize>86814338</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.6.06]]></versionName>
+		<versionCode>160600000</versionCode> 
+		<realContentSize>87512290</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
