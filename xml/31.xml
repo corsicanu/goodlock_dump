@@ -527,7 +527,7 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20241204091538261_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250121021635318_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -566,7 +566,7 @@ We are trying to make a fresh experience for users.
 - Japanese
 
 [Version Code]
-<SLIMINDICATOR:1003:7005>
+<SLIMINDICATOR:1003:8000>
 #2]]></description>
 		</appInfo>
 	<appInfo>
