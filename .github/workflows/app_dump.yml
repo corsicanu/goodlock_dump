@@ -61,7 +61,7 @@ jobs:
 
       - name: Calculate systemId
         id: calculate_system_id
-        run: echo "systemId=$(($(date +%s) - 180))" >> $GITHUB_ENV
+        run: echo "systemId=$(($(date +%s) - 172800))" >> $GITHUB_ENV
 
       - name: Check for update
         id: check

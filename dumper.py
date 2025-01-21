@@ -54,9 +54,9 @@ query_params = {
 }
 url = f"{base_url}?{'&'.join([f'{key}={value}' for key, value in query_params.items()])}"
 
-# Calculate systemId (current epoch time minus 180 seconds)
+# Calculate systemId (current epoch time - 172800s / 48h )
 current_time = int(time.time())
-system_id = current_time - 180
+system_id = current_time - 172800
 
 # Update query_params with the new systemId
 query_params["systemId"] = str(system_id)
