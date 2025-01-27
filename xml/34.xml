@@ -8,7 +8,7 @@
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20241115063122853_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20250127174040821_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -20,12 +20,13 @@
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
+
 [Description]
 It provides ON/OFF features for the following features:
 - Zoom shortcuts
   Select the extra zoom shortcuts to show in Camera.
 - Auto HDR
-  Capture more details in the bright and dark areas of your pictures and videos.
+  Blend the best parts of multiple exposures into a single picture with improved colour and detail.
 - Picture softening
   Smooth out sharp edges and textures in Photo mode pictures.
 - Auto lens switching
@@ -46,8 +47,12 @@ It provides ON/OFF features for the following features:
   Automatically correct images flipped by external depth-of-field adapters. This correction is only applied in Pro and Pro Video modes.
 - Anamorphic lens correction
   Automatically de-squeeze previews and videos to correct distortion from external anamorphic lenses. This correction is only applied in Pro Video mode while using 16:9 ratio (8K and 120 fps excluded).
+- HDR10+
+  Optimize the color and contrast of videos recorded in Video and Pro video modes. When HDR of the camera setting is turned on, it can be used.
 - Audio monitoring
   Monitor the sound to be recorded in video modes through external output devices such as BT, HDMI, and USB earphones.
+- Save videos to external storage
+  Automatically save videos to an external storage device connected to the USB-C port on your phone. Compatible with Video, Pro video, Portrait Video, Slow motion, and Hyperlapse modes.
 - Clean preview on HDMI displays
   Show the camera preview without settings or buttons on HDMI-connected displays.
 
