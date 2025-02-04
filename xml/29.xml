@@ -112,7 +112,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20241204091821357_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250204000750577_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -129,20 +129,20 @@ HOME UP!
 
 HomeUp is the extension edition of One UI Home.
 
-1. Use various layouts in home screen, apps and folder.
-2. Diversify background Blur effect.
-3. Page looping in Apps.
-4. Recommend folder names
-5. Customize folder popup styles and layouts
-6. Restore home screen layout
-7. Edit Share-via window
-8. Customize recent app window type
+1. Redesign your homescreen with DIY Home 
+2. Create your own gestures animation
+3. Use various layouts in home screen, apps and folder
+4. Customize Popup folder styles and layouts
+5. Restore homescreen layout
+6. Customize recent app window type 
+7. Customize your Edge panels
+8. Edit Share-via window
 
 [Required permission]
 - Storage (Required)
   : Access to Storage is required to back up the preview screen and layout.
 
-<HOME_HOMESTAR:3001:5002>]]></description>
+<HOME_HOMESTAR:3001:6100>]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000005293390</productID>
