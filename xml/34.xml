@@ -665,14 +665,14 @@ We are trying to make a fresh experience for users.
 		<productID>000006559401</productID>
 		<productName><![CDATA[RegiStar]]></productName>
 		<appId>com.samsung.android.app.galaxyregistry</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20241226095235410_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20250206063141517_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.54]]></versionName>
-		<versionCode>105400000</versionCode> 
-		<realContentSize>32441916</realContentSize>
+		<versionName><![CDATA[1.0.58]]></versionName>
+		<versionCode>105800000</versionCode> 
+		<realContentSize>20357387</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -851,9 +851,9 @@ Permissions (Required)
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.6.06]]></versionName>
-		<versionCode>160600000</versionCode> 
-		<realContentSize>87512290</realContentSize>
+		<versionName><![CDATA[1.5.21]]></versionName>
+		<versionCode>152100000</versionCode> 
+		<realContentSize>86814338</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
