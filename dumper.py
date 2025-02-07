@@ -36,20 +36,24 @@ with open("versions.txt", "a") as versions_file:
 base_url = "http://vas.samsungapps.com/product/getContentCategoryProductList.as"
 query_params = {
     "contentCategoryID": "0000005309",
-    "deviceId": args.deviceId,
-    "sdkVer": args.sdk,
+    "versionCode": "301001000",
     "mcc": "262",
     "mnc": "01",
     "csc": args.csc,
+    "deviceId": args.deviceId,
+    "sdkVer": args.sdk,
+    "callerId": "com.samsung.android.goodlock",
+    "extuk": "0191d6627f38685f",
+    "abiType": "64",
+    "oneUiVersion": args.version,
+    "cc": "NONE",
     "imgWidth": "512",
     "imgHeight": "512",
     "startNum": "1",
     "endNum": "100",
     "alignOrder": "alphabetical",
-    "callerId": "com.samsung.android.goodlock",
-    "cc": "NONE",
-    "abiType": "64",
-    "oneUiVersion": args.version,
+    "installInfo": "Y",
+    "pd": "0"
 }
 url = f"{base_url}?{'&'.join([f'{key}={value}' for key, value in query_params.items()])}"
 
@@ -69,9 +73,10 @@ app_ids = [element.text for element in root.findall(".//appId")]
 # Step 5: Loop through extracted "appId" values
 for app_id in app_ids:
     # Step 6: Construct Subsequent URL
-    subsequent_url = f"https://vas.samsungapps.com/stub/stubDownload.as?appId={app_id}&deviceId={args.deviceId}&mcc=262&mnc=01&csc={args.csc}&sdkVer={args.sdk}&pd=0&callerId=com.sec.android.app.samsungapps&abiType=64&extuk=0191d6627f38685f"
+    subsequent_url = f"https://vas.samsungapps.com/stub/stubDownload.as?appId={app_id}&callerId=com.samsung.android.goodlock&callerVersion=301001000&extuk=0191d6627f38685f&deviceId={args.deviceId}&mcc=262&mnc=01&csc={args.csc}&sdkVer={args.sdk}&abiType=64&abiType=64&oneUiVersion={args.version}&isAutoUpdate=0&cc=NONE&pd=0&updateType=ond&versionCode=-1"
 
     # Step 7: Perform Subsequent cURL Request
+    print(f"Checking with {subsequent_url}")
     subsequent_response = requests.get(subsequent_url)
     
     if subsequent_response.status_code == 200:
