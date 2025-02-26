@@ -247,14 +247,14 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000007063417</productID>
 		<productName><![CDATA[Edge lighting+]]></productName>
 		<appId>com.samsung.android.edgelightingplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000007063417/IconImage_20250212063456289_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000007063417/IconImage_20250226054339570_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[6.1.00.6]]></versionName>
-		<versionCode>610000006</versionCode> 
-		<realContentSize>10126120</realContentSize>
+		<versionName><![CDATA[7.0.00.12]]></versionName>
+		<versionCode>700000012</versionCode> 
+		<realContentSize>10910121</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS_FULL||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS</permission>
 			<updateDescription><![CDATA[<v7.0.00.12>
@@ -282,7 +282,7 @@ Fixed an issue leading to unexpected app closure during effect processing at sta
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250218025618116_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250226054315528_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1003,7 +1003,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003926817</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20241226094542511_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20250226040315326_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1045,7 +1045,7 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250120083014278_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250226040341067_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1204,7 +1204,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20250110031638278_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20250226054246291_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1276,7 +1276,7 @@ Thank you.
 		<productID>000005198690</productID>
 		<productName><![CDATA[Pentastic]]></productName>
 		<appId>com.samsung.android.pentastic</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20241226094518214_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20250226045303551_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
