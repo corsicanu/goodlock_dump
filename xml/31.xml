@@ -137,7 +137,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250307075026599_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250313014410192_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -411,7 +411,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20241204091756272_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20250313051410925_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -420,8 +420,12 @@ Provides advanced functions related to Samsung Keyboard.
 		<versionCode>300032000</versionCode> 
 		<realContentSize>64610116</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>READ_CONTACTS||FOREGROUND_SERVICE||MEDIA_CONTENT_CONTROL||INTERACT_ACROSS_USERS_FULL||WRITE_SECURE_SETTINGS||WAKE_LOCK||MANAGE_USERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||BIND_APPWIDGET||SET_WALLPAPER||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v6.1.00.18>
+		<permission>FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||INTERACT_ACROSS_USERS_FULL||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||MANAGE_USERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||MANAGE_FINGERPRINT||USE_BIOMETRIC_INTERNAL||BIND_APPWIDGET||SET_WALLPAPER||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
+			<updateDescription><![CDATA[<v7.0.00.14>
+- Supports devices for One UI 7.0
+- Integrated the LockStar settings screen with the preload lock screen editor
+
+<v6.1.00.18>
 - Fixed the issue of clock display and editing in the LockStar app on Flip 6
 - Other errors improved
 
@@ -540,14 +544,9 @@ You can decorate your lockscreen wallpapers more beautiful.
 - Korean
 - English
 - Simplified Chinese
+- Japanese
 
-[Required permissions]
-1. Storage (Required)
-  : Access to Storage is required to show the wallpaper on the preview screen.
-2.  Contacts (Required)
-  : Access to Storage is required to show the Contacts information location on the preview screen.
-
-<LOCKSTAR:1003:3501>#1]]></description>
+<LOCKSTAR:1003:4003>#1]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003266196</productID>
