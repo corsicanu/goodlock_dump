@@ -147,7 +147,12 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<realContentSize>23332808</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||WRITE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v16.0.00.58>
+			<updateDescription><![CDATA[<v16.0.0.60>
+ -Fixed a bug where widget updates were not applied after changing wallpapers while using DIY Home
+ - Improved handling of nested items when moving them in DIY Home edit mode
+ - Fixed other bugs
+
+<v16.0.00.58>
 - Fixed the 'OneUI Home' force close issue due to conflict with specific resource when entering homescreen editing screen while using DIY home screen
 - Fixed bugs where widgets remain transparent when deleting widgets using toolbar in DIY homescreen edit mode
 - Fixed some bugs
@@ -255,8 +260,7 @@ We will open the rest through app update at the end of March. Thank you :)
 
 <v2.0.00.27>
 - Support One UI 3 
-- Fix One UI Home F/C in Tablet 
-※ B&R feature will support only after upcoming One UI Home update, so please wait until then]]></updateDescription>
+- Fix One UI Home F/C in Tablet]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
