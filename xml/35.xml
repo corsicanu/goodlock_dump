@@ -148,6 +148,106 @@ The following features are also available.
 #GoodLockFriends #10]]></description>
 		</appInfo>
 	<appInfo>
+		<productID>000003202866</productID>
+		<productName><![CDATA[ClockFace]]></productName>
+		<appId>com.samsung.android.app.clockface</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20250313115552341_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[3.3.07.0]]></versionName>
+		<versionCode>330700000</versionCode> 
+		<realContentSize>157224953</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission>REQUEST_DELETE_PACKAGES||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||SUBSTITUTE_SHARE_TARGET_APP_NAME_AND_ICON||SYSTEM_ALERT_WINDOW||INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS</permission>
+			<updateDescription><![CDATA[<v3.3.7>
+※Version 3.3.X supports the One UI 7 device.
+- Support One UI 7
+
+<v3.1.7>
+※Version 3.1.X supports the One UI 6 device. 
+[Added] - One UI 6.1 and later devices
+     - Support for new fonts.
+     - Added a weather item.
+     - Support for frames on images (including GIFs). (One UI 6.0~)
+[Changed]
+※Devices that do not support "clock style" due to integration between lock screen and AOD will only support "Lock screen" clock style in this app.
+
+<3.0.08.0>
+- Updated a wearable plugin version in One UI 6
+
+<v3.0.07.0>
+- One UI 6 support
+- Added Japanese language support
+
+□ One UI 5
+<V2.3.23>
+※ Z Flip3 / Z Flip4
+ - Stabilization of clock style menu entry.
+
+<v2.3.19>
+ - Fixed the error that some existing clocks were forced to change after the app patch (v2.3.18) in order to keep the previous clocks.
+    ※ Notice for users who installed v2.3.18
+     1. Clocks created in v2.3.18 will be restored to the previous palette (first time only).
+     2. If you applied the sample clock provided in v2.3.18, it will revert to the sample clock of the previous version (v 2.3.6)(first time only).
+
+<v2.3.18>
+- support Zflip5 clocks.
+- support clear background on Image item.
+- added gif search(tenor).
+
+<v2.3.06.0>
+- Add GTS backup and restore (It will be working with GTS newer version.)
+
+□ One UI 3/4
+<v2.2.68>
+- Fixed the issue that Clock style is not updated at times
+
+<v2.2.57> 
+- Supported device extension and fix minor bugs
+
+<v2.2.31.2>
+- Available in One UI 4 based on Android 12
+
+□ One UI 1/2
+<v1.2.09>
+Pre-preparation for OneUI 3]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[ONE UI 6.1]
+added font/weather item ( From S24 models)
+added framed image(GIF) item.
+
+[ONE UI 6.0]
+added framed image(GIF) item.
+
+[ONE UI 5.0]
+Support Tablet ( From Galaxy Tab S8)
+
+[ONE UI 4.1]
+Connect a Galaxy Watch to preview more watch faces (※ However, created by Watch Face Studio)
+
+[One UI 3]
+Create a clockface to your taste. 
+You can select the clockface style and decorate it by adding text, images and GIFs.
+Enjoy your own clockface on Lockscreen and AOD
+ - Create clockface: You can change the style and color of an hour hand, minute hand, pin, background, etc.
+ - Apply the clockface on Lockscreen and AOD
+
+
+[Target]
+- Android 9/10/11 SAMSUNG devices.
+
+[Language]
+- Korean
+- English
+- Simplified Chinese
+#5]]></description>
+		</appInfo>
+	<appInfo>
 		<productID>000007063417</productID>
 		<productName><![CDATA[Edge lighting+]]></productName>
 		<appId>com.samsung.android.edgelightingplus</appId>
