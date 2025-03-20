@@ -151,7 +151,7 @@ The following features are also available.
 		<productID>000003202866</productID>
 		<productName><![CDATA[ClockFace]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20250313115552341_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20250320021145225_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -246,6 +246,45 @@ Enjoy your own clockface on Lockscreen and AOD
 - English
 - Simplified Chinese
 #5]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000007812075</productID>
+		<productName><![CDATA[Display Assistant]]></productName>
+		<appId>com.samsung.android.displayassistant</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000007812075/IconImage_20250320014551351_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.1.06]]></versionName>
+		<versionCode>710600000</versionCode> 
+		<realContentSize>5702878</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission>UPDATE_APP_OPS_STATS||FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||CONNECTIVITY_INTERNAL||START_FOREGROUND_SERVICES_FROM_BACKGROUND||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||POST_NOTIFICATIONS||FOREGROUND_SERVICE_MEDIA_PLAYBACK||PACKAGE_USAGE_STATS||STATUS_BAR||QUERY_ALL_PACKAGES||CONFIGURE_DISPLAY_BRIGHTNESS||INTERNAL_SYSTEM_WINDOW||DEVICE_POWER||INTERNET||SYSTEM_APPLICATION_OVERLAY||READ_PHONE_STATE</permission>
+			<updateDescription><![CDATA[<v7.1.06>
+ - Good lock friends
+
+<v7.0.20>
+ - Support OneUI 7.0]]></updateDescription>
+		<sellerName><![CDATA[Galaxy Labs ]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Display Assistant offers an extension to various display-related features.
+
+1. App's screen timeout : Set the screen timeout according to app characteristics. Try using this feature when you want to keep the screen turned on longer while using specific apps.
+2. Keep screen on : you can maintain the screen on even without touching it
+3. Brightness limit profile : Temporarily use this option when the device needs to maintain brightness even at high temperatures.
+4. Adaptive brightness options : Adjust the speed of the brightness change , Reset brightness usage pattern
+5. Standard refresh rate apps :  Add apps that don't require high refresh rates to increase battery life.
+6. Screen curtain :  The display enters doze state, making it effective for saving battery life. Try using it during long video playback or recoding.
+
+* Supported from One UI 7.0
+It may take some time for newly launched models to be supported.
+
+The app can be downloaded from the USA, Europe, Vietnam, South Korea, and China only.
+
+Supported language: English, Vietnamese, Korean, Chinese (Simplified)
+
+#GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000007063417</productID>
@@ -593,7 +632,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20250313051410925_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20250320015157238_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -912,7 +951,7 @@ Floating Notification
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20250310030619384_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20250320021709529_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
