@@ -8,7 +8,7 @@
 		<productID>000003202866</productID>
 		<productName><![CDATA[ClockFace]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20250324072553084_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20250325044311713_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -18,11 +18,11 @@
 		<realContentSize>87621946</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>REQUEST_DELETE_PACKAGES||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||SUBSTITUTE_SHARE_TARGET_APP_NAME_AND_ICON||SYSTEM_ALERT_WINDOW||INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v3.3.7>
-※Version 3.3.X supports the One UI 7 device.
-- Support One UI 7
+			<updateDescription><![CDATA[<v3.3.7.1>
+※Version 3.3.X supports the One UI 7 device. 
+ - One UI 7.0 and later devices
 
-<v3.1.7>
+<v3.1.7.1>
 ※Version 3.1.X supports the One UI 6 device. 
 [Added] - One UI 6.1 and later devices
      - Support for new fonts.
@@ -259,7 +259,7 @@ HomeUp is the extension edition of One UI Home.
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20250225094416188_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20250325044150370_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -269,7 +269,15 @@ HomeUp is the extension edition of One UI Home.
 		<realContentSize>79850044</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||WRITE_EXTERNAL_STORAGE||INTERNET||WRITE_MEDIA_IMAGES||ACCESS_NETWORK_STATE||READ_EXTERNAL_STORAGE||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v1.6.1.11>
+			<updateDescription><![CDATA[■ One UI 7.0
+<v1.7.0.11>
+- Applied One UI 7.0 stabilization code
+- Fixed issue where apps occasionally crashed
+- Fixed issue where themed keyboard appeared in an outdated version
+- Fixed issue where badges were displayed incorrectly in the keyboard editing screen
+- Other UI and operation errors improved
+
+<v1.6.1.11>
 ※ Versions v1.6.X.X support One UI 6.
 - Some basic theme visibility issues have been improved.
 
@@ -318,32 +326,7 @@ Correct issues that do not show advanced keyboard settings intermittently
 * Bug fixes
 - Fix bugs that did not show any keyboard color effect on multi-touch
 - Add some more emoticon keys on 'Make your own keyboard'
-- Fix bugs that 'Use sticker suggestions in a larget view' of keyboard advanced setting is not restored through GTS
-
-<v1.0.6.7>
-* New features
-1. Style your own keyboard
- (1) Color
-  - Two Christmas themes have been added.
- (2) Effect
-  - Key color effect: Footprint effect added. You can also change it to a sticker or gallery image.
-  - Keyboard color effect: Paint gun, firecracker effect added.
-  - Key motion effect: tilt, bounce effect added.
-
-2. Make your own keyboard
-  - DEL key has been added.
-
-* Bug fixes
-- We have modified the app interruption phenomenon that occurred intermittently on the split screen.
-
-<v1.0.5.94>
-* New features
- 1. Add  Mathematics x Chemistry Keyboard
- 2. Add emoji for OneUI5.0
-
-* Bug fixes
- 1. In Style your own keyboard, fix the bug that ended the menu when entering the keyboard
- 2. Fix bugs that the app shut down during the keyboard game.]]></updateDescription>
+- Fix bugs that 'Use sticker suggestions in a larget view' of keyboard advanced setting is not restored through GTS]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Set up a keyboard that’s tailored to you.
