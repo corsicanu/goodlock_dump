@@ -8,7 +8,7 @@
 		<productID>000003202866</productID>
 		<productName><![CDATA[ClockFace]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20250324072553084_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20250325044311713_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -18,11 +18,11 @@
 		<realContentSize>9085581</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>REQUEST_DELETE_PACKAGES||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||SUBSTITUTE_SHARE_TARGET_APP_NAME_AND_ICON||SYSTEM_ALERT_WINDOW||INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v3.3.7>
-※Version 3.3.X supports the One UI 7 device.
-- Support One UI 7
+			<updateDescription><![CDATA[<v3.3.7.1>
+※Version 3.3.X supports the One UI 7 device. 
+ - One UI 7.0 and later devices
 
-<v3.1.7>
+<v3.1.7.1>
 ※Version 3.1.X supports the One UI 6 device. 
 [Added] - One UI 6.1 and later devices
      - Support for new fonts.
