@@ -481,6 +481,12 @@ HomeUp is the extension edition of One UI Home.
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||WRITE_EXTERNAL_STORAGE||INTERNET||WRITE_MEDIA_IMAGES||ACCESS_NETWORK_STATE||READ_EXTERNAL_STORAGE||WRITE_SETTINGS</permission>
 			<updateDescription><![CDATA[■ One UI 7.0
+<v1.7.0.12>
+* Bug fixes
+Make your own keyboard
+- Fixed issue that can't be entered when setting Korean Moa Keyboard
+- Fixed issue that  Up, Down, Left and Right Flick Not worked
+
 <v1.7.0.11>
 - Applied One UI 7.0 stabilization code
 - Fixed issue where apps occasionally crashed
