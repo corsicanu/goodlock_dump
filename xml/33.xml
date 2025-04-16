@@ -1009,7 +1009,11 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<realContentSize>16369624</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||STATUS_BAR_SERVICE</permission>
-			<updateDescription><![CDATA[<v2.2.01>
+			<updateDescription><![CDATA[<v2.3.02>
+- Support GTS (Galaxy To Share)
+- Show selected color in the color selection menu as text
+
+<v2.2.01>
 - Added Japanese language support]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
