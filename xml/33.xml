@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>19</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -286,7 +286,7 @@ Fixed an issue leading to unexpected app closure during effect processing at sta
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250404013956227_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250416063418904_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -412,7 +412,7 @@ Please keep the latest version of One UI Home.
 We have advanced the original schedule for March and provide the completed function.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
+		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
 
 HOME UP!
 
@@ -437,7 +437,7 @@ HomeUp is the extension edition of One UI Home.
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20250404031816573_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20250416065742053_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -999,16 +999,16 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003926817</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20250226040315326_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20250416063337521_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.2.01]]></versionName>
-		<versionCode>220100000</versionCode> 
-		<realContentSize>16369624</realContentSize>
+		<versionName><![CDATA[2.3.02]]></versionName>
+		<versionCode>230200000</versionCode> 
+		<realContentSize>7449569</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>com.wssnps.permission.COM_WSSNPS||STATUS_BAR_SERVICE</permission>
+		<permission>com.wssnps.permission.COM_WSSNPS||STATUS_BAR_SERVICE||ACCESS_NETWORK_STATE</permission>
 			<updateDescription><![CDATA[<v2.3.02>
 - Support GTS (Galaxy To Share)
 - Show selected color in the color selection menu as text
