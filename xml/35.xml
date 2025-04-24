@@ -358,17 +358,21 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250418042640332_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250424060725457_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[16.0.00.72]]></versionName>
-		<versionCode>1600005072</versionCode> 
-		<realContentSize>51410809</realContentSize>
+		<versionName><![CDATA[16.0.00.82]]></versionName>
+		<versionCode>1600005082</versionCode> 
+		<realContentSize>51313216</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||WRITE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v16.0.0.72>
+			<updateDescription><![CDATA[<v16.0.0.82>
+- Fold and tablet devices have been added to HomeUp support.
+- Fixed other bugs
+
+<v16.0.0.72>
 - Fixed flickering issue on the home screen while using DIY Home
 - Fixed widget errors while using DIY Home
 - Fixed other bugs
@@ -478,10 +482,7 @@ v15.0.00.7
 <v2.0.01.09>
 [New Features] - One UI 3 
 Task Changer features integrated to experience better visual interaction(VI).
-Please keep the latest version of One UI Home.
-
-※ Task Changer first starts with the prepared type (Grid/List/Stack). 
-We have advanced the original schedule for March and provide the completed function.]]></updateDescription>
+Please keep the latest version of One UI Home.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
@@ -499,9 +500,13 @@ HomeUp is the extension edition of One UI Home.
 7. Customize your Edge panels
 8. Edit Share-via window
 
+※ App permissions
+The following permissions are required for the app service. You can still use the app's basic functions without allowing the optional permissions.
+
 [Required permission]
-- Storage (Required)
-  : Access to Storage is required to back up the preview screen and layout.
+- Storage(Photos and videos) : Access to Storage is required to back up the preview screen and layout. (Android 14 or lower)
+[optional permission]
+- Phone: Used to read phone status and identifier information (Android 14 or lower)
 
 <HOME_HOMESTAR:3001:6100>]]></description>
 		</appInfo>
