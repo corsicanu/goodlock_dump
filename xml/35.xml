@@ -358,18 +358,19 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250425130705964_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250430002256315_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[16.0.00.82]]></versionName>
-		<versionCode>1600005082</versionCode> 
-		<realContentSize>51313216</realContentSize>
+		<versionName><![CDATA[16.0.00.86]]></versionName>
+		<versionCode>1600005086</versionCode> 
+		<realContentSize>51329428</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||WRITE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v16.0.0.82>
+			<updateDescription><![CDATA[<v16.0.0.86>
 - Fold and tablet devices have been added to HomeUp support.
+- Fixed floating taskbar display bug.
 - Fixed other bugs
 
 <v16.0.0.72>
@@ -945,17 +946,22 @@ Floating Notification
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20250410090054076_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20250430002033788_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[7.0.00.6]]></versionName>
-		<versionCode>700006000</versionCode> 
-		<realContentSize>6431557</realContentSize>
+		<versionName><![CDATA[7.0.00.17]]></versionName>
+		<versionCode>700017000</versionCode> 
+		<realContentSize>6437463</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||READ_MEDIA_VISUAL_USER_SELECTED||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v7.0.00.6>
+			<updateDescription><![CDATA[<v7.0.00.17>
+- Fixed a swipe touch error issue while using the taskbar.
+- Fixed an issue where navigation bar buttons were misaligned after rebooting.
+- Added an app permissions menu.
+
+<v7.0.00.6>
 ※Version 7.X.X supports the One UI 7 device.
 - Support One UI 7
 
