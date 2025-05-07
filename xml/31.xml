@@ -875,7 +875,11 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<realContentSize>13632446</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||STATUS_BAR_SERVICE||ACCESS_NETWORK_STATE</permission>
-			<updateDescription><![CDATA[<v2.3.02>
+			<updateDescription><![CDATA[<v2.3.06>
+- Add 'Share to GTS' menu in more option
+- Fix settings not applied issues in some devices
+
+<v2.3.02>
 - Support GTS (Galaxy To Share)
 - Show selected color in the color selection menu as text
 
@@ -1574,7 +1578,10 @@ Provide custom effect creation option.
 		<realContentSize>23800964</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||READ_MEDIA_IMAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
-			<updateDescription><![CDATA[<Version: 1.1.01.05>
+			<updateDescription><![CDATA[<Version: 1.1.01.06>
+ - Stability improvements
+
+<Version: 1.1.01.05>
 - Expanded selection of wallpapers and stickers
 - UI improvements
 - Changed folder and app drawer icons (One UI 7)
