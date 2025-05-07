@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>20</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -1043,14 +1043,14 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003926817</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20250416063337521_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20250507020728973_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.2.01]]></versionName>
-		<versionCode>220100000</versionCode> 
-		<realContentSize>16369624</realContentSize>
+		<versionName><![CDATA[2.3.06]]></versionName>
+		<versionCode>230600000</versionCode> 
+		<realContentSize>7467974</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||STATUS_BAR_SERVICE||ACCESS_NETWORK_STATE</permission>
 			<updateDescription><![CDATA[<v2.3.06>
@@ -1816,14 +1816,14 @@ Provide custom effect creation option.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20250418023449957_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20250507020805616_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.01.5]]></versionName>
-		<versionCode>110105000</versionCode> 
-		<realContentSize>37582764</realContentSize>
+		<versionName><![CDATA[1.1.01.6]]></versionName>
+		<versionCode>110106000</versionCode> 
+		<realContentSize>37588267</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||READ_MEDIA_IMAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
 			<updateDescription><![CDATA[<Version: 1.1.01.06>
