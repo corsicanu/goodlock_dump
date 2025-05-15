@@ -358,6 +358,48 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 #GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
+		<productID>000008122674</productID>
+		<productName><![CDATA[Game Booster +]]></productName>
+		<appId>com.samsung.android.game.honeyplayplus</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20250515020235241_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.00.22]]></versionName>
+		<versionCode>100022000</versionCode> 
+		<realContentSize>10538228</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission>FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||GET_PACKAGES||READ_PRIVILEGED_PHONE_STATE||RECEIVE_BOOT_COMPLETED||READ_SEARCH_INDEXABLES||REQUEST_INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||BLUETOOTH_CONNECT</permission>
+			<updateDescription><![CDATA[]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[With Galaxy, enjoy a more fun gaming experience!
+
+[Main Features]
+- Gamepad Key Remapping: 
+ You can remap the gamepad keys to other desired keys.
+- GPU Settings (Rotation Optimization/Texture Quality): 
+ You can reduce the GPU load used for screen rotation in Vulkan games or change the quality of textures used in games to improve image quality or performance.
+- Change Game Category: 
+ You can change apps that are not classified as games but are games to the game category, so you can receive game-related support provided by the device.
+
+[Target]
+- This application is available on Android 15 or higher SAMSUNG devices.
+
+[Supported Languages]
+- Korean
+- English
+- Chinese
+- Japanese
+
+[Mandatory Access Permissions]
+- Nearby Devices (Required):
+ Access to Bluetooth device information for gamepad key remapping function
+
+#GoodLockFriends #2]]></description>
+		</appInfo>
+	<appInfo>
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
@@ -1425,7 +1467,7 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250418042657041_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250515021318924_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1716,7 +1758,7 @@ English, Korean, Chinese
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20250514072713344_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20250515032413564_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
