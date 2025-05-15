@@ -1195,7 +1195,11 @@ Set double tap to shortcut by pressing S Pen
 		<realContentSize>12392752</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||SYSTEM_ALERT_WINDOW||WRITE_SECURE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v8.1.02.21>
+			<updateDescription><![CDATA[<v8.1.02.24>
+ - Fixed the problem that the clock position is forcibly set to the middle in a model with no middle option
+ - Improve app stability
+
+<v8.1.02.21>
  - Improve app stability
 
 <v8.0.02.18>
