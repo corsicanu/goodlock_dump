@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>20</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -1386,14 +1386,14 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250515021318924_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250526005451641_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[8.1.02.21]]></versionName>
-		<versionCode>810221000</versionCode> 
-		<realContentSize>17539622</realContentSize>
+		<versionName><![CDATA[8.1.02.24]]></versionName>
+		<versionCode>810224000</versionCode> 
+		<realContentSize>17537384</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||SYSTEM_ALERT_WINDOW||WRITE_SECURE_SETTINGS</permission>
 			<updateDescription><![CDATA[<v8.1.02.24>
