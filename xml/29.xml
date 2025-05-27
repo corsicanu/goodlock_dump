@@ -1320,7 +1320,7 @@ We are trying to make a fresh experience for users.
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20250514073218707_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20250527120737231_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1329,8 +1329,11 @@ We are trying to make a fresh experience for users.
 		<versionCode>104407000</versionCode> 
 		<realContentSize>16048525</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>FOREGROUND_SERVICE||ACCESS_NETWORK_STATE||REORDER_TASKS||CAMERA</permission>
-			<updateDescription><![CDATA[<v1.0.60>
+		<permission>FOREGROUND_SERVICE||FOREGROUND_SERVICE_SPECIAL_USE||REORDER_TASKS||RECEIVE_BOOT_COMPLETED||WRITE_EXTERNAL_STORAGE||INTERNET||ACCESS_NETWORK_STATE||WAKE_LOCK||CAMERA||READ_EXTERNAL_STORAGE||READ_PHONE_STATE</permission>
+			<updateDescription><![CDATA[<v1.0.68>
+- Bug fixes and stabilization code applied
+
+<v1.0.60>
 - Bug fixes and stabilization code applied
 - Add Routine Gallery for OneUI 7.0
 
