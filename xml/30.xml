@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>17</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000003202866</productID>
@@ -141,7 +141,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250527060417139_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250528064153390_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -151,7 +151,11 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<realContentSize>17861686</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||WRITE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v16.0.0.86>
+			<updateDescription><![CDATA[<v16.0.0.90>
+- (Z Fold) Support DIY Home function when cover screen mirroring is on
+- (Tablet) Remove 'show favorites' setting menu
+
+<v16.0.0.86>
 - Fold and tablet devices have been added to HomeUp support.
 - Fixed floating taskbar display bug.
 - Fixed other bugs
@@ -186,11 +190,6 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
    - Folder - 'Apply folder background blur adjustment'
    - Folder - 'Folder icon arrangement'
     ※ Unsupported functions in the S24 device group will be provided through the 'One UI Home' app update. 
-v15.0.00.19
-- Fixed Favorites Max Count bug for tablet models
-
-v15.0.00.17
-- Add Japanese language
 
 v15.0.00.11
 ※The issues are only fixed when the latest One UI Home (15.0.05.5 or later) is installed.
@@ -214,9 +213,6 @@ v15.0.00.7
 <v14.0.0.29>
 - Fixed bug that change the folder grid after rebooting
 - Fixed the grid setting bug of the cover screen in Fold device.
-- Fixed some errors 
-
-<v14.0.0.17>
 - Fixed some errors 
 
 <v14.0.0.12>
@@ -258,15 +254,7 @@ v15.0.00.7
  - Add two kinds of layout  (Vertical List / Slim List) 
  - Support Mini mode (only for List / Grid / Stack list type) 
  - Add Circular list mode (only for Vertical List / Slim List) 
- - Provide quick launch of split screen  on recent app
-
-<v2.0.01.11>
-- Fixed 'Task Changer FC' by handling unavailable types
-
-<v2.0.01.09>
-[New Features] - One UI 3 
-Task Changer features integrated to experience better visual interaction(VI).
-Please keep the latest version of One UI Home.]]></updateDescription>
+ - Provide quick launch of split screen  on recent app]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
@@ -814,18 +802,17 @@ V 2.0.0.8 (One UI 2.X)
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20250514072534328_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20250528063810710_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[7.0.00.0]]></versionName>
-		<versionCode>700000000</versionCode> 
-		<realContentSize>6209157</realContentSize>
+		<versionName><![CDATA[8.0.00.1]]></versionName>
+		<versionCode>800000001</versionCode> 
+		<realContentSize>7272234</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>QUERY_ALL_PACKAGES||VIBRATE||RECEIVE_BOOT_COMPLETED</permission>
-			<updateDescription><![CDATA[<v7.0.00.00>
-- Bug fix in Sound history. (Please turn off and on switch to make Sound history works properly.)
+			<updateDescription><![CDATA[<v8.0.00.01>
 - Some minor improvements.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
