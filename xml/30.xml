@@ -8,7 +8,7 @@
 		<productID>000003202866</productID>
 		<productName><![CDATA[ClockFace]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20250514073253491_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20250529015417090_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -17,7 +17,7 @@
 		<versionCode>226800000</versionCode> 
 		<realContentSize>87621946</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>REQUEST_DELETE_PACKAGES||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||SUBSTITUTE_SHARE_TARGET_APP_NAME_AND_ICON||SYSTEM_ALERT_WINDOW||INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS</permission>
+		<permission>REQUEST_DELETE_PACKAGES||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||SUBSTITUTE_SHARE_TARGET_APP_NAME_AND_ICON||INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS</permission>
 			<updateDescription><![CDATA[<v3.3.08.15>
 ※Version 3.3.X supports the One UI 7 or higher device. 
 -10 new watch presets have been added.
