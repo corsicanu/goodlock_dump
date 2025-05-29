@@ -164,8 +164,12 @@ The following features are also available.
 		<realContentSize>161373702</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>REQUEST_DELETE_PACKAGES||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||SUBSTITUTE_SHARE_TARGET_APP_NAME_AND_ICON||SYSTEM_ALERT_WINDOW||INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v3.3.7.1>
-※Version 3.3.X supports the One UI 7 device. 
+			<updateDescription><![CDATA[<v3.3.08.15>
+※Version 3.3.X supports the One UI 7 or higher device. 
+-10 new watch presets have been added.
+-Minor bug fixes and stability improvements have been made.
+
+<v3.3.7.1>
  - One UI 7.0 and later devices
 
 <v3.1.7.1>
