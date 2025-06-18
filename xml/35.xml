@@ -368,7 +368,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000008122674</productID>
 		<productName><![CDATA[Game Booster +]]></productName>
 		<appId>com.samsung.android.game.honeyplayplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20250612072349277_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20250618044303473_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1666,17 +1666,20 @@ v1.0.26
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20250527120737231_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20250618044745048_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.68]]></versionName>
-		<versionCode>106807000</versionCode> 
-		<realContentSize>24703213</realContentSize>
+		<versionName><![CDATA[1.0.75]]></versionName>
+		<versionCode>107507000</versionCode> 
+		<realContentSize>24727332</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>FOREGROUND_SERVICE||FOREGROUND_SERVICE_SPECIAL_USE||REORDER_TASKS||RECEIVE_BOOT_COMPLETED||WRITE_EXTERNAL_STORAGE||INTERNET||ACCESS_NETWORK_STATE||WAKE_LOCK||CAMERA||READ_EXTERNAL_STORAGE||READ_PHONE_STATE</permission>
-			<updateDescription><![CDATA[<v1.0.68>
+			<updateDescription><![CDATA[<v1.0.75>
+- Bug fixes
+
+<v1.0.68>
 - Bug fixes and stabilization code applied
 
 <v1.0.60>
