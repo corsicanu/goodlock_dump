@@ -271,11 +271,12 @@ Enjoy your own clockface on Lockscreen and AOD
 		<realContentSize>5702878</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>UPDATE_APP_OPS_STATS||FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||CONNECTIVITY_INTERNAL||START_FOREGROUND_SERVICES_FROM_BACKGROUND||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||POST_NOTIFICATIONS||FOREGROUND_SERVICE_MEDIA_PLAYBACK||PACKAGE_USAGE_STATS||STATUS_BAR||QUERY_ALL_PACKAGES||CONFIGURE_DISPLAY_BRIGHTNESS||INTERNAL_SYSTEM_WINDOW||DEVICE_POWER||INTERNET||SYSTEM_APPLICATION_OVERLAY||READ_PHONE_STATE</permission>
-			<updateDescription><![CDATA[<v7.1.06>
- - Good lock friends
+			<updateDescription><![CDATA[<v8.0.13>
+ - Support OneUI 8.0
 
-<v7.0.20>
- - Support OneUI 7.0]]></updateDescription>
+<v7.1.06>
+ - Support OneUI 7.0
+ - Good lock friends]]></updateDescription>
 		<sellerName><![CDATA[Galaxy Labs ]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Display Assistant helps optimize your screen to suit your preferences.
