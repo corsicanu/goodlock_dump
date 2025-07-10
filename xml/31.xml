@@ -546,7 +546,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250625072300744_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250710011245433_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -556,7 +556,12 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<realContentSize>13669415</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS||BLUETOOTH_ADMIN||MEDIA_CONTENT_CONTROL||MANAGE_APP_OPS_MODES||REBOOT||INTERACT_ACROSS_USERS_FULL||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||REGISTER_WINDOW_MANAGER_LISTENERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||REORDER_TASKS||MANAGE_ACTIVITY_TASKS||REAL_GET_TASKS||CONTROL_DISPLAY_BRIGHTNESS||com.system.permission.READ_NOTIFICATIONS||BROADCAST_STICKY||INTERNET||CONTROL_KEYGUARD||STATUS_BAR_SERVICE||USE_FULL_SCREEN_INTENT||BLUETOOTH||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
-			<updateDescription><![CDATA[<v9.1.09>
+			<updateDescription><![CDATA[<v10.0.23>
+- Support for One UI 8.0
+- New feature: FlipShot
+  When taking mirror selfies, display stylish photos and messages on the cover screen of Flip devices. (※Available only on Flip devices.)
+
+<v9.1.09>
 ※ v9.X.X supports One UI 7 devices.
 -Fixed cover launcher widget display issues for different app versions.
 -Resolved temporary activation of cover game widget in unsupported regions.
@@ -669,13 +674,7 @@ Fixes
 
 <v4.2.04>
 - Support 'Flex mode with our best' (Only devices supporting Flex mode)
-- Support 'Fit the app aspect ratio' in 'Rotate with our best' (Tablet only)
-
-<v4.1.02>
-Enjoy your Galaxy on wider screen with MultiStar. 
- - Immersive Mode : Hide status bar and navigation bar in split screen view
- - The app size stretch to camera hole : Open the app by widening the camera area
- * Quick launch of multi-window will no longer be available from One UI 3. Thank you for using this feature.]]></updateDescription>
+- Support 'Fit the app aspect ratio' in 'Rotate with our best' (Tablet only)]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
