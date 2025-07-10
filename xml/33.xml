@@ -864,7 +864,7 @@ Floating Notification
 - Chinese
 
 [Version Code]
-<MULTISTAR:1000:9001>
+<MULTISTAR:1000:10001>
 #6]]></description>
 		</appInfo>
 	<appInfo>
@@ -1300,7 +1300,11 @@ Thank you.
 		<realContentSize>27517689</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<2.3.08>
+			<updateDescription><![CDATA[<2.3.09>
+- Modify to allow only on devices supporting Air Command
+- Applied stabilization code
+
+<2.3.08>
 ※This version supports One UI 7.0 and later devices.
 - Applied stabilization code of One UI 7.0.
 - Applied new Feature (Custom Floating Icon)
