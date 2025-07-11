@@ -8,7 +8,7 @@
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20250513055427846_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20250711053440270_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -19,10 +19,15 @@
 		<restrictedAge>0</restrictedAge>
 		<permission>ACCESS_NETWORK_STATE</permission>
 			<updateDescription><![CDATA[Support model
+- One UI 8.0 or higher : Flip7/Fold7
 - One UI 7.0 or higher : S25/A56/M56/F56
 - One UI 6.1 or higher : S24FE/S21FE/A55/M53/Quantum5/Fold6/Flip6
 - One UI 6.0 or higher : S24/A73/A72/A54/A53/A52s/A52 5G/A52/M54/F54/Quantum 2
 - One UI 5.1 or higher : S23/S23FE/S22/S21/S20/Note20/Fold5/Flip5/Fold4/Flip4/Fold3/Flip3/Fold2/Flip
+
+<v4.0.00.1>
+Motion photo shutter sound (Flip7/Fold7)
+  -  Sound / Timing
 
 <v3.0.00.3>
 Apply stabilization code
@@ -121,10 +126,12 @@ It provides ON/OFF features for the following features:
   Take pictures as soon as your finger touches the Shutter button instead of when you lift it off. You can still swipe or press and hold the Shutter button to capture GIFs, burst shots, and videos, but a picture will be taken too.
 - Prioritize focus over speed
   Wait for the camera to finish focusing before triggering the shutter. This may delay the shutter slightly.
+- Motion photo shutter sound
+   Sound / Timing
 - Video recording in Photo mode
   Touch and hold the Shutter button to record videos in Photo mode.
 - DOF adapter correction
-  Automatically correct images flipped by external depth-of-field adapters. This correction is only applied in Pro and Pro Video modes.
+  Automatically flip previews and captures vertically to support external depth-of-field adapters. The correction is only applied in Pro and Pro Video modes.This feature requires an external accessory.
 - Anamorphic lens correction
   Automatically de-squeeze previews and videos to correct distortion from external anamorphic lenses. This correction is only applied in Pro Video mode while using 16:9 ratio (8K and 120 fps excluded).
 - HDR10+
