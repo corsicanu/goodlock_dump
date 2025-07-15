@@ -690,7 +690,7 @@ Floating Notification
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20250624035851186_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20250715063616786_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -700,7 +700,12 @@ Floating Notification
 		<realContentSize>5940629</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||READ_MEDIA_VISUAL_USER_SELECTED||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v7.0.00.17>
+			<updateDescription><![CDATA[<v8.0.00.4>
+※Version 8.X.X supports the One UI 8 device. 
+- Support One UI 8
+- Update UI/UX
+
+<v7.0.00.17>
 - Fixed a swipe touch error issue while using the taskbar.
 - Fixed an issue where navigation bar buttons were misaligned after rebooting.
 - Added an app permissions menu.
@@ -768,7 +773,7 @@ V 2.0.0.8 (One UI 2.X)
   : The navigation bar images and user settings are saved.
 
 [Version Code]
-<NAVSTAR:1001:10000>
+<NAVSTAR:1001:11000>
 #7]]></description>
 		</appInfo>
 	<appInfo>
@@ -1169,7 +1174,7 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250624035748062_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250715063531492_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1179,7 +1184,12 @@ Set double tap to shortcut by pressing S Pen
 		<realContentSize>15320543</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||SYSTEM_ALERT_WINDOW||WRITE_SECURE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v8.1.02.24>
+			<updateDescription><![CDATA[<v9.0.00.01>
+※ Version v9.X.X supports devices running One UI 7 and above.
+- Supports One UI 8 devices.
+- Fixed other bugs.
+
+<v8.1.02.24>
  - Fixed the problem that the clock position is forcibly set to the middle in a model with no middle option
  - Improve app stability
 
@@ -1297,7 +1307,7 @@ We are trying to make a fresh experience for users.
 - Japanese
 
 [Version Code]
-<SLIMINDICATOR:1003:8000>
+<SLIMINDICATOR:1003:9000>
 #2]]></description>
 		</appInfo>
 	<appInfo>
