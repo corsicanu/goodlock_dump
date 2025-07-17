@@ -155,8 +155,8 @@ Enjoy your own clockface on Lockscreen and AOD
 		<realContentSize>2088459</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS_FULL||READ_MEDIA_IMAGES||ACCESS_NETWORK_STATE||INTERNAL_SYSTEM_WINDOW||WRITE_SECURE_SETTINGS||SET_ACTIVITY_WATCHER||POST_NOTIFICATIONS||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v1.2.29>
- - OneUI7 support
+			<updateDescription><![CDATA[<v1.3.16>
+ - OneUI8 support
  - Bug fixes and stability improvements.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -1658,7 +1658,11 @@ Task Changer is provided as a submenu of Home Up after One UI 3. (Home Up > Task
 		<realContentSize>23800964</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||READ_MEDIA_IMAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
-			<updateDescription><![CDATA[<Version: 1.1.01.06>
+			<updateDescription><![CDATA[<Version: 1.1.01.23>  
+- Added the following effects to the icon pack: Basic, Film Grain, Duotone, Glass, and Gradient  
+- Improved UI and fixed bugs
+
+<Version: 1.1.01.06>
  - Stability improvements
 
 <Version: 1.1.01.05>
