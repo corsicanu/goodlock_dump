@@ -343,14 +343,14 @@ Fixed an issue leading to unexpected app closure during effect processing at sta
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20250625010118953_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20250717024502623_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.2.29]]></versionName>
-		<versionCode>122900000</versionCode> 
-		<realContentSize>4694148</realContentSize>
+		<versionName><![CDATA[1.3.16]]></versionName>
+		<versionCode>131600000</versionCode> 
+		<realContentSize>4683392</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS_FULL||READ_MEDIA_IMAGES||ACCESS_NETWORK_STATE||INTERNAL_SYSTEM_WINDOW||WRITE_SECURE_SETTINGS||SET_ACTIVITY_WATCHER||POST_NOTIFICATIONS||READ_EXTERNAL_STORAGE</permission>
 			<updateDescription><![CDATA[<v1.3.16>
@@ -1933,7 +1933,7 @@ Provide custom effect creation option.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20250625030120186_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20250717021503283_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1942,7 +1942,7 @@ Provide custom effect creation option.
 		<versionCode>110106000</versionCode> 
 		<realContentSize>37588267</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||READ_MEDIA_IMAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
+		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
 			<updateDescription><![CDATA[<Version: 1.1.01.23>  
 - Added the following effects to the icon pack: Basic, Film Grain, Duotone, Glass, and Gradient  
 - Improved UI and fixed bugs
