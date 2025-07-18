@@ -546,7 +546,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250718033345650_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250718094206163_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -556,7 +556,13 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<realContentSize>11793108</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS||BLUETOOTH_ADMIN||MEDIA_CONTENT_CONTROL||MANAGE_APP_OPS_MODES||REBOOT||INTERACT_ACROSS_USERS_FULL||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||REGISTER_WINDOW_MANAGER_LISTENERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||REORDER_TASKS||MANAGE_ACTIVITY_TASKS||REAL_GET_TASKS||CONTROL_DISPLAY_BRIGHTNESS||com.system.permission.READ_NOTIFICATIONS||BROADCAST_STICKY||INTERNET||CONTROL_KEYGUARD||STATUS_BAR_SERVICE||USE_FULL_SCREEN_INTENT||BLUETOOTH||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
-			<updateDescription><![CDATA[<v10.0.23>
+			<updateDescription><![CDATA[<v10.0.32>  
+※ Supports One UI 8 and above.  
+Exclusive 'Launcher Widget' feature for Flip7  
+- App Screen Size Conversion: Size conversion icon appears for easy switching between full, landscape, and portrait modes.  
+- Portrait Mode Screen Ratio Adjustment: Screen ratio in portrait mode can be adjusted from 16:9 to 21:9 in settings. 
+
+<v10.0.23>
 - Support for One UI 8.0
 - New feature: FlipShot
   When taking mirror selfies, display stylish photos and messages on the cover screen of Flip devices. (※Available only on Flip devices.)
@@ -637,44 +643,7 @@ Fixes
 <v5.1.20>
 - Cover Launcher Widget function (※ Always On Display  v7.1.30.4 or later)
   :Support running the app directly from Galaxy Z Flip 3 cover screen
-- Fix some menu descriptions
-
-<v5.0.36>
-※'One UI 4' device is available after this version.
-1. Support an option,  'Remove blur effect on adjusting split view'
-2. Add I love Samsung DeX : 
-- Support high resolution regardless of the accessory
-- Be able to use more apps at the same time
-- “Rotate DeX with our best” in DeX on tablet screen
-
- [One UI 3]
-<v4.7.00> 
- - Fixed the issue which it was not working after 'Pop-up view action' set ON at times.
-
-<v4.5.13> 
--Added 'UDC with black' function (UDC device only)
-   * You can also control it through its quicksetting button.
--Fixed the touch error caused on fast split-screen by quick launch
-
-<v4.5.9>
-- Fixed the wrong value return from 'All apps' in app picker list
-- Fixed the linked menu of some function in Fold 3/Flip 3
-
-<v4.4.15>
- - Supports ''Prevent pop-up view minimization'
- - Improved the issue that 'Enable multiwindow to all apps' is not working in some apps 
- - Adjust the font size in MultiStar after changing resolution 
- - Modified a message on multiwindow restriction
-
-
-<v4.3.06>
-- Fixed the DB update error in device supporting Long live app
-- Improve performance while using 'Flex mode with our best' 
-- Fixed minor issue
-
-<v4.2.04>
-- Support 'Flex mode with our best' (Only devices supporting Flex mode)
-- Support 'Fit the app aspect ratio' in 'Rotate with our best' (Tablet only)]]></updateDescription>
+- Fix some menu descriptions]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
