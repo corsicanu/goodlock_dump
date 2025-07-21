@@ -158,7 +158,28 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<realContentSize>23332808</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||WRITE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v16.0.0.90>
+			<updateDescription><![CDATA[<v17.0.00.28>
+*Supported Devices: One UI 8 and above
+*DIY Home Screen
+- Alignment Guide Lines: Guides for aligning items
+- App Launch Animation Settings: Animations for overlapping items
+- Item Group Editing: Easy editing with grouping and ungrouping
+- Item Edit Lock: Prevents accidental changes with a lock feature
+- Sticker Action Function: App integration and touch animations
+- Floating Toolbar: Joystick feature for easy home screen editing
+
+*Home Screen
+-Page Indicator Hiding: Enables a clean home screen layout
+-Horizontal Scroll: Supports horizontal scrolling in 'Alphabetical Order' mode
+-HomeUp Quick Access: Pop-up menu on home screen and recent apps
+
+*Edge Panel
+-Launch Apps in Selected View Type: Full, split, and pop-up screen types
+
+*Gesture Settings
+-App Launch Animation Tuning Supported
+
+<v16.0.0.90>
 - (Z Fold) Support DIY Home function when cover screen mirroring is on
 - (Tablet) Remove 'show favorites' setting menu
 
@@ -242,26 +263,7 @@ v15.0.00.7
 
 <v13.0.00.33>
 - Fixed the layout error of app folder after S OS upgrade in Tablet
-   ※ One UI 4 tablet provides an app folder as a 'pop-up folder' by default, so 'Home Up - Folder' is not supported.
-
-<v13.0.00.19>
--  Fixed the error that share function does not work after OS upgrade while using 'Share Manager' in One UI 3
-- 'Apps List' in One UI 4 is not available until stabilizing the function.
-   (※ We will open again after the stabilization is completed, so see you soon~)
-
-<v13.0.0.15>
- - This is available only for One UI 4
- - Add vertical scroll mode in Apps screen.
-
-<2.0.01.29>
- - Add the used permission notice.
- - Fix some layout error 
-
-<v2.0.01.19 >
- - Add two kinds of layout  (Vertical List / Slim List) 
- - Support Mini mode (only for List / Grid / Stack list type) 
- - Add Circular list mode (only for Vertical List / Slim List) 
- - Provide quick launch of split screen  on recent app]]></updateDescription>
+   ※ One UI 4 tablet provides an app folder as a 'pop-up folder' by default, so 'Home Up - Folder' is not supported.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
