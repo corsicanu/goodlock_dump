@@ -336,7 +336,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250714222716866_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250721040556296_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -345,7 +345,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<versionCode>1500100019</versionCode> 
 		<realContentSize>16766030</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||WRITE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||READ_EXTERNAL_STORAGE</permission>
+		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||REORDER_TASKS</permission>
 			<updateDescription><![CDATA[<v17.0.00.28>
 *Supported Devices: One UI 8 and above
 *DIY Home Screen
