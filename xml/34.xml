@@ -346,7 +346,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<realContentSize>16766030</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||REORDER_TASKS</permission>
-			<updateDescription><![CDATA[<v17.0.00.28>
+			<updateDescription><![CDATA[<v17.0.00.32>
 *Supported Devices: One UI 8 and above
 *DIY Home Screen
 - Alignment Guide Lines: Guides for aligning items
