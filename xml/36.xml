@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>22</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -13,9 +13,9 @@
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[3.0.00.3]]></versionName>
-		<versionCode>300003000</versionCode> 
-		<realContentSize>10668305</realContentSize>
+		<versionName><![CDATA[4.0.00.1]]></versionName>
+		<versionCode>400001000</versionCode> 
+		<realContentSize>11678334</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>ACCESS_NETWORK_STATE</permission>
 			<updateDescription><![CDATA[Support model
@@ -340,85 +340,6 @@ Fixed an issue leading to unexpected app closure during effect processing at sta
    : Double-tap to launch apps, prevents swiping down]]></description>
 		</appInfo>
 	<appInfo>
-		<productID>000003084395</productID>
-		<productName><![CDATA[EdgeTouch]]></productName>
-		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20250717024502623_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.3.16]]></versionName>
-		<versionCode>131600000</versionCode> 
-		<realContentSize>4683392</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<permission>INTERACT_ACROSS_USERS_FULL||READ_MEDIA_IMAGES||ACCESS_NETWORK_STATE||INTERNAL_SYSTEM_WINDOW||WRITE_SECURE_SETTINGS||SET_ACTIVITY_WATCHER||POST_NOTIFICATIONS||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v1.3.16>
- - OneUI8 support
- - Bug fixes and stability improvements.]]></updateDescription>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
-
-
-The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
-
-[Optional permissions]
-- Photos and videos : Save image files to the device
-- Notification : Show selected edge zone information
-
-If your system software version is lower than Android 6.0, please update the software to configure App permissions.
-Previously allowed permissions can be reset on Apps menu in device settings after software update.
-
-#GoodLockFriends]]></description>
-		</appInfo>
-	<appInfo>
-		<productID>000008122674</productID>
-		<productName><![CDATA[Game Booster +]]></productName>
-		<appId>com.samsung.android.game.honeyplayplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20250718034219262_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.01.5]]></versionName>
-		<versionCode>100105000</versionCode> 
-		<realContentSize>10937841</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<permission>FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||GET_PACKAGES||READ_PRIVILEGED_PHONE_STATE||RECEIVE_BOOT_COMPLETED||READ_SEARCH_INDEXABLES||REQUEST_INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||BLUETOOTH_CONNECT</permission>
-			<updateDescription><![CDATA[<v1.0.01.05>
-- Changed to slot-based key remapping for gamepads
-- Enabled in-app updates for GPU settings when a new version is released
-- Fixed app icon display error
-- Miscellaneous bug fixes]]></updateDescription>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[With Galaxy, enjoy a more fun gaming experience!
-
-[Main Features]
-- Gamepad Key Remapping: 
- You can remap the gamepad keys to other desired keys.
-- GPU Settings (Rotation Optimization/Texture Quality): 
- You can reduce the GPU load used for screen rotation in Vulkan games or change the quality of textures used in games to improve image quality or performance.
-- Change Game Category: 
- You can change apps that are not classified as games but are games to the game category, so you can receive game-related support provided by the device.
-
-[Target]
-- This application is available on Android 15 or higher SAMSUNG devices.
-
-[Supported Languages]
-- Korean
-- English
-- Chinese
-- Japanese
-
-[Mandatory Access Permissions]
-- Nearby Devices (Required):
- Access to Bluetooth device information for gamepad key remapping function
-
-#GoodLockFriends #2]]></description>
-		</appInfo>
-	<appInfo>
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
@@ -427,9 +348,9 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[16.0.00.90]]></versionName>
-		<versionCode>1600005090</versionCode> 
-		<realContentSize>51349853</realContentSize>
+		<versionName><![CDATA[17.0.00.32]]></versionName>
+		<versionCode>1700005032</versionCode> 
+		<realContentSize>65484444</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||REORDER_TASKS</permission>
 			<updateDescription><![CDATA[<v17.0.00.32>
@@ -661,7 +582,7 @@ Some advanced options for Samsung keyboards are provided.
 ■ One UI 4.1
 - My Sticker
 Keys Cafe launches my own sticker. Make images from Gallery into a unique sticker and express your meanings~
-※ Samsung Keyboard v5.4.65.0 or later is supported
+※ Samsung Keyboard v5.4.65.0 or later is supported
 
 ■ One UI 4.0
 - Keyboard advanced settings
@@ -670,7 +591,7 @@ Provides advanced functions related to Samsung Keyboard.
 ■ OneUI2.5
 - Changing the sizes of keys: You can adjust the heights and widths of keys.
 - Remapping keys: You can remap keys or add new keys.
-- Setting up a keyboard theme: You can set up a color or effect for your keyboard. (OneUI2.1 not supported)
+- Setting up a keyboard theme: You can set up a color or effect for your keyboard. (OneUI2.1 not supported)
 - Gaming on your keyboard: Playing game and see scores and ranking
 
 ※Keys Cafe works from Samsung keyboard version 5.1.05.9
@@ -686,9 +607,9 @@ Provides advanced functions related to Samsung Keyboard.
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[7.0.00.14]]></versionName>
-		<versionCode>700014000</versionCode> 
-		<realContentSize>78607339</realContentSize>
+		<versionName><![CDATA[7.0.01.5]]></versionName>
+		<versionCode>700105000</versionCode> 
+		<realContentSize>77969707</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||INTERACT_ACROSS_USERS_FULL||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||MANAGE_USERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||MANAGE_FINGERPRINT||USE_BIOMETRIC_INTERNAL||BIND_APPWIDGET||SET_WALLPAPER||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
 			<updateDescription><![CDATA[<v7.0.01.5>
@@ -833,9 +754,9 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[9.1.09]]></versionName>
-		<versionCode>910900000</versionCode> 
-		<realContentSize>17033441</realContentSize>
+		<versionName><![CDATA[10.0.32]]></versionName>
+		<versionCode>1003200000</versionCode> 
+		<realContentSize>25865376</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS||BLUETOOTH_ADMIN||MEDIA_CONTENT_CONTROL||MANAGE_APP_OPS_MODES||REBOOT||INTERACT_ACROSS_USERS_FULL||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||REGISTER_WINDOW_MANAGER_LISTENERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||REORDER_TASKS||MANAGE_ACTIVITY_TASKS||REAL_GET_TASKS||CONTROL_DISPLAY_BRIGHTNESS||com.system.permission.READ_NOTIFICATIONS||BROADCAST_STICKY||INTERNET||CONTROL_KEYGUARD||STATUS_BAR_SERVICE||USE_FULL_SCREEN_INTENT||BLUETOOTH||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
 			<updateDescription><![CDATA[<v10.0.32>  
@@ -932,7 +853,7 @@ Fixes
 
 [Description]
 [ One UI 4]
-Improved usability on the cover screen of Flip 3. (※ Always On Display  v7.1.30.4 or later)
+Improved usability on the cover screen of Flip 3. (※ Always On Display  v7.1.30.4 or later)
 -Cover launcher widget
  Launch game apps or some media apps directly from the cover screen. (Flip 3 target, you can add up to 5 apps)
 
@@ -979,9 +900,9 @@ Floating Notification
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[7.0.00.17]]></versionName>
-		<versionCode>700017000</versionCode> 
-		<realContentSize>6437463</realContentSize>
+		<versionName><![CDATA[8.0.00.4]]></versionName>
+		<versionCode>800004000</versionCode> 
+		<realContentSize>6433389</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||READ_MEDIA_VISUAL_USER_SELECTED||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||READ_EXTERNAL_STORAGE</permission>
 			<updateDescription><![CDATA[<v8.0.00.4>
@@ -1164,14 +1085,14 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250723235607195_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250724085104264_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[7.0.17.0]]></versionName>
-		<versionCode>701700000</versionCode> 
-		<realContentSize>10370911</realContentSize>
+		<versionName><![CDATA[8.0.17.0]]></versionName>
+		<versionCode>801700000</versionCode> 
+		<realContentSize>10370178</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||SUBSTITUTE_NOTIFICATION_APP_NAME||READ_MEDIA_VIDEO||MANAGE_ACTIVITY_STACKS||FOREGROUND_SERVICE||com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||QUERY_ALL_PACKAGES||VIBRATE||INTERNAL_SYSTEM_WINDOW||MANAGE_ACTIVITY_TASKS||SET_PROCESS_LIMIT||CONTROL_KEYGUARD||ACCESS_NETWORK_STATE||READ_EXTERNAL_STORAGE</permission>
 			<updateDescription><![CDATA[<v8.0.17.0>
@@ -1323,7 +1244,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
   : When editing icons accessible on the lock screen, Storage is accessed to show the wallpaper on the preview screen.
 
 [Version Code]
-<NOTISTAR:2001:8001>]]></description>
+<NOTISTAR:2001:9001>]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003036952</productID>
@@ -1396,66 +1317,6 @@ Thank you.
 #GoodLockFriends #5]]></description>
 		</appInfo>
 	<appInfo>
-		<productID>000005198690</productID>
-		<productName><![CDATA[Pentastic]]></productName>
-		<appId>com.samsung.android.pentastic</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20250714222612166_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.3.09]]></versionName>
-		<versionCode>230900000</versionCode> 
-		<realContentSize>35603966</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<2.3.09>
-- Modify to allow only on devices supporting Air Command
-- Applied stabilization code
-
-<2.3.08>
-※This version supports One UI 7.0 and later devices.
-- Applied stabilization code of One UI 7.0.
-- Applied new Feature (Custom Floating Icon)
-
-<2.2.04>
-- Fixed an issue that does not change the style of the air command
-- Fixed the FC issue on Chinese model
-
-<2.2.03>
-- Applied stabilization code of One UI 6.0.
-※This version supports One UI 6.0 and later devices.
-
-<2.0.5.3>
-Supported Air command Compact mode within the S Pen settings
-
-<1.1.14.1>
-Fixed an error of the app ternimation in OneUI 5 device.
-
-<1.1.14>
-- Link with wallpaper and sticker resources 
-
-<1.1.11>
-- Support Air command background
-* This feature works above Air command v5.6.21]]></updateDescription>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Add your uniqueness to S pen with Pentastic!
-Switch to Air Command that is more convenient for you to use.
-You can set yourself the shape of the S Pen Hover Pointer, the sound made when you pull out or put in the pen.
-If you tap the screen twice while pressing S Pen button, you can run the preset features immediately.
-
-[Key features]
-Change the form of Air Command
-Change the shape of S Pen Hover Pointer
-Change the sound of S Pen
-Set double tap to shortcut by pressing S Pen
-
-* OneUI2.1 supports only 'Change the form of Air Command' feature.
-
-#Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
-		</appInfo>
-	<appInfo>
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
@@ -1464,9 +1325,9 @@ Set double tap to shortcut by pressing S Pen
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[8.1.02.24]]></versionName>
-		<versionCode>810224000</versionCode> 
-		<realContentSize>17537384</realContentSize>
+		<versionName><![CDATA[9.0.00.1]]></versionName>
+		<versionCode>900001000</versionCode> 
+		<realContentSize>17531108</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||SYSTEM_ALERT_WINDOW||WRITE_SECURE_SETTINGS</permission>
 			<updateDescription><![CDATA[<v9.0.00.01>
@@ -1604,9 +1465,9 @@ We are trying to make a fresh experience for users.
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.58]]></versionName>
-		<versionCode>105800000</versionCode> 
-		<realContentSize>20357387</realContentSize>
+		<versionName><![CDATA[1.0.54]]></versionName>
+		<versionCode>105400000</versionCode> 
+		<realContentSize>32441916</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS||FOREGROUND_SERVICE||FOREGROUND_SERVICE_SPECIAL_USE||READ_CLIPBOARD_IN_BACKGROUND||INTERACT_ACROSS_USERS_FULL||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||ACCESS_NETWORK_STATE||WAKE_LOCK||WRITE_SECURE_SETTINGS||POST_NOTIFICATIONS||HIGH_SAMPLING_RATE_SENSORS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||VIBRATE||UNLIMITED_TOASTS||START_ACTIVITIES_FROM_BACKGROUND||INJECT_EVENTS||FORCE_STOP_PACKAGES||CONTROL_KEYGUARD||SYSTEM_APPLICATION_OVERLAY</permission>
 			<updateDescription><![CDATA[<1.0.58>
@@ -1916,9 +1777,9 @@ Provide custom effect creation option.
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.01.6]]></versionName>
-		<versionCode>110106000</versionCode> 
-		<realContentSize>37588267</realContentSize>
+		<versionName><![CDATA[1.1.01.23]]></versionName>
+		<versionCode>110123000</versionCode> 
+		<realContentSize>40285542</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
 			<updateDescription><![CDATA[<Version: 1.1.01.23>  
@@ -2075,7 +1936,7 @@ Cautions
 
 Permissions (Required)
   To provide this service, following permission are needed.
-  ■ Photos and videos (Storage): Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
+  ■ Photos and videos (Storage): Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
 
 #GoodLockFriends #2]]></description>
 		</appInfo>
