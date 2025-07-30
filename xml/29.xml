@@ -730,7 +730,7 @@ Floating Notification
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20250718033456743_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20250729230310768_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -740,8 +740,15 @@ Floating Notification
 		<realContentSize>7518953</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||READ_MEDIA_VISUAL_USER_SELECTED||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v8.0.00.4>
-※Version 8.X.X supports the One UI 8 device. 
+			<updateDescription><![CDATA[<v8.0.00.22>
+※ v8.x.x supports One UI 8 devices.
+-Fixed keyboard layout issue on the flip cover screen:
+  Improved UI errors occurring while using NavStar swipe gestures.
+-Added 'Side Back Gesture Icon'
+ : Customize the arrow image of the back gesture with your own image.
+
+
+<v8.0.00.4>
 - Support One UI 8
 - Update UI/UX
 
