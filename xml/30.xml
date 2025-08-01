@@ -1293,8 +1293,10 @@ We are trying to make a fresh experience for users.
 		<restrictedAge>0</restrictedAge>
 		<permission>FOREGROUND_SERVICE_SPECIAL_USE||WAKE_LOCK||POST_NOTIFICATIONS||com.wssnps.permission.COM_WSSNPS||RECORD_AUDIO||INTERNET||FOREGROUND_SERVICE||RECEIVE_BOOT_COMPLETED||WRITE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE||REORDER_TASKS||CAMERA||READ_EXTERNAL_STORAGE||READ_PHONE_STATE</permission>
 			<updateDescription><![CDATA[<v1.1.18>
-- Just in Routine
-  : Create routines that Now Brief will remind you of at specific times. (Supported on One UI 7 and above devices.)
+-Just in Routine feature added (Supports One UI 7 and above):
+Create routines that can be reminded by Now Brief or notifications at specific times.
+※ Only available in Now Brief on One UI 8.0 and above.
+※ Otherwise, notifications will be used instead.
 - Fixed minor bugs.
 
 
