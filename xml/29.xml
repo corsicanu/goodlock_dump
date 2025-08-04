@@ -8,7 +8,7 @@
 		<productID>000003202866</productID>
 		<productName><![CDATA[ClockFace]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20250718034454481_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20250804044013596_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -17,7 +17,7 @@
 		<versionCode>120900000</versionCode> 
 		<realContentSize>9085581</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>REQUEST_DELETE_PACKAGES||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||SUBSTITUTE_SHARE_TARGET_APP_NAME_AND_ICON||INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS</permission>
+		<permission>REQUEST_DELETE_PACKAGES||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||SUBSTITUTE_SHARE_TARGET_APP_NAME_AND_ICON||INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||WRITE_SECURE_SETTINGS</permission>
 			<updateDescription><![CDATA[<v3.4.00.4>
 ※ v3.4.x supports One UI 8 and above devices.
 Added battery optimization exception for better clock display in ClockFace
@@ -588,7 +588,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250729023111297_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250804024038512_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
