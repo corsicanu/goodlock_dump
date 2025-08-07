@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>19</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -1056,14 +1056,14 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250724085104264_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250807023426239_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[7.0.17.0]]></versionName>
-		<versionCode>701700000</versionCode> 
-		<realContentSize>10370911</realContentSize>
+		<versionName><![CDATA[8.0.17.0]]></versionName>
+		<versionCode>801700000</versionCode> 
+		<realContentSize>10370178</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||SUBSTITUTE_NOTIFICATION_APP_NAME||READ_MEDIA_VIDEO||MANAGE_ACTIVITY_STACKS||FOREGROUND_SERVICE||com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||QUERY_ALL_PACKAGES||VIBRATE||INTERNAL_SYSTEM_WINDOW||MANAGE_ACTIVITY_TASKS||SET_PROCESS_LIMIT||CONTROL_KEYGUARD||ACCESS_NETWORK_STATE||READ_EXTERNAL_STORAGE</permission>
 			<updateDescription><![CDATA[<v8.0.17.0>
@@ -1351,7 +1351,7 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250729023120071_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250807023412350_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1986,17 +1986,27 @@ Permissions (Required)
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20250718033816082_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20250807060832845_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.6.07]]></versionName>
-		<versionCode>160700000</versionCode> 
-		<realContentSize>87503587</realContentSize>
+		<versionName><![CDATA[1.6.15]]></versionName>
+		<versionCode>161500000</versionCode> 
+		<realContentSize>88596442</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>BIND_WALLPAPER||INTERACT_ACROSS_USERS||com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||RECEIVE_BOOT_COMPLETED||AMBIENT_WALLPAPER||ACCESS_NETWORK_STATE||WAKE_LOCK||com.android.homescreen.home.permission.preview_image||SET_WALLPAPER||READ_EXTERNAL_STORAGE||SET_WALLPAPER_COMPONENT||MAINLINE_NETWORK_STACK</permission>
-			<updateDescription><![CDATA[<v1.6.07>
+			<updateDescription><![CDATA[<v1.6.15>
+[New]
+-Blur Effect: Added vertical and horizontal blur options for lock screen transition effects.
+
+[Improvements]
+-Fixed an issue where the Wonderland wallpaper on the Flip cover screen could not be reset to another wallpaper.
+-Updated user interface for improved usability.
+-Resolved intermittent issues with video playback and animations freezing.
+-Fixed an issue where the wallpaper setting was occasionally disabled on Fold devices.
+-Addressed intermittent app crashes during image and video resource loading.
+<v1.6.07>
 ※ This update is available only for devices with One UI 7 or higher.
 - Set wallpaper exclusively on the lock screen
 - See real-time previews of Wonderland backgrounds while setting wallpapers
@@ -2062,46 +2072,31 @@ Permissions (Required)
 - Support wallpaper sharing through Galaxy To Share
 
 <v1.2.27>
-- Support OneUI 5.0
-
-<v1.2.08>
-- Link with wallpaper and sticker resources
-- Video wallpaper effect
-- Add 3D effect of portrait mode in wallpaper
-  (Enjoy the 3D effect by setting the portrait mode taken with the Galaxy as the wallpaper)
-
-<v1.1.20.1>
-- Add new style contents,  'Autumn' and 'Winter'
-- Modify an compatibility issue in One UI 4
-
-<v1.1.16.1>
-- Delete unused app permissions. (Storage)
-
-<v1.1.15>
-- Change a saved path of output file due to new storage rule
-
-<v1.1.08>
-- Add new style contents,  'Spring and Summer']]></updateDescription>
+- Support OneUI 5.0]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create a moving wallpaper. 
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create moving wallpapers and stunning lock screen effects.
 
-Activate your hidden artist’s touch with Wonderland and become a creator.
-
-You can add your favorite images and create a motion effect. Use the various particle effects provided to simply and easily create a moving wallpaper of your very own. Try the Preview feature to get a glimpse of the motion and particle effects stage by stage.
+Activate your hidden artist's touch with Wonderland and become a creator. Transform both your home screen and lock screen experience. 
+Create motion effects for your wallpaper that respond to device movement, add beautiful particle effects like rain and snow, and design seamless transition animations between your lock screen and Always On Display (AOD).
+Use our intuitive tools and various presets to easily create your personalized dynamic wallpaper and lock screen experience.
 
 [Key Features]
-- Creating a motion effect for your wallpaper: You can set up a motion effect for an image of your choice.
-- Creating a particle effect for your wallpaper: You can set up a particle effect for images of your choice, use presets and directly set up an effect.
+- Motion wallpaper creation: Set up motion effects that respond to your device's gyroscope
+- Particle effects: Choose from 5 presets (rain, snow, bubbles, sparkles, spread) with full customization
+- Lock screen transitions: 12 unique transition effects for seamless lock screen to AOD experience
+- Layer-based editing: Combine multiple elements with independent effects
+- Real-time preview: See changes instantly before applying
 
 [Supported Languages]
-- Korean, English, Chinese Simplified,  Japanese
+- Korean, English, Chinese Simplified, Japanese
 
 [Notice for application's permission]
-To provide service, application needs below permission.
-Storage(Required) : When creating a wallpaper, access to storage is made in order to import images or videos.
+Wonderland uses these permissions
+- Required permissions
+Photos and Videos : Access images and videos for wallpaper creation.
 
-#wonderland #motionwallpaper #movingwallpaper #livewallpaper #GoodLockFriends #1]]></description>
+#wonderland #livewallpaper #dynamicwallpaper #lockscreeneffects #alwaysondisplay #particleeffects #motioneffects #customwallpaper #personalizedlockscreen]]></description>
 		</appInfo>
 	<serverType>PRD</serverType>
 </result>
