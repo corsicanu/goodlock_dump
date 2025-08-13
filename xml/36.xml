@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>19</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -342,6 +342,52 @@ Fixed an issue leading to unexpected app closure during effect processing at sta
 - Change images to app icons
 - Change app launch methods from notification pop-ups
    : Double-tap to launch apps, prevents swiping down]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000008122674</productID>
+		<productName><![CDATA[Game Booster +]]></productName>
+		<appId>com.samsung.android.game.honeyplayplus</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20250813082224998_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.01.6]]></versionName>
+		<versionCode>100106000</versionCode> 
+		<realContentSize>10938013</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission>FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||GET_PACKAGES||READ_PRIVILEGED_PHONE_STATE||RECEIVE_BOOT_COMPLETED||READ_SEARCH_INDEXABLES||REQUEST_INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||BLUETOOTH_CONNECT</permission>
+			<updateDescription><![CDATA[<v1.0.01.05>
+- Changed to slot-based key remapping for gamepads
+- Enabled in-app updates for GPU settings when a new version is released
+- Fixed app icon display error
+- Miscellaneous bug fixes]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[With Galaxy, enjoy a more fun gaming experience!
+
+[Main Features]
+- Gamepad Key Remapping: 
+ You can remap the gamepad keys to other desired keys.
+- GPU Settings (Rotation Optimization/Texture Quality): 
+ You can reduce the GPU load used for screen rotation in Vulkan games or change the quality of textures used in games to improve image quality or performance.
+- Change Game Category: 
+ You can change apps that are not classified as games but are games to the game category, so you can receive game-related support provided by the device.
+
+[Target]
+- This application is available on Android 15 or higher SAMSUNG devices.
+
+[Supported Languages]
+- Korean
+- English
+- Chinese
+- Japanese
+
+[Mandatory Access Permissions]
+- Nearby Devices (Required):
+ Access to Bluetooth device information for gamepad key remapping function
+
+#GoodLockFriends #2]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000004772683</productID>
