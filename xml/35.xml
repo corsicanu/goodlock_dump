@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>22</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -385,11 +385,11 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[]]></versionName>
-		<versionCode></versionCode> 
-		<realContentSize>0</realContentSize>
+		<versionName><![CDATA[1.0.01.6]]></versionName>
+		<versionCode>100106000</versionCode> 
+		<realContentSize>10938013</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission></permission>
+		<permission>FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||GET_PACKAGES||READ_PRIVILEGED_PHONE_STATE||RECEIVE_BOOT_COMPLETED||READ_SEARCH_INDEXABLES||REQUEST_INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||BLUETOOTH_CONNECT</permission>
 			<updateDescription><![CDATA[<v1.0.01.05>
 - Changed to slot-based key remapping for gamepads
 - Enabled in-app updates for GPU settings when a new version is released
