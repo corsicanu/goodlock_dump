@@ -329,7 +329,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20250814023331110_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20250821113120923_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -339,7 +339,11 @@ The following permissions are required for the app service. You can still use th
 		<realContentSize>7371593</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||INTERACT_ACROSS_USERS_FULL||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||MANAGE_USERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||MANAGE_FINGERPRINT||USE_BIOMETRIC_INTERNAL||BIND_APPWIDGET||SET_WALLPAPER||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
-			<updateDescription><![CDATA[<v7.0.01.9>
+			<updateDescription><![CDATA[<v7.0.01.10>  
+- Fixed intermittent errors that may occur during package updates.  
+- Resolved notification display issues on the tablet's horizontal lock screen. 
+
+<v7.0.01.9>
 ※ Available only on One UI 8 or higher
 - Fixed malfunction of Fold 7 cover screen AOD (unable to add widgets and stickers, brightness adjustment malfunction)
 - Fixed lock screen widget errors.
