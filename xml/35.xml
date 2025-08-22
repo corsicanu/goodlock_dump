@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>22</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -1792,17 +1792,22 @@ English, Korean, Chinese
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20250702073301912_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20250822005615252_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[7.2.00.2]]></versionName>
-		<versionCode>720000002</versionCode> 
-		<realContentSize>31336758</realContentSize>
+		<versionName><![CDATA[8.1.00.5]]></versionName>
+		<versionCode>810000005</versionCode> 
+		<realContentSize>31654405</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>MODIFY_PHONE_STATE||FOREGROUND_SERVICE||BLUETOOTH_ADMIN||FOREGROUND_SERVICE_SPECIAL_USE||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||ACCESS_NOTIFICATION_POLICY||INTERACT_ACROSS_USERS_FULL||ACCESS_NETWORK_STATE||WAKE_LOCK||POST_NOTIFICATIONS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||VIBRATE||RECORD_AUDIO||DEVICE_POWER||MODIFY_AUDIO_ROUTING||INTERNET||SYSTEM_APPLICATION_OVERLAY||MODIFY_AUDIO_SETTINGS||BLUETOOTH||BLUETOOTH_CONNECT||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v7.2.00.2>
+			<updateDescription><![CDATA[<v8.1.00.5>
+Note: Version 8.x.x supports devices running One UI 8.
+- Applied One UI 8.0 UI to my own volume panel
+- Applied stabilization code
+
+<v7.2.00.2>
 - Apply essential accessibility requirements
 - Applied stabilization code
 
