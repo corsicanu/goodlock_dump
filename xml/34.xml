@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>20</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -755,7 +755,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250813072808084_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250826062233586_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -765,7 +765,12 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<realContentSize>16924756</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS||BLUETOOTH_ADMIN||MEDIA_CONTENT_CONTROL||MANAGE_APP_OPS_MODES||REBOOT||INTERACT_ACROSS_USERS_FULL||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||REGISTER_WINDOW_MANAGER_LISTENERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||REORDER_TASKS||MANAGE_ACTIVITY_TASKS||REAL_GET_TASKS||CONTROL_DISPLAY_BRIGHTNESS||com.system.permission.READ_NOTIFICATIONS||BROADCAST_STICKY||INTERNET||CONTROL_KEYGUARD||STATUS_BAR_SERVICE||USE_FULL_SCREEN_INTENT||BLUETOOTH||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
-			<updateDescription><![CDATA[<v10.0.32>  
+			<updateDescription><![CDATA[<10.1.14>
+※ Supports One UI 8 and above.  
+-Added stickers and emojis.
+-Fixed minor bugs.
+
+<v10.0.32>  
 ※ Supports One UI 8 and above.  
 Exclusive 'Launcher Widget' feature for Flip7  
 - App Screen Size Conversion: Size conversion icon appears for easy switching between full, landscape, and portrait modes.  
@@ -1858,17 +1863,21 @@ Provide custom effect creation option.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20250806080028131_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20250826062855717_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.01.25]]></versionName>
-		<versionCode>110125000</versionCode> 
-		<realContentSize>40285713</realContentSize>
+		<versionName><![CDATA[1.1.01.31]]></versionName>
+		<versionCode>110131000</versionCode> 
+		<realContentSize>40303460</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
-			<updateDescription><![CDATA[<Version: 1.1.01.25>  
+			<updateDescription><![CDATA[<Version: 1.1.01.31>
+- UI improvements and bug fixes
+- Enhanced app stability
+
+<Version: 1.1.01.25>  
 - Improved UI and fixed bugs
 
 <Version: 1.1.01.23>  
