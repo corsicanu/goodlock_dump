@@ -442,7 +442,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20250902084619397_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20250908090929888_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1844,7 +1844,7 @@ Permissions (Required)
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20250902085719476_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20250908101217641_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1854,7 +1854,10 @@ Permissions (Required)
 		<realContentSize>85000246</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>BIND_WALLPAPER||INTERACT_ACROSS_USERS||com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||RECEIVE_BOOT_COMPLETED||AMBIENT_WALLPAPER||ACCESS_NETWORK_STATE||WAKE_LOCK||com.android.homescreen.home.permission.preview_image||SET_WALLPAPER||READ_EXTERNAL_STORAGE||SET_WALLPAPER_COMPONENT||MAINLINE_NETWORK_STACK</permission>
-			<updateDescription><![CDATA[<v1.6.15>
+			<updateDescription><![CDATA[<v1.6.16>
+- Improved battery efficiency when using dynamic wallpapers.
+
+<v1.6.15>
 [New]
 -Blur Effect: Added vertical and horizontal blur options for lock screen transition effects.
 
