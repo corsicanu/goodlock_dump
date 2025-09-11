@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>19</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -1242,17 +1242,17 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20250911022243881_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20250911100008990_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[8.3.19.0]]></versionName>
-		<versionCode>831900000</versionCode> 
-		<realContentSize>8384088</realContentSize>
+		<versionName><![CDATA[8.4.11.0]]></versionName>
+		<versionCode>841100000</versionCode> 
+		<realContentSize>8384064</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>MODIFY_PHONE_STATE||MEDIA_CONTENT_CONTROL||START_TASKS_FROM_RECENTS||INTERACT_ACROSS_USERS_FULL||SET_PROCESS_LIMIT||MANAGE_NOTIFICATIONS||WRITE_SECURE_SETTINGS||WAKE_LOCK||ACCESS_WIFI_STATE||MANAGE_USERS||PACKAGE_USAGE_STATS||BLUETOOTH_SCAN||MODIFY_DAY_NIGHT_MODE||com.wssnps.permission.COM_WSSNPS||INTERNAL_SYSTEM_WINDOW||MANAGE_ACTIVITY_TASKS||READ_PROJECTION_STATE||CONTROL_DISPLAY_BRIGHTNESS||MONITOR_INPUT||DEVICE_POWER||START_ACTIVITIES_FROM_BACKGROUND||CHANGE_WIFI_STATE||INJECT_EVENTS||RETRIEVE_WINDOW_CONTENT||BLUETOOTH_CONNECT||UPDATE_DEVICE_STATS||CHANGE_OVERLAY_PACKAGES||REMOVE_TASKS||FLASHLIGHT||FOREGROUND_SERVICE||EXPAND_STATUS_BAR||BLUETOOTH_ADMIN||RECEIVE_BOOT_COMPLETED||READ_FRAME_BUFFER||START_ANY_ACTIVITY||BLUETOOTH_ADVERTISE||STOP_APP_SWITCHES||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||ACCESS_NETWORK_STATE||MANAGE_ACTIVITY_STACKS||STATUS_BAR||QUERY_ALL_PACKAGES||VIBRATE||SET_ACTIVITY_WATCHER||REORDER_TASKS||READ_PRIVILEGED_PHONE_STATE||REAL_GET_TASKS||BIND_APPWIDGET||SET_ORIENTATION||STATUS_BAR_SERVICE||FORCE_STOP_PACKAGES||NETWORK_SETTINGS||BLUETOOTH||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<Version 8.3.19>
+			<updateDescription><![CDATA[<Version 8.4.11>
 - Fix gesture angle setting issue
 - Fix issues in OneUI8
 - Bug fixes and stability improvements.]]></updateDescription>
