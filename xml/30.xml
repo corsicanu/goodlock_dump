@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>17</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000003202866</productID>
@@ -866,17 +866,24 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250902085218161_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250923010527828_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[8.0.17.0]]></versionName>
-		<versionCode>801700000</versionCode> 
-		<realContentSize>10370178</realContentSize>
+		<versionName><![CDATA[8.0.33.0]]></versionName>
+		<versionCode>803300000</versionCode> 
+		<realContentSize>10369642</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>READ_WALLPAPER_INTERNAL||SUBSTITUTE_NOTIFICATION_APP_NAME||READ_MEDIA_VIDEO||MANAGE_ACTIVITY_STACKS||FOREGROUND_SERVICE||com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||QUERY_ALL_PACKAGES||VIBRATE||INTERNAL_SYSTEM_WINDOW||MANAGE_ACTIVITY_TASKS||SET_PROCESS_LIMIT||CONTROL_KEYGUARD||ACCESS_NETWORK_STATE||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v8.0.17.0>
+		<permission>READ_WALLPAPER_INTERNAL||SUBSTITUTE_NOTIFICATION_APP_NAME||READ_MEDIA_VIDEO||MANAGE_ACTIVITY_STACKS||FOREGROUND_SERVICE||com.wssnps.permission.COM_WSSNPS||INTERACT_ACROSS_USERS||READ_MEDIA_IMAGES||QUERY_ALL_PACKAGES||VIBRATE||INTERNAL_SYSTEM_WINDOW||MANAGE_ACTIVITY_TASKS||INTERACT_ACROSS_USERS_FULL||SET_PROCESS_LIMIT||CONTROL_KEYGUARD||ACCESS_NETWORK_STATE||MANAGE_USERS||READ_EXTERNAL_STORAGE</permission>
+			<updateDescription><![CDATA[<v8.0.33.00>  
+- App performance optimization.  
+- Fixed to not allow spaces when entering keywords.  
+ (Spaces were causing filtering issues, which have been resolved.)  
+※ Spaces in previously created filter keywords were not automatically removed, so please manually check and adjust them.  
+
+
+<v8.0.17.0>
 - Supports One UI 8.0
 
 <v7.0.17.0> 
@@ -976,25 +983,7 @@ v2.1.21.6
 - Improve sluggish issue while multiwindow( like pop-view and split view) of NotiStar.
 - Fixed the filter sorting issue.
 - Fixed the issue that NotiStar was not running after update.
-- Minor change of UI.
-
-v2.1.21.1
-- Fixed re-entering to Lock screen when changing notification hide content setting on Lock screen
-- Fixed the issue that NotiStar's filters are overlapped on Bottom Gesture Bar
-(Known issue : The issue that a NotiStar handler is shown on the app screen, not on the lock screen, is currently analyzing the cause. Please wait for next release)
-
-v.2.1.20.0
-- Support One UI 2.0
-- Support Dark mode
-- Customize a handler to run NotiStar on the Lock screen. ( handler's color, position, and opacity )
-
-v1.2.21.7
--Fixed the issue that the phone performance has deteriorated after receiving notifications.
-
-v1.2.20.7
-1. modified this issue,this is after run the camera app, when you touch a wide angle button, NotiStar is shown.
-2. when set on Hide content state, Header is shown only.
-3. Improved systemUI performance by reducin]]></updateDescription>
+- Minor change of UI.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[NotiStar is new notification management service
@@ -1025,7 +1014,8 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
   : When editing icons accessible on the lock screen, Storage is accessed to show the wallpaper on the preview screen.
 
 [Version Code]
-<NOTISTAR:2001:9001>]]></description>
+<NOTISTAR:2001:9001>
+#GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000003036952</productID>
