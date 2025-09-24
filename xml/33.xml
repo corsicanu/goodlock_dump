@@ -461,7 +461,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20250902085909075_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20250924000006068_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -471,7 +471,26 @@ The following permissions are required for the app service. You can still use th
 		<realContentSize>79858088</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||WRITE_EXTERNAL_STORAGE||INTERNET||WRITE_MEDIA_IMAGES||ACCESS_NETWORK_STATE||READ_EXTERNAL_STORAGE||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[■ One UI 7.0
+			<updateDescription><![CDATA[<v1.8.0.13>  
+Starting with One UI 8, meet the new face of Kids Cafe.  
+Based on valuable feedback from keyboard users, more convenient and fun features have been added.  
+※This version is first available on select devices with One UI 8 and will be rolled out gradually.
+✔️Main Update Contents  
+1. Revamped UI and Home Screen  
+ - Changed to a more intuitive design  
+ - View my usage statistics on the home screen:  
+  Today's input statistics, common typos, most frequently used word today, word canvas  
+2. Enhanced Keyboard Customization  
+ - Create and save multiple keyboard themes simultaneously  
+ - Expanded customization of key shapes and colors  
+ - Added gesture motion customization feature  
+3. New Gesture Customization Features  
+ - Quickly execute functions with two-finger or three-finger gestures  
+ - Provide gesture design usage  
+4. Stability improvements and bug fixes  
+
+
+■ One UI 7.0
 <v1.7.0.12>
 * Bug fixes
 Make your own keyboard
@@ -502,39 +521,10 @@ Make your own keyboard
 - Correct errors that cannot be entered with Chinese keyboard in my own keyboard creation save menu
 - Fix the problem that occurred when the device was rotated in the keyboard creation dialog
 
+■ One UI 6.0
 <v1.6.0.9>
  - Applied stabilization code of One UI 6.0.
- - Create Keyboards at low resolution - Editing Keyboards has fixed problems that are difficult to edit because the keyboard size is too large.
-
-■ One UI 5.1.1
-<v1.0.7.2>
-* New features
-Retro touch sound, Calm touch sound, Fun touch sound
- - Text keys, function keys, and backspace have different touch sounds.
-The sound tab will be back with a better update next time.
-
-* Bug fixes
-Make your own keyboard
- - Fix bugs that intermittently terminate Keys Cafe when moving keys in editing the split keyboard.
- - Fix a bug that terminates Keys Cafe when loading a layout file and selecting a file that does not support Keys Cafe
-
-Style your own keyboard
- - Fixed issues that occurred due to overlapping touch sounds when selecting sounds on the sound tab
- - Fix bugs where key animations sometimes do not return to their original state when using key motion effects
-
-Correct issues that do not show advanced keyboard settings intermittently
-
-■ One UI 5.0
-<v1.0.6.16>
-* Bug fixes
--Fix bugs that not apply the custom keyboard immediately after backup & restore.
--Fix bugs that did not play immediately soud when selecting touch sound.
-
-<v1.0.6.11>
-* Bug fixes
-- Fix bugs that did not show any keyboard color effect on multi-touch
-- Add some more emoticon keys on 'Make your own keyboard'
-- Fix bugs that 'Use sticker suggestions in a larget view' of keyboard advanced setting is not restored through GTS]]></updateDescription>
+ - Create Keyboards at low resolution - Editing Keyboards has fixed problems that are difficult to edit because the keyboard size is too large.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Set up a keyboard that’s tailored to you.
