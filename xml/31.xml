@@ -921,6 +921,8 @@ Provides a variety of screen shot options.(Some functions are available only on 
 - Fixed to not allow spaces when entering keywords.  
  (Spaces were causing filtering issues, which have been resolved.)  
 ※ Spaces in previously created filter keywords were not automatically removed, so please manually check and adjust them.  
+※ Please restart your device after installing the new version.
+
 
 
 <v8.0.17.0>
