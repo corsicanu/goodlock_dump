@@ -558,7 +558,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250902090807496_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250924080044191_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -568,7 +568,11 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<realContentSize>13669415</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS||BLUETOOTH_ADMIN||MEDIA_CONTENT_CONTROL||MANAGE_APP_OPS_MODES||REBOOT||INTERACT_ACROSS_USERS_FULL||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||REGISTER_WINDOW_MANAGER_LISTENERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||REORDER_TASKS||MANAGE_ACTIVITY_TASKS||REAL_GET_TASKS||CONTROL_DISPLAY_BRIGHTNESS||com.system.permission.READ_NOTIFICATIONS||BROADCAST_STICKY||INTERNET||CONTROL_KEYGUARD||STATUS_BAR_SERVICE||USE_FULL_SCREEN_INTENT||BLUETOOTH||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
-			<updateDescription><![CDATA[<10.1.14>
+			<updateDescription><![CDATA[<v10.2.13>
+※ Supports devices with One UI 8 and above.
+- Application performance optimized.
+
+<10.1.14>
 ※ Supports One UI 8 and above.  
 -Added stickers and emojis.
 -Fixed minor bugs.
@@ -906,7 +910,7 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250923010527828_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250924021256694_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
