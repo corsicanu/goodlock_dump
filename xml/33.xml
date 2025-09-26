@@ -8,7 +8,7 @@
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20250909054612653_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20250926055827680_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -19,7 +19,7 @@
 		<restrictedAge>0</restrictedAge>
 		<permission>ACCESS_NETWORK_STATE</permission>
 			<updateDescription><![CDATA[Support model
-- One UI 8.0 or higher : Flip7/Fold7
+- One UI 8.0 or higher : Flip7/Fold7/S25FE
 - One UI 7.0 or higher : S25/A56/M56/F56
 - One UI 6.1 or higher : S24FE/S21FE/A55/M53/Quantum5/Fold6/Flip6
 - One UI 6.0 or higher : S24/A73/A72/A54/A53/A52s/A52 5G/A52/M54/F54/Quantum 2
