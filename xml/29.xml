@@ -340,7 +340,7 @@ The following permissions are required for the app service. You can still use th
 		<realContentSize>19150306</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||WRITE_EXTERNAL_STORAGE||INTERNET||WRITE_MEDIA_IMAGES||ACCESS_NETWORK_STATE||READ_EXTERNAL_STORAGE||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v1.8.0.13>  
+			<updateDescription><![CDATA[<1.8.00.13>  
 Starting with One UI 8, meet the new face of Kids Cafe.  
 Based on valuable feedback from keyboard users, more convenient and fun features have been added.  
 ※This version is first available on select devices with One UI 8 and will be rolled out gradually.
