@@ -8,7 +8,7 @@
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20251002063710773_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20251022030106667_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -24,6 +24,9 @@
 - One UI 6.1 or higher : S24FE/S21FE/A55/M53/Quantum5/Fold6/Flip6
 - One UI 6.0 or higher : S24/A73/A72/A54/A53/A52s/A52 5G/A52/M54/F54/Quantum 2
 - One UI 5.1 or higher : S23/S23FE/S22/S21/S20/Note20/Fold5/Flip5/Fold4/Flip4/Fold3/Flip3/Fold2/Flip
+
+<v4.0.00.6>
+- 3D capture [Flip7/Fold7/S25]
 
 <v4.0.00.4>
  - Auto zoom in Flex mode [Flip7]
@@ -133,6 +136,8 @@ It provides ON/OFF features for the following features:
   Sound / Timing
 - Video recording in Photo mode
   Touch and hold the Shutter button to record videos in Photo mode.
+- 3D Capture
+  Add a 3D capture option to the top of the preview so you can create spatial photos and videos for Galaxy XR headsets.
 - DOF adapter correction
   Automatically flip previews and captures vertically to support external depth-of-field adapters. The correction is only applied in Pro and Pro Video modes. This feature requires an external accessory.
 - Anamorphic lens correction
@@ -491,7 +496,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20251020052145476_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20251022040230350_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -501,7 +506,7 @@ The following permissions are required for the app service. You can still use th
 		<realContentSize>79858088</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||WRITE_EXTERNAL_STORAGE||INTERNET||WRITE_MEDIA_IMAGES||ACCESS_NETWORK_STATE||READ_EXTERNAL_STORAGE||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v1.8.0.13>  
+			<updateDescription><![CDATA[<1.8.00.13>  
 Starting with One UI 8, meet the new face of Kids Cafe.  
 Based on valuable feedback from keyboard users, more convenient and fun features have been added.  
 ※This version is first available on select devices with One UI 8 and will be rolled out gradually.
