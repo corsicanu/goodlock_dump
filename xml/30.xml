@@ -713,7 +713,7 @@ Floating Notification
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20251020051617182_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20251028052218150_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -723,7 +723,11 @@ Floating Notification
 		<realContentSize>3970929</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||READ_MEDIA_VISUAL_USER_SELECTED||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v8.0.00.22>
+			<updateDescription><![CDATA[<v8.0.00.47>
+- Fixed issue where NavStar icon was not applied in DeX
+- Added exception handling for stability and made minor UI adjustments
+
+<v8.0.00.22>
 ※ v8.x.x supports One UI 8 devices.
 -Fixed keyboard layout issue on the flip cover screen:
   Improved UI errors occurring while using NavStar swipe gestures.
