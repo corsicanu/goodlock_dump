@@ -4,11 +4,14 @@ import time
 import shutil
 import requests
 import xml.etree.ElementTree as ET
-import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+from colorama import Fore, Style, init
 
-# Step 1: Parse Command Line Arguments
+# Initialize colored console output
+init(autoreset=True)
+
+# === Step 1: Parse Command Line Arguments ===
 parser = argparse.ArgumentParser()
 parser.add_argument("-d", "--deviceId", required=True)
 parser.add_argument("-s", "--sdk", required=True)
@@ -17,29 +20,28 @@ parser.add_argument("-c", "--csc", required=True)
 parser.add_argument("-v", "--version", required=True)
 args = parser.parse_args()
 
-# Create the XML directory if it doesn't exist
-xml_dir = f"xml"
-os.makedirs(xml_dir, exist_ok=True)
-
-# Create the app directory
+# === Step 2: Prepare Directories ===
+xml_dir = "xml"
 app_dir = os.path.join("releases", args.sdk)
+
+os.makedirs(xml_dir, exist_ok=True)
 os.makedirs(app_dir, exist_ok=True)
 
-# Remove the XML file for sdk if exists
-if os.path.exists(os.path.join("xml", f"{args.sdk}.xml")):
-    os.remove(os.path.join("xml", f"{args.sdk}.xml"))
+# Clean up old files
+xml_file = os.path.join(xml_dir, f"{args.sdk}.xml")
+if os.path.exists(xml_file):
+    os.remove(xml_file)
 
-# Remove the versions.txt file if exists and recreate it
 if os.path.exists("versions.txt"):
     os.remove("versions.txt")
 with open("versions.txt", "a") as versions_file:
-    versions_file.write(f"Included apps and versions: \n")
+    versions_file.write("Included apps and versions:\n")
 
-# Create a session with retries and backoff
+# === Step 3: Create Session with Retry Logic ===
 session = requests.Session()
 retries = Retry(
-    total=5,                # retry up to 5 times
-    backoff_factor=2,       # exponential backoff (2s, 4s, 8s, …)
+    total=5,
+    backoff_factor=2,
     status_forcelist=[500, 502, 503, 504],
     allowed_methods=["GET"],
 )
@@ -51,10 +53,10 @@ def safe_get(url, timeout=20):
     try:
         return session.get(url, timeout=timeout)
     except requests.exceptions.RequestException as e:
-        print(f"[ERROR] Request failed for {url}: {e}")
+        print(Fore.RED + f"[ERROR] Request failed for {url}: {e}")
         return None
 
-# Step 2: Construct URL
+# === Step 4: Get Main App List XML ===
 base_url = "http://vas.samsungapps.com/product/getContentCategoryProductList.as"
 query_params = {
     "contentCategoryID": "0000005309",
@@ -79,49 +81,80 @@ query_params = {
 }
 url = f"{base_url}?{'&'.join([f'{key}={value}' for key, value in query_params.items()])}"
 
-# Step 3: Perform Initial cURL Request and Save to tmp file
+print(Fore.CYAN + f"\n[INFO] Fetching app list for SDK {args.sdk}...")
+print(Fore.LIGHTBLACK_EX + f"[DEBUG] {url}")
+
 response = safe_get(url)
-if response.status_code == 200:    
-    with open(f"{xml_dir}/{args.sdk}.xml", "wb") as tmp_file:
-        tmp_file.write(response.content)
+if not response or response.status_code != 200:
+    print(Fore.RED + "[ERROR] Failed to fetch app list.")
+    exit(1)
 
-# Step 4: Parse the Initial XML and Extract "appId" fields
-tree = ET.parse(f"{xml_dir}/{args.sdk}.xml")
+with open(xml_file, "wb") as tmp_file:
+    tmp_file.write(response.content)
+
+# === Step 5: Parse XML for App IDs ===
+tree = ET.parse(xml_file)
 root = tree.getroot()
-
-# Extract "appId" elements without considering namespaces
 app_ids = [element.text for element in root.findall(".//appId")]
 
-# Step 5: Loop through extracted "appId" values
-for app_id in app_ids:
-    # Step 6: Construct Subsequent URL
-    subsequent_url = f"https://vas.samsungapps.com/stub/stubDownload.as?appId={app_id}&callerId=com.samsung.android.goodlock&callerVersion=301001000&extuk=0191d6627f38685f&deviceId={args.deviceId}&mcc=262&mnc=01&csc={args.csc}&sdkVer={args.sdk}&abiType=64&abiType=64&oneUiVersion={args.version}&isAutoUpdate=0&cc=NONE&pd=0&updateType=ond&versionCode=-1"
+total_apps = len(app_ids)
+print(Fore.GREEN + f"[INFO] Found {total_apps} apps to process.\n")
 
-    # Step 7: Perform Subsequent cURL Request
-    print(f"Checking with {subsequent_url}")
+# === Step 6: Process Each App ===
+for idx, app_id in enumerate(app_ids, start=1):
+    subsequent_url = (
+        f"https://vas.samsungapps.com/stub/stubDownload.as"
+        f"?appId={app_id}&callerId=com.samsung.android.goodlock"
+        f"&callerVersion=301001000&extuk=0191d6627f38685f"
+        f"&deviceId={args.deviceId}&mcc=262&mnc=01&csc={args.csc}"
+        f"&sdkVer={args.sdk}&abiType=64&oneUiVersion={args.version}"
+        f"&isAutoUpdate=0&cc=NONE&pd=0&updateType=ond&versionCode=-1"
+    )
+
+    print(Fore.YELLOW + f"[{idx}/{total_apps}] Checking appId: {app_id}")
+    print(Fore.LIGHTBLACK_EX + f"└─ {subsequent_url}")
+
     subsequent_response = safe_get(subsequent_url)
-    
-    if subsequent_response.status_code == 200:
-        # Step 8: Parse Subsequent XML and Extract Data
+    if not subsequent_response or subsequent_response.status_code != 200:
+        print(Fore.RED + f"  └─ Skipped (failed request)")
+        continue
+
+    # Parse XML for details
+    try:
         subsequent_tree = ET.fromstring(subsequent_response.text)
         sub_app_id = subsequent_tree.find(".//appId").text
         download_uri = subsequent_tree.find(".//downloadURI").text
         product_name = subsequent_tree.find(".//productName").text
         version_name = subsequent_tree.find(".//versionName").text
-        
-        # Check if download_uri is not None
-        if download_uri:
-            # Step 9: Download Files and Save
-            response = safe_get(download_uri)
-            if response.status_code == 200:                
-                print(f"Found app {product_name} with version {version_name}")
-                file_name = f"{app_dir}/{sub_app_id}.apk"
-                
-                with open(file_name, "wb") as apk_file:
-                    apk_file.write(response.content)
-                
-                # Write down versions
-                with open("versions.txt", "a") as versions_file:
-                    versions_file.write(f"- {product_name} {version_name} \n")
-        else:
-            print(f"Warning: 'download_uri' is None for appId: {sub_app_id}")
+    except Exception as e:
+        print(Fore.RED + f"  └─ XML parse error: {e}")
+        continue
+
+    if not download_uri:
+        print(Fore.RED + f"  └─ Missing download URI for {sub_app_id}")
+        continue
+
+    print(Fore.BLUE + f"  ├─ {product_name} v{version_name}")
+    print(Fore.LIGHTBLACK_EX + f"  ├─ Download: {download_uri}")
+
+    # Download the APK
+    response = safe_get(download_uri)
+    if not response or response.status_code != 200:
+        print(Fore.RED + "  └─ Failed to download APK")
+        continue
+
+    file_name = os.path.join(app_dir, f"{sub_app_id}.apk")
+    with open(file_name, "wb") as apk_file:
+        apk_file.write(response.content)
+
+    with open("versions.txt", "a") as versions_file:
+        versions_file.write(f"- {product_name} {version_name}\n")
+
+    print(Fore.GREEN + f"  └─ Downloaded: {file_name}\n")
+
+    # Optional short pause to avoid rate limiting
+    time.sleep(1)
+
+print(Fore.CYAN + "\n[INFO] Dump completed successfully!")
+print(Fore.CYAN + f"[INFO] Files saved in: {app_dir}")
+print(Fore.CYAN + f"[INFO] Version log: versions.txt\n")
