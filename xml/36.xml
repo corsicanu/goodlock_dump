@@ -280,7 +280,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000007812075</productID>
 		<productName><![CDATA[Display Assistant]]></productName>
 		<appId>com.samsung.android.displayassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000007812075/IconImage_20251028095805009_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000007812075/IconImage_20251030020404447_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -290,7 +290,10 @@ Enjoy your own clockface on Lockscreen and AOD
 		<realContentSize>8460583</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>UPDATE_APP_OPS_STATS||FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||CONNECTIVITY_INTERNAL||START_FOREGROUND_SERVICES_FROM_BACKGROUND||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||POST_NOTIFICATIONS||FOREGROUND_SERVICE_MEDIA_PLAYBACK||PACKAGE_USAGE_STATS||STATUS_BAR||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||CONFIGURE_DISPLAY_BRIGHTNESS||INTERNAL_SYSTEM_WINDOW||DEVICE_POWER||INTERNET||SYSTEM_APPLICATION_OVERLAY||READ_PHONE_STATE</permission>
-			<updateDescription><![CDATA[<v8.0.13>
+			<updateDescription><![CDATA[<v8.1.02>
+ - Stability improvements and bug fixes
+
+<v8.0.13>
  - Support OneUI 8.0
 
 <v7.1.06>
@@ -352,6 +355,39 @@ Fixed an issue leading to unexpected app closure during effect processing at sta
    : Double-tap to launch apps, prevents swiping down]]></description>
 		</appInfo>
 	<appInfo>
+		<productID>000003084395</productID>
+		<productName><![CDATA[EdgeTouch]]></productName>
+		<appId>com.samsung.android.app.edgetouch</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20250902085808242_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.3.16]]></versionName>
+		<versionCode>131600000</versionCode> 
+		<realContentSize>4683392</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission>INTERACT_ACROSS_USERS_FULL||READ_MEDIA_IMAGES||ACCESS_NETWORK_STATE||INTERNAL_SYSTEM_WINDOW||WRITE_SECURE_SETTINGS||SET_ACTIVITY_WATCHER||POST_NOTIFICATIONS||READ_EXTERNAL_STORAGE</permission>
+			<updateDescription><![CDATA[<v1.3.16>
+ - OneUI8 support
+ - Bug fixes and stability improvements.]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
+
+
+The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
+
+[Optional permissions]
+- Photos and videos : Save image files to the device
+- Notification : Show selected edge zone information
+
+If your system software version is lower than Android 6.0, please update the software to configure App permissions.
+Previously allowed permissions can be reset on Apps menu in device settings after software update.
+
+#GoodLockFriends]]></description>
+		</appInfo>
+	<appInfo>
 		<productID>000008122674</productID>
 		<productName><![CDATA[Game Booster +]]></productName>
 		<appId>com.samsung.android.game.honeyplayplus</appId>
@@ -403,18 +439,22 @@ OneUI 8.0
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20251020051547148_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20251030024917363_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[17.0.00.40]]></versionName>
-		<versionCode>1700005040</versionCode> 
-		<realContentSize>62099680</realContentSize>
+		<versionName><![CDATA[17.0.00.48]]></versionName>
+		<versionCode>1700005048</versionCode> 
+		<realContentSize>62169152</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||REORDER_TASKS</permission>
-			<updateDescription><![CDATA[<17.0.00.40>
+			<updateDescription><![CDATA[<17.0.00.48>
 ※ Supports devices with One UI 8 and above.
+- Bug fix for the widget content appearing larger than expected when using DIY Home.
+- Fixed other bugs.
+
+<17.0.00.40>
 -Added tablet device support.
 ※When creating a desktop workspace on tablets, the Task Changer layout is fixed to the default type to maintain task switching usability.
 -Other bug fixes and stability improvements.
@@ -551,7 +591,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20251022040230350_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20251030024010184_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1389,6 +1429,66 @@ Thank you.
 #GoodLockFriends #5]]></description>
 		</appInfo>
 	<appInfo>
+		<productID>000005198690</productID>
+		<productName><![CDATA[Pentastic]]></productName>
+		<appId>com.samsung.android.pentastic</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20250902090716667_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.3.09]]></versionName>
+		<versionCode>230900000</versionCode> 
+		<realContentSize>35603966</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WRITE_SETTINGS</permission>
+			<updateDescription><![CDATA[<2.3.09>
+- Modify to allow only on devices supporting Air Command
+- Applied stabilization code
+
+<2.3.08>
+※This version supports One UI 7.0 and later devices.
+- Applied stabilization code of One UI 7.0.
+- Applied new Feature (Custom Floating Icon)
+
+<2.2.04>
+- Fixed an issue that does not change the style of the air command
+- Fixed the FC issue on Chinese model
+
+<2.2.03>
+- Applied stabilization code of One UI 6.0.
+※This version supports One UI 6.0 and later devices.
+
+<2.0.5.3>
+Supported Air command Compact mode within the S Pen settings
+
+<1.1.14.1>
+Fixed an error of the app ternimation in OneUI 5 device.
+
+<1.1.14>
+- Link with wallpaper and sticker resources 
+
+<1.1.11>
+- Support Air command background
+* This feature works above Air command v5.6.21]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Add your uniqueness to S pen with Pentastic!
+Switch to Air Command that is more convenient for you to use.
+You can set yourself the shape of the S Pen Hover Pointer, the sound made when you pull out or put in the pen.
+If you tap the screen twice while pressing S Pen button, you can run the preset features immediately.
+
+[Key features]
+Change the form of Air Command
+Change the shape of S Pen Hover Pointer
+Change the sound of S Pen
+Set double tap to shortcut by pressing S Pen
+
+* OneUI2.1 supports only 'Change the form of Air Command' feature.
+
+#Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
+		</appInfo>
+	<appInfo>
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
@@ -1537,9 +1637,9 @@ We are trying to make a fresh experience for users.
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.54]]></versionName>
-		<versionCode>105400000</versionCode> 
-		<realContentSize>32441916</realContentSize>
+		<versionName><![CDATA[1.0.58]]></versionName>
+		<versionCode>105800000</versionCode> 
+		<realContentSize>20357387</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS||FOREGROUND_SERVICE||FOREGROUND_SERVICE_SPECIAL_USE||READ_CLIPBOARD_IN_BACKGROUND||INTERACT_ACROSS_USERS_FULL||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||ACCESS_NETWORK_STATE||WAKE_LOCK||WRITE_SECURE_SETTINGS||POST_NOTIFICATIONS||HIGH_SAMPLING_RATE_SENSORS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||VIBRATE||UNLIMITED_TOASTS||START_ACTIVITIES_FROM_BACKGROUND||INJECT_EVENTS||FORCE_STOP_PACKAGES||CONTROL_KEYGUARD||SYSTEM_APPLICATION_OVERLAY</permission>
 			<updateDescription><![CDATA[<1.0.58>
