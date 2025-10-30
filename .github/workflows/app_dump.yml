@@ -16,7 +16,7 @@ jobs:
       max-parallel: 1
       matrix:
         include:
-          - device: "SM-F966B"
+          - device: "SM-S938B"
             sdk: "36"
             os: "16"
             csc: "EUX"
