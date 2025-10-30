@@ -4,6 +4,9 @@ import time
 import shutil
 import requests
 import xml.etree.ElementTree as ET
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # Step 1: Parse Command Line Arguments
 parser = argparse.ArgumentParser()
@@ -32,6 +35,25 @@ if os.path.exists("versions.txt"):
 with open("versions.txt", "a") as versions_file:
     versions_file.write(f"Included apps and versions: \n")
 
+# Create a session with retries and backoff
+session = requests.Session()
+retries = Retry(
+    total=5,                # retry up to 5 times
+    backoff_factor=2,       # exponential backoff (2s, 4s, 8s, …)
+    status_forcelist=[500, 502, 503, 504],
+    allowed_methods=["GET"],
+)
+session.mount("http://", HTTPAdapter(max_retries=retries))
+session.mount("https://", HTTPAdapter(max_retries=retries))
+
+def safe_get(url, timeout=20):
+    """Wrapper for GET requests with retry and timeout."""
+    try:
+        return session.get(url, timeout=timeout)
+    except requests.exceptions.RequestException as e:
+        print(f"[ERROR] Request failed for {url}: {e}")
+        return None
+
 # Step 2: Construct URL
 base_url = "http://vas.samsungapps.com/product/getContentCategoryProductList.as"
 query_params = {
@@ -58,7 +80,7 @@ query_params = {
 url = f"{base_url}?{'&'.join([f'{key}={value}' for key, value in query_params.items()])}"
 
 # Step 3: Perform Initial cURL Request and Save to tmp file
-response = requests.get(url)
+response = safe_get(url)
 if response.status_code == 200:    
     with open(f"{xml_dir}/{args.sdk}.xml", "wb") as tmp_file:
         tmp_file.write(response.content)
@@ -77,7 +99,7 @@ for app_id in app_ids:
 
     # Step 7: Perform Subsequent cURL Request
     print(f"Checking with {subsequent_url}")
-    subsequent_response = requests.get(subsequent_url)
+    subsequent_response = safe_get(subsequent_url)
     
     if subsequent_response.status_code == 200:
         # Step 8: Parse Subsequent XML and Extract Data
@@ -90,7 +112,7 @@ for app_id in app_ids:
         # Check if download_uri is not None
         if download_uri:
             # Step 9: Download Files and Save
-            response = requests.get(download_uri)
+            response = safe_get(download_uri)
             if response.status_code == 200:                
                 print(f"Found app {product_name} with version {version_name}")
                 file_name = f"{app_dir}/{sub_app_id}.apk"
