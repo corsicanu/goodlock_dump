@@ -280,7 +280,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000007812075</productID>
 		<productName><![CDATA[Display Assistant]]></productName>
 		<appId>com.samsung.android.displayassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000007812075/IconImage_20251028095805009_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000007812075/IconImage_20251030020404447_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -290,7 +290,10 @@ Enjoy your own clockface on Lockscreen and AOD
 		<realContentSize>8460583</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>UPDATE_APP_OPS_STATS||FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||CONNECTIVITY_INTERNAL||START_FOREGROUND_SERVICES_FROM_BACKGROUND||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||POST_NOTIFICATIONS||FOREGROUND_SERVICE_MEDIA_PLAYBACK||PACKAGE_USAGE_STATS||STATUS_BAR||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||CONFIGURE_DISPLAY_BRIGHTNESS||INTERNAL_SYSTEM_WINDOW||DEVICE_POWER||INTERNET||SYSTEM_APPLICATION_OVERLAY||READ_PHONE_STATE</permission>
-			<updateDescription><![CDATA[<v8.0.13>
+			<updateDescription><![CDATA[<v8.1.02>
+ - Stability improvements and bug fixes
+
+<v8.0.13>
  - Support OneUI 8.0
 
 <v7.1.06>
@@ -436,7 +439,7 @@ OneUI 8.0
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20251020051547148_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20251030024917363_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -446,8 +449,12 @@ OneUI 8.0
 		<realContentSize>51349853</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||REORDER_TASKS</permission>
-			<updateDescription><![CDATA[<17.0.00.40>
+			<updateDescription><![CDATA[<17.0.00.48>
 ※ Supports devices with One UI 8 and above.
+- Bug fix for the widget content appearing larger than expected when using DIY Home.
+- Fixed other bugs.
+
+<17.0.00.40>
 -Added tablet device support.
 ※When creating a desktop workspace on tablets, the Task Changer layout is fixed to the default type to maintain task switching usability.
 -Other bug fixes and stability improvements.
@@ -584,7 +591,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20251022040230350_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20251030024010184_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
