@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>21</endNum>
+	<endNum>22</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -275,6 +275,49 @@ Enjoy your own clockface on Lockscreen and AOD
 - English
 - Simplified Chinese
 #5]]></description>
+		</appInfo>
+	<appInfo>
+		<productID>000007812075</productID>
+		<productName><![CDATA[Display Assistant]]></productName>
+		<appId>com.samsung.android.displayassistant</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000007812075/IconImage_20251031025008635_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.1.02]]></versionName>
+		<versionCode>810200000</versionCode> 
+		<realContentSize>8460583</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission>UPDATE_APP_OPS_STATS||FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||CONNECTIVITY_INTERNAL||START_FOREGROUND_SERVICES_FROM_BACKGROUND||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||POST_NOTIFICATIONS||FOREGROUND_SERVICE_MEDIA_PLAYBACK||PACKAGE_USAGE_STATS||STATUS_BAR||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||CONFIGURE_DISPLAY_BRIGHTNESS||INTERNAL_SYSTEM_WINDOW||DEVICE_POWER||INTERNET||SYSTEM_APPLICATION_OVERLAY||READ_PHONE_STATE</permission>
+			<updateDescription><![CDATA[<v8.1.02>
+ - Stability improvements and bug fixes
+
+<v8.0.13>
+ - Support OneUI 8.0
+
+<v7.1.06>
+ - Support OneUI 7.0
+ - Good lock friends]]></updateDescription>
+		<sellerName><![CDATA[Galaxy Labs ]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Display Assistant helps optimize your screen to suit your preferences.
+
+1. App's screen timeout : Set the screen timeout according to app characteristics. Try using this feature when you want to keep the screen turned on longer while using specific apps.
+2. Keep screen on : you can maintain the screen on even without touching it
+3. Brightness limit profile : Temporarily use this option when the device needs to maintain brightness even at high temperatures.
+4. Adaptive brightness options : Adjust the speed of the brightness change , Reset brightness usage pattern
+5. Standard refresh rate apps :  Add apps that don't require high refresh rates to increase battery life.
+6. Screen curtain :  The display enters doze state, making it effective for saving battery life. Try using it during long video playback or recoding.
+
+* Supported from One UI 7.0
+It may take some time for newly launched models to be supported.
+
+The app can be downloaded from the USA, Europe, Vietnam, South Korea, and China only.
+
+Supported language: English, Vietnamese, Korean, Chinese (Simplified)
+
+#GoodLockFriends]]></description>
 		</appInfo>
 	<appInfo>
 		<productID>000007063417</productID>
