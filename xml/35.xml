@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>22</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -1631,17 +1631,22 @@ We are trying to make a fresh experience for users.
 		<productID>000006559401</productID>
 		<productName><![CDATA[RegiStar]]></productName>
 		<appId>com.samsung.android.app.galaxyregistry</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20251106065426431_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20251106213857295_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.58]]></versionName>
-		<versionCode>105800000</versionCode> 
-		<realContentSize>20357387</realContentSize>
+		<versionName><![CDATA[1.0.67]]></versionName>
+		<versionCode>106700000</versionCode> 
+		<realContentSize>12702319</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS||FOREGROUND_SERVICE||FOREGROUND_SERVICE_SPECIAL_USE||READ_CLIPBOARD_IN_BACKGROUND||INTERACT_ACROSS_USERS_FULL||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||ACCESS_NETWORK_STATE||WAKE_LOCK||WRITE_SECURE_SETTINGS||POST_NOTIFICATIONS||HIGH_SAMPLING_RATE_SENSORS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||VIBRATE||UNLIMITED_TOASTS||START_ACTIVITIES_FROM_BACKGROUND||INJECT_EVENTS||FORCE_STOP_PACKAGES||CONTROL_KEYGUARD||SYSTEM_APPLICATION_OVERLAY</permission>
-			<updateDescription><![CDATA[<1.0.58>
+			<updateDescription><![CDATA[<1.0.67>
+- Fixed Gemini app launch issue on Flip cover screen.
+- Fixed Back-Tap function error in power saving mode.
+- Applied Back Tap stability patch.
+
+<1.0.58>
 - Apply patch considering compatibility with One UI 7.0 
 - Apply patch to provide app stability
 
