@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>22</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -323,17 +323,21 @@ Supported language: English, Vietnamese, Korean, Chinese (Simplified)
 		<productID>000007063417</productID>
 		<productName><![CDATA[Edge lighting+]]></productName>
 		<appId>com.samsung.android.edgelightingplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000007063417/IconImage_20251020051444981_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000007063417/IconImage_20251123235309334_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[7.0.00.12]]></versionName>
-		<versionCode>700000012</versionCode> 
-		<realContentSize>10910121</realContentSize>
+		<versionName><![CDATA[8.0.00.1]]></versionName>
+		<versionCode>800000001</versionCode> 
+		<realContentSize>10912138</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS_FULL||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v7.0.00.12>
+			<updateDescription><![CDATA[<v8.0.00.1>
+- Bug Fix
+- Support GTS
+
+<v7.0.00.12>
 Fixed an issue leading to unexpected app closure during effect processing at startup of One UI 7 devices.
 
 <v7.0.00.9>
