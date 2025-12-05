@@ -329,8 +329,12 @@ Fixed an issue leading to unexpected app closure during effect processing at sta
 		<realContentSize>23008455</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||REORDER_TASKS</permission>
-			<updateDescription><![CDATA[<17.0.00.48>
+			<updateDescription><![CDATA[<17.0.00.54>
 ※ Supports devices with One UI 8 and above.
+-Added support for home upgrades on Galaxy Z TriFold.
+-Fixed a DIY home bug.
+
+<17.0.00.48>
 - Bug fix for the widget content appearing larger than expected when using DIY Home.
 - Fixed other bugs.
 
@@ -435,11 +439,7 @@ v15.0.00.7
 
 <v13.0.00.39>
 - Disable the Favorites Maximum Count menu on the Tablet device (up to 14 are supported by default)
-- Fixed some errors
-
-<v13.0.00.35>
-- Fixed the display error of folder after S OS upgrade in Tablet
-- Increased the maximum number of favorites to 12 in Foldable device.]]></updateDescription>
+- Fixed some errors]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
