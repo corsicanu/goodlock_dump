@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>19</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -1241,18 +1241,18 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20251203064133721_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20251214234722492_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[8.5.11.0]]></versionName>
-		<versionCode>851100000</versionCode> 
-		<realContentSize>8384509</realContentSize>
+		<versionName><![CDATA[8.6.15.0]]></versionName>
+		<versionCode>861500000</versionCode> 
+		<realContentSize>8505869</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>MODIFY_PHONE_STATE||MEDIA_CONTENT_CONTROL||START_TASKS_FROM_RECENTS||INTERACT_ACROSS_USERS_FULL||SET_PROCESS_LIMIT||MANAGE_NOTIFICATIONS||WRITE_SECURE_SETTINGS||WAKE_LOCK||ACCESS_WIFI_STATE||MANAGE_USERS||PACKAGE_USAGE_STATS||BLUETOOTH_SCAN||MODIFY_DAY_NIGHT_MODE||com.wssnps.permission.COM_WSSNPS||INTERNAL_SYSTEM_WINDOW||MANAGE_ACTIVITY_TASKS||READ_PROJECTION_STATE||CONTROL_DISPLAY_BRIGHTNESS||MONITOR_INPUT||DEVICE_POWER||START_ACTIVITIES_FROM_BACKGROUND||CHANGE_WIFI_STATE||INJECT_EVENTS||RETRIEVE_WINDOW_CONTENT||BLUETOOTH_CONNECT||UPDATE_DEVICE_STATS||CHANGE_OVERLAY_PACKAGES||REMOVE_TASKS||FLASHLIGHT||FOREGROUND_SERVICE||EXPAND_STATUS_BAR||BLUETOOTH_ADMIN||RECEIVE_BOOT_COMPLETED||READ_FRAME_BUFFER||START_ANY_ACTIVITY||BLUETOOTH_ADVERTISE||STOP_APP_SWITCHES||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||ACCESS_NETWORK_STATE||MANAGE_ACTIVITY_STACKS||STATUS_BAR||QUERY_ALL_PACKAGES||VIBRATE||SET_ACTIVITY_WATCHER||REORDER_TASKS||READ_PRIVILEGED_PHONE_STATE||REAL_GET_TASKS||BIND_APPWIDGET||SET_ORIENTATION||STATUS_BAR_SERVICE||FORCE_STOP_PACKAGES||NETWORK_SETTINGS||BLUETOOTH||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<Version 8.5.11>
-- Fix brightness control malfunction issue in Quick tools.
+			<updateDescription><![CDATA[<Version 8.6.15>
+- Supports OneUI 8.5 beta.
 - Bug fixes and stability improvements.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -1686,7 +1686,7 @@ English, Korean, Chinese
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20251020051522530_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20251215003113204_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1841,7 +1841,7 @@ Provide custom effect creation option.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20251203015424025_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20251215012816297_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1851,7 +1851,14 @@ Provide custom effect creation option.
 		<realContentSize>23800964</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
-			<updateDescription><![CDATA[<Version: 1.1.01.31>
+			<updateDescription><![CDATA[<Version: 1.1.01.38>
+- Added theme bookmarking with heart icon and support for launching bookmarked themes via home screen shortcut
+- Improved icon editing UI (separated into Shape / Effect / Image)
+- Added emboss effect and monochrome image option
+- Updated Quick Panel icon preview
+- Added home screen badge color setting (available from One UI Home 8.5)
+
+<Version: 1.1.01.31>
 - UI improvements and bug fixes
 - Enhanced app stability
 
@@ -1892,79 +1899,7 @@ Fixed an issue where themes created with Theme Park couldn't be installed.
  - Code updated to support One UI 6.1.1
  - Bug fix for app icons transparency issue
  - Improved quick panel color
- - Stability improvements and other minor bug fixes
-
-
-<Version: 1.1.0.09>
- - Fixed  an app crash when creating an icon pack
- - Fixed  minor bugs like an applied color error.
-
-<Version: 1.1.00.08> 
-: We changed our previous 'APK installation method' to the devices' 'theme application method (Color palette)'. This results in the following improvements:
-
--Faster theme creation and application speed.
--The ability to edit and overwrite themes.
-- Automatically reflects new icons for newly installed apps based on the current icon pack being used.
-
-Due to changes in the theme application method, some features are no longer available:
- - Theme Park > More > 
-    1) Remove 'App's theme settings'
-    2) Remove 'Color palette change'
- - Theme Park > Theme > 'Keyboard' (or Theme Park > 'Keyboard') > 'Keycap Style' deleted
- - Theme Park > Theme > 'Home Screen' > Folder Shape Change deleted
-※ Please make sure to install the latest version of both QuickStar and Keys Cafe that work together with Theme Park as well.
-
-
-<Version: 1.0.9.72> 
-- ONE UI 6 support
-
-
-<Version: 1.0.9.62> 
-- UI improvements 
-- Fixed coloring issues
-
-
-<Version: 1.0.9.60> 
-- Adding the default theme to the list of themes and icons 
-
-<Version: 1.0.9.57> 
-- Ability to change Color Palette colors 
-- Other bug fixes and usability improvements
-
-<Version: 1.0.9.55> 
-- Fix layout broken issue of quickpanel preview
-- Squarcle icon size adjust
-- Other bug fixes and usability improvements
-
-<Version: 1.0.9.50> 
-- Fixed a bug that prevented some themes from being exported on GTS
-- Added the ability to change the background color of the brightness bar in the quick panel (T OS)
-- Other bug fixes and usability improvements
-
-<Version: 1.0.9.48>
-- Fixed issue with themes not being created on R OS
-- Removed transparency limit for notification background color in quickpanel
-- Other bug fixes and usability improvements
-
-<Version: 1.0.9.46>
--Fixed issues with some UI not being visible and quick panel preview
-
-<Version: 1.0.9.43>
-- One UI 5 Quick Panel Preview Update
-- Fix errors and theme colors
-
-<Version: 1.0.9.41>
--One UI 5.0 theme support
--Improve Quick Panel Bright Bar Custom UI
-
-<Version: 1.0.9.32>
-- Support to change All Apps icon
-- Fix color picker to extract color from image
-- Fix FC that occurs when there are many installed apps during icon pack authoring
-
-<Version: 1.0.9.29>
--Fixed theme colors such as keyboards, galleries, and home.
--Fixed a bug of icon pack function.]]></updateDescription>
+ - Stability improvements and other minor bug fixes]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily.
