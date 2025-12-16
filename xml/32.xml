@@ -683,7 +683,7 @@ Floating Notification
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20251203030117215_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20251216101146326_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -692,8 +692,13 @@ Floating Notification
 		<versionCode>420535000</versionCode> 
 		<realContentSize>5940629</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||READ_MEDIA_VISUAL_USER_SELECTED||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v8.0.00.47>
+		<permission>com.wssnps.permission.COM_WSSNPS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS</permission>
+			<updateDescription><![CDATA[<v8.0.00.69>
+- Add custom icon borders
+- Remove photo and video permissions
+- Fix FC and other issues
+
+<v8.0.00.47>
 - Fixed issue where NavStar icon was not applied in DeX
 - Added exception handling for stability and made minor UI adjustments
 
