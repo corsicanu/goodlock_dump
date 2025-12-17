@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>16</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000003202866</productID>
@@ -114,7 +114,8 @@ Enjoy your own clockface on Lockscreen and AOD
 - English
 - Simplified Chinese
 #5]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
@@ -266,7 +267,8 @@ The following permissions are required for the app service. You can still use th
 - Phone: Used to read phone status and identifier information (Android 14 or lower)
 
 <HOME_HOMESTAR:3001:6100>]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
@@ -367,7 +369,8 @@ Provides advanced functions related to Samsung Keyboard.
 ※Keys Cafe works from Samsung keyboard version 5.1.05.9
 
 #GoodLockFriends #0]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
@@ -523,7 +526,8 @@ You can decorate your lockscreen wallpapers more beautiful.
 - Japanese
 
 <LOCKSTAR:1003:4003>#1]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
@@ -678,7 +682,8 @@ Floating Notification
 [Version Code]
 <MULTISTAR:1000:10001>
 #6]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
@@ -784,7 +789,8 @@ V 2.0.0.8 (One UI 2.X)
 [Version Code]
 <NAVSTAR:1001:11000>
 #7]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
@@ -834,7 +840,8 @@ Press "Vibration history" in app's main screen and you get a list of application
 (please make sure that the switch is enabled before use.)
 
 #GoodLockFriends #3]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000003926817</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
@@ -884,7 +891,8 @@ Provides a variety of screen shot options.(Some functions are available only on 
 - Screen Recording: Provides screen recording function.
 
 * Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
@@ -1041,7 +1049,8 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 [Version Code]
 <NOTISTAR:2001:9001>
 #GoodLockFriends]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
@@ -1111,7 +1120,8 @@ Enjoy the convenience of gestures on your phone and tablet with this app.
 Thank you.
 
 #GoodLockFriends #5]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000005198690</productID>
 		<productName><![CDATA[Pentastic]]></productName>
@@ -1171,7 +1181,8 @@ Set double tap to shortcut by pressing S Pen
 * OneUI2.1 supports only 'Change the form of Air Command' feature.
 
 #Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
@@ -1311,7 +1322,8 @@ We are trying to make a fresh experience for users.
 [Version Code]
 <SLIMINDICATOR:1003:9000>
 #2]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
@@ -1411,7 +1423,8 @@ English, Korean, Chinese
 * Feature availability may vary by device model/OS version.
 
 <ROUTINE_PLUS:3000:99999>]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
@@ -1566,7 +1579,8 @@ Provide custom effect creation option.
 - More sound effects menu
 
 #GoodLockFriends]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
@@ -1680,7 +1694,8 @@ Permissions (Required)
   ■ Photos and videos (Storage): Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
 
 #GoodLockFriends #2]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
@@ -1799,6 +1814,7 @@ Wonderland uses these permissions
 Photos and Videos : Access images and videos for wallpaper creation.
 
 #wonderland #livewallpaper #dynamicwallpaper #lockscreeneffects #alwaysondisplay #particleeffects #motioneffects #customwallpaper #personalizedlockscreen]]></description>
-		</appInfo>
+		<fromPrepost>false</fromPrepost>
+	</appInfo>
 	<serverType>PRD</serverType>
 </result>
