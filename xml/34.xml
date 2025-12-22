@@ -322,7 +322,7 @@ Fixed an issue leading to unexpected app closure during effect processing at sta
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20251202014040318_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20251222093947451_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1640,17 +1640,20 @@ v1.0.26
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20251203021532541_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20251222100528219_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.18]]></versionName>
-		<versionCode>111807000</versionCode> 
-		<realContentSize>26326879</realContentSize>
+		<versionName><![CDATA[1.1.20]]></versionName>
+		<versionCode>112007000</versionCode> 
+		<realContentSize>26203171</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>FOREGROUND_SERVICE_SPECIAL_USE||WAKE_LOCK||POST_NOTIFICATIONS||com.wssnps.permission.COM_WSSNPS||RECORD_AUDIO||INTERNET||FOREGROUND_SERVICE||RECEIVE_BOOT_COMPLETED||WRITE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE||REORDER_TASKS||CAMERA||READ_EXTERNAL_STORAGE||READ_PHONE_STATE</permission>
-			<updateDescription><![CDATA[<v1.1.18>
+			<updateDescription><![CDATA[<v1.1.20>
+ - Fixed touch macro action error in One UI 8.5
+
+<v1.1.18>
 -Just in Routine feature added (Supports One UI 7 and above):
 Create routines that can be reminded by Now Brief or notifications at specific times.
 ※ Only available in Now Brief on One UI 8.0 and above.
