@@ -1526,7 +1526,13 @@ Set double tap to shortcut by pressing S Pen
 		<realContentSize>17531108</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||SYSTEM_ALERT_WINDOW||WRITE_SECURE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v9.0.00.01>
+			<updateDescription><![CDATA[<v10.0.00.2>  
+1) Official support for One UI 8.5 begins  
+   - Temporary limitation: 'Change quick setting button grid' feature is unavailable on One UI 8.5 devices. (To be improved with official binary release)  
+2) Stability improvements and bug fixes  
+
+
+<v9.0.00.01>
 ※ Version v9.X.X supports devices running One UI 7 and above.
 - Supports One UI 8 devices.
 - Fixed other bugs.
@@ -1649,7 +1655,7 @@ We are trying to make a fresh experience for users.
 - Japanese
 
 [Version Code]
-<SLIMINDICATOR:1003:9000>
+<SLIMINDICATOR:1003:10000>
 #2]]></description>
 		<fromPrepost>false</fromPrepost>
 	</appInfo>
