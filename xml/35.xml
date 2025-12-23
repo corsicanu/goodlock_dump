@@ -326,7 +326,7 @@ Supported language: English, Vietnamese, Korean, Chinese (Simplified)
 		<productID>000007063417</productID>
 		<productName><![CDATA[Edge lighting+]]></productName>
 		<appId>com.samsung.android.edgelightingplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000007063417/IconImage_20251203030131378_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000007063417/IconImage_20251223072621084_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -861,7 +861,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20251203020929367_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20251223070538496_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1124,7 +1124,7 @@ V 2.0.0.8 (One UI 2.X)
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20251203022954024_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20251223072536862_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1516,14 +1516,14 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20251203021552315_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20251223032841627_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[9.0.00.1]]></versionName>
-		<versionCode>900001000</versionCode> 
-		<realContentSize>17531108</realContentSize>
+		<versionName><![CDATA[10.0.00.2]]></versionName>
+		<versionCode>1000002000</versionCode> 
+		<realContentSize>17557453</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||SYSTEM_ALERT_WINDOW||WRITE_SECURE_SETTINGS</permission>
 			<updateDescription><![CDATA[<v10.0.00.2>  
