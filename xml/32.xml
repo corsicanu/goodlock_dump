@@ -856,7 +856,10 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<realContentSize>13632446</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||STATUS_BAR_SERVICE||ACCESS_NETWORK_STATE</permission>
-			<updateDescription><![CDATA[<v2.3.06>
+			<updateDescription><![CDATA[<v2.3.07>
+- Fix the issue where the NiceShot app remains in the GoodLock disable target list even after being disabled
+
+<v2.3.06>
 - Add 'Share to GTS' menu in more option
 - Fix settings not applied issues in some devices
 
