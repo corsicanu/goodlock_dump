@@ -744,7 +744,11 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<realContentSize>16253209</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS||BLUETOOTH_ADMIN||MEDIA_CONTENT_CONTROL||MANAGE_APP_OPS_MODES||REBOOT||INTERACT_ACROSS_USERS_FULL||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||REGISTER_WINDOW_MANAGER_LISTENERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||REORDER_TASKS||MANAGE_ACTIVITY_TASKS||REAL_GET_TASKS||CONTROL_DISPLAY_BRIGHTNESS||com.system.permission.READ_NOTIFICATIONS||BROADCAST_STICKY||INTERNET||CONTROL_KEYGUARD||STATUS_BAR_SERVICE||USE_FULL_SCREEN_INTENT||BLUETOOTH||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
-			<updateDescription><![CDATA[<v10.2.13>
+			<updateDescription><![CDATA[<v10.3.29>  
+- Galaxy Z Trifold only) Removed unsupported menu  - 'Continue using all apps on front screen'.  
+- Function optimization.  
+
+<v10.2.13>
 ※ Supports devices with One UI 8 and above.
 - Application performance optimized.
 
@@ -1885,7 +1889,12 @@ Provide custom effect creation option.
 		<realContentSize>23800964</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
-			<updateDescription><![CDATA[<Version: 1.1.01.38>
+			<updateDescription><![CDATA[<Version: 1.1.01.43>
+- Improved image loading stability and performance
+- UI/UX enhancements and landscape mode support for Fold devices
+- Overall usability and stability improvements
+
+<Version: 1.1.01.38>
 - Added theme bookmarking with heart icon and support for launching bookmarked themes via home screen shortcut
 - Improved icon editing UI (separated into Shape / Effect / Image)
 - Added emboss effect and monochrome image option
