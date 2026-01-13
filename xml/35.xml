@@ -282,7 +282,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000007812075</productID>
 		<productName><![CDATA[Display Assistant]]></productName>
 		<appId>com.samsung.android.displayassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000007812075/IconImage_20251224032936001_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000007812075/IconImage_20260113094231402_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -292,7 +292,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<realContentSize>8460583</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>UPDATE_APP_OPS_STATS||FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||CONNECTIVITY_INTERNAL||START_FOREGROUND_SERVICES_FROM_BACKGROUND||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||POST_NOTIFICATIONS||FOREGROUND_SERVICE_MEDIA_PLAYBACK||PACKAGE_USAGE_STATS||STATUS_BAR||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||CONFIGURE_DISPLAY_BRIGHTNESS||INTERNAL_SYSTEM_WINDOW||DEVICE_POWER||INTERNET||SYSTEM_APPLICATION_OVERLAY||READ_PHONE_STATE</permission>
-			<updateDescription><![CDATA[<8.5.10>
+			<updateDescription><![CDATA[<8.5.16>
  - Support OneUI 8.5 
 
 <v8.1.02>
