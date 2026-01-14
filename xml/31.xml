@@ -409,7 +409,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20251226023128188_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20260113224725723_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -419,7 +419,18 @@ Provides advanced functions related to Samsung Keyboard.
 		<realContentSize>64610116</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||INTERACT_ACROSS_USERS_FULL||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||MANAGE_USERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||MANAGE_FINGERPRINT||USE_BIOMETRIC_INTERNAL||BIND_APPWIDGET||SET_WALLPAPER||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
-			<updateDescription><![CDATA[<v7.0.01.10>  
+			<updateDescription><![CDATA[<v8.5.00.8>  
+※ New Features  
+1. Newly supported on One UI 8.5  
+- Added new 'Unlock Animation' effects  
+- [Full Screen AOD models] Added support for manual AOD brightness adjustment  
+2. Supported on One UI 8.0 or higher  
+- Added 'Text' feature  
+※ Bug Fixes  
+- Fixed fingerprint effect issue  
+- Added adjustment for widget 'corner rounding'  
+
+<v7.0.01.10>  
 - Fixed intermittent errors that may occur during package updates.  
 - Resolved notification display issues on the tablet's horizontal lock screen. 
 
@@ -536,14 +547,7 @@ V2.1.00.18
 
 V2.1.00.17
 - Modified problem that the type of clock changed after restarting the device if the theme is applied.
-  (Please update the DOA version to version6.2.30)
-
-V2.1.00.16
-- You can create a new lock screen style in Galaxy Foldable.
-
-V2.1.00.11
-- Support the edit of the Landscape mode.
-- Add 3 types for "shortcuts | multiple"]]></updateDescription>
+  (Please update the DOA version to ver]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Create new Lockscreen style.
@@ -559,7 +563,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 - Simplified Chinese
 - Japanese
 
-<LOCKSTAR:1003:4003>#1]]></description>
+<LOCKSTAR:1003:4004>#1]]></description>
 		<fromPrepost>false</fromPrepost>
 	</appInfo>
 	<appInfo>
