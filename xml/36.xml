@@ -1855,14 +1855,14 @@ English, Korean, Chinese
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20260108042742974_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20260115040536264_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[8.1.00.6]]></versionName>
-		<versionCode>810000006</versionCode> 
-		<realContentSize>31657842</realContentSize>
+		<versionName><![CDATA[8.2.00.4]]></versionName>
+		<versionCode>820000004</versionCode> 
+		<realContentSize>28189691</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>MODIFY_PHONE_STATE||FOREGROUND_SERVICE||BLUETOOTH_ADMIN||FOREGROUND_SERVICE_SPECIAL_USE||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||ACCESS_NOTIFICATION_POLICY||INTERACT_ACROSS_USERS_FULL||ACCESS_NETWORK_STATE||WAKE_LOCK||POST_NOTIFICATIONS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||VIBRATE||RECORD_AUDIO||DEVICE_POWER||MODIFY_AUDIO_ROUTING||INTERNET||SYSTEM_APPLICATION_OVERLAY||MODIFY_AUDIO_SETTINGS||BLUETOOTH||BLUETOOTH_CONNECT||WRITE_SETTINGS</permission>
 			<updateDescription><![CDATA[<v8.2.00.4>
