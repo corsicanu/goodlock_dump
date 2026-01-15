@@ -1290,7 +1290,12 @@ Set up auto actions based on your situation.
 		<realContentSize>10602021</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>MODIFY_PHONE_STATE||FOREGROUND_SERVICE||BLUETOOTH_ADMIN||FOREGROUND_SERVICE_SPECIAL_USE||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||ACCESS_NOTIFICATION_POLICY||INTERACT_ACROSS_USERS_FULL||ACCESS_NETWORK_STATE||WAKE_LOCK||POST_NOTIFICATIONS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||VIBRATE||RECORD_AUDIO||DEVICE_POWER||MODIFY_AUDIO_ROUTING||INTERNET||SYSTEM_APPLICATION_OVERLAY||MODIFY_AUDIO_SETTINGS||BLUETOOTH||BLUETOOTH_CONNECT||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v8.1.00.6>
+			<updateDescription><![CDATA[<v8.2.00.4>
+- Buzz Icon Applied
+- SESL 8.5 Applied
+- Apply equalizer settings when connecting via Bluetooth.
+
+<v8.1.00.6>
 Note: Version 8.x.x supports devices running One UI 8.
 - Applied One UI 8.0 UI to my own volume panel
 - Applied stabilization code
