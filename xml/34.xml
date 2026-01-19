@@ -2,8 +2,138 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>20</endNum>
 	<isEndOfList>true</isEndOfList>
+	<appInfo>
+		<productID>000008669143</productID>
+		<productName><![CDATA[Home Up]]></productName>
+		<appId>com.samsung.android.app.homestar</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008669143/IconImage_20260119004659555_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[15.0.01.19]]></versionName>
+		<versionCode>1500100019</versionCode> 
+		<realContentSize>16766030</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission></permission>
+			<updateDescription><![CDATA[]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[<17.0.00.54>
+※ Supports devices with One UI 8 and above.
+-Added support for home upgrades on Galaxy Z TriFold.
+-Fixed a DIY home bug.
+
+<17.0.00.48>
+- Bug fix for the widget content appearing larger than expected when using DIY Home.
+- Fixed other bugs.
+
+<17.0.00.40>
+-Added tablet device support.
+※When creating a desktop workspace on tablets, the Task Changer layout is fixed to the default type to maintain task switching usability.
+-Other bug fixes and stability improvements.
+<v17.0.00.32>
+*Supported Devices: One UI 8 and above
+*DIY Home Screen
+- Alignment Guide Lines: Guides for aligning items
+- App Launch Animation Settings: Animations for overlapping items
+- Item Group Editing: Easy editing with grouping and ungrouping
+- Item Edit Lock: Prevents accidental changes with a lock feature
+- Sticker Action Function: App integration and touch animations
+- Floating Toolbar: Joystick feature for easy home screen editing
+
+*Home Screen
+-Page Indicator Hiding: Enables a clean home screen layout
+-Horizontal Scroll: Supports horizontal scrolling in 'Alphabetical Order' mode
+-HomeUp Quick Access: Pop-up menu on home screen and recent apps
+
+*Edge Panel
+-Launch Apps in Selected View Type: Full, split, and pop-up screen types
+
+*Gesture Settings
+-App Launch Animation Tuning Supported
+
+<v16.0.0.90>
+- (Z Fold) Support DIY Home function when cover screen mirroring is on
+- (Tablet) Remove 'show favorites' setting menu
+
+<v16.0.0.86>
+- Fold and tablet devices have been added to HomeUp support.
+- Fixed floating taskbar display bug.
+- Fixed other bugs
+
+<v16.0.0.72>
+- Fixed flickering issue on the home screen while using DIY Home
+- Fixed widget errors while using DIY Home
+- Fixed other bugs
+
+<v16.0.0.60>
+-Fixed a bug where widget updates were not applied after changing wallpapers while using DIY Home
+- Improved handling of nested items when moving them in DIY Home edit mode
+- Fixed other bugs
+
+<v16.0.00.58>
+- Fixed the 'OneUI Home' force close issue due to conflict with specific resource when entering homescreen editing screen while using DIY home screen
+- Fixed bugs where widgets remain transparent when deleting widgets using toolbar in DIY homescreen edit mode
+- Fixed some bugs
+
+<v16.0.00.56>
+□ Home Up has been redesigned!
+- New Feature
+· DIY Home
+· Home gesture Animation tuning
+· Edge panel
+
+<v15.0.01.19>
+: The following features are added to the upgraded devices with OneUI 6.1
+- Home screen - 'Access Finder' (including S24)
+- Home screen - 'App Icon Setting' (including S24)
+- Folder - 'Apply folder background color'
+- Folder - 'Apply folder background blur adjustment'
+- Folder - 'Folder icon arrangement'
+※ Unsupported functions in the S24 device group will be provided through the 'One UI Home' app update.
+
+v15.0.00.11
+※The issues are only fixed when the latest One UI Home (15.0.05.5 or later) is installed.
+- Fixed an issue where settings were reset when deleting an app.
+- Added the unsupported layouts for Task Changer
+
+v15.0.00.7
+- Partial opening of One UI 6.0 support
+▷ Upcoming features
+1. Home screen - 'Apps List'
+2. Home screen - 'Finder Access '
+3. Task Changer - 3 types of unsupported layout (Stack, Vertical List, Slim List)
+▷ Deleted features
+1. Folder - 'Folder title suggestion'
+2. Folder - Folder Grid- 'Folder Icon'
+3. Task Changer - 'Allow recent app gestures in the pay region home screen '
+
+<v14.0.0.31>
+- Fixed some errors
+
+<v14.0.0.29>
+- Fixed bug that change the folder grid after rebooting
+- Fixed the grid setting bug of the cover screen in Fold device.
+- Fixed some errors
+
+<v14.0.0.12>
+- This is available only for One UI 5
+
+<v13.0.00.47>
+- Fixed some errors
+
+<v13.0.00.43>
+- Support One UI 4.1.1
+- Fixed the number error of Direct Share
+
+<v13.0.00.39>
+- Disable the Favorites Maximum Count menu on the Tablet device (up to 14 are supported by default)
+- Fixed some errors]]></description>
+		<fromPrepost>true</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
@@ -350,159 +480,6 @@ If your system software version is lower than Android 6.0, please update the sof
 Previously allowed permissions can be reset on Apps menu in device settings after software update.
 
 #GoodLockFriends]]></description>
-		<fromPrepost>false</fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000004772683</productID>
-		<productName><![CDATA[Home Up]]></productName>
-		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20260105035213224_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[15.0.01.19]]></versionName>
-		<versionCode>1500100019</versionCode> 
-		<realContentSize>16766030</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<permission>READ_WALLPAPER_INTERNAL||MANAGE_APP_PREDICTIONS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||com.wssnps.permission.COM_WSSNPS||ACCESS_SHORTCUTS||QUERY_ALL_PACKAGES||INTERNAL_SYSTEM_WINDOW||REORDER_TASKS</permission>
-			<updateDescription><![CDATA[<17.0.00.54>
-※ Supports devices with One UI 8 and above.
--Added support for home upgrades on Galaxy Z TriFold.
--Fixed a DIY home bug.
-
-<17.0.00.48>
-- Bug fix for the widget content appearing larger than expected when using DIY Home.
-- Fixed other bugs.
-
-<17.0.00.40>
--Added tablet device support.
-※When creating a desktop workspace on tablets, the Task Changer layout is fixed to the default type to maintain task switching usability.
--Other bug fixes and stability improvements.
-<v17.0.00.32>
-*Supported Devices: One UI 8 and above
-*DIY Home Screen
-- Alignment Guide Lines: Guides for aligning items
-- App Launch Animation Settings: Animations for overlapping items
-- Item Group Editing: Easy editing with grouping and ungrouping
-- Item Edit Lock: Prevents accidental changes with a lock feature
-- Sticker Action Function: App integration and touch animations
-- Floating Toolbar: Joystick feature for easy home screen editing
-
-*Home Screen
--Page Indicator Hiding: Enables a clean home screen layout
--Horizontal Scroll: Supports horizontal scrolling in 'Alphabetical Order' mode
--HomeUp Quick Access: Pop-up menu on home screen and recent apps
-
-*Edge Panel
--Launch Apps in Selected View Type: Full, split, and pop-up screen types
-
-*Gesture Settings
--App Launch Animation Tuning Supported
-
-<v16.0.0.90>
-- (Z Fold) Support DIY Home function when cover screen mirroring is on
-- (Tablet) Remove 'show favorites' setting menu
-
-<v16.0.0.86>
-- Fold and tablet devices have been added to HomeUp support.
-- Fixed floating taskbar display bug.
-- Fixed other bugs
-
-<v16.0.0.72>
-- Fixed flickering issue on the home screen while using DIY Home
-- Fixed widget errors while using DIY Home
-- Fixed other bugs
-
-<v16.0.0.60>
--Fixed a bug where widget updates were not applied after changing wallpapers while using DIY Home
-- Improved handling of nested items when moving them in DIY Home edit mode
-- Fixed other bugs
-
-<v16.0.00.58>
-- Fixed the 'OneUI Home' force close issue due to conflict with specific resource when entering homescreen editing screen while using DIY home screen
-- Fixed bugs where widgets remain transparent when deleting widgets using toolbar in DIY homescreen edit mode
-- Fixed some bugs
-
-<v16.0.00.56>
-□ Home Up has been redesigned!
- - New Feature
-  · DIY Home
-  · Home gesture Animation tuning
-  · Edge panel
-
-<v15.0.01.19>
-  : The following features are added to the upgraded devices with OneUI 6.1
-   - Home screen - 'Access Finder' (including S24)
-   - Home screen - 'App Icon Setting' (including S24)
-   - Folder - 'Apply folder background color'
-   - Folder - 'Apply folder background blur adjustment'
-   - Folder - 'Folder icon arrangement'
-    ※ Unsupported functions in the S24 device group will be provided through the 'One UI Home' app update. 
-
-v15.0.00.11
-※The issues are only fixed when the latest One UI Home (15.0.05.5 or later) is installed.
-   - Fixed an issue where settings were reset when deleting an app.
-   - Added the unsupported layouts for Task Changer
-
-v15.0.00.7
-- Partial opening of One UI 6.0 support
-  ▷ Upcoming features
-    1. Home screen - 'Apps List'
-    2. Home screen - 'Finder Access '
-    3. Task Changer - 3 types of unsupported layout (Stack, Vertical List, Slim List)
-  ▷  Deleted features
-    1. Folder - 'Folder title suggestion'
-    2. Folder - Folder Grid- 'Folder Icon'
-    3. Task Changer - 'Allow recent app gestures in the pay region home screen '
-
-<v14.0.0.31>
-- Fixed some errors 
-
-<v14.0.0.29>
-- Fixed bug that change the folder grid after rebooting
-- Fixed the grid setting bug of the cover screen in Fold device.
-- Fixed some errors 
-
-<v14.0.0.12>
- - This is available only for One UI 5
-
-<v13.0.00.47>
-- Fixed some errors 
-
-<v13.0.00.43>
-- Support One UI 4.1.1
-- Fixed the number error of Direct Share
-
-<v13.0.00.39>
-- Disable the Favorites Maximum Count menu on the Tablet device (up to 14 are supported by default)
-- Fixed some errors]]></updateDescription>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
-
-HOME UP!
-
-HomeUp is the extension edition of One UI Home.
-
-1. Redesign your homescreen with DIY Home 
-2. Create your own gestures animation
-3. Use various layouts in home screen, apps and folder
-4. Customize Popup folder styles and layouts
-5. Restore homescreen layout
-6. Customize recent app window type 
-7. Customize your Edge panels
-8. Edit Share-via window
-
-※ App permissions
-The following permissions are required for the app service. You can still use the app's basic functions without allowing the optional permissions.
-
-[Required permission]
-- Storage(Photos and videos) : Access to Storage is required to back up the preview screen and layout. (Android 14 or lower)
-[optional permission]
-- Phone: Used to read phone status and identifier information (Android 14 or lower)
-
-<HOME_HOMESTAR:3001:6100>]]></description>
 		<fromPrepost>false</fromPrepost>
 	</appInfo>
 	<appInfo>
