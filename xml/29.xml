@@ -132,7 +132,7 @@ v15.0.00.7
 <v13.0.00.39>
 - Disable the Favorites Maximum Count menu on the Tablet device (up to 14 are supported by default)
 - Fixed some errors]]></description>
-		<fromPrepost>true</fromPrepost>
+		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003202866</productID>
@@ -244,7 +244,7 @@ Enjoy your own clockface on Lockscreen and AOD
 - English
 - Simplified Chinese
 #5]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003039099</productID>
@@ -275,7 +275,7 @@ Enjoy your own clockface on Lockscreen and AOD
 - English
 
 #GoodLockFriends]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003084395</productID>
@@ -309,7 +309,7 @@ If your system software version is lower than Android 6.0, please update the sof
 Previously allowed permissions can be reset on Apps menu in device settings after software update.
 
 #GoodLockFriends]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000005293390</productID>
@@ -411,7 +411,7 @@ Provides advanced functions related to Samsung Keyboard.
 ※Keys Cafe works from Samsung keyboard version 5.1.05.9
 
 #GoodLockFriends #0]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003002072</productID>
@@ -572,7 +572,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 - Japanese
 
 <LOCKSTAR:1003:4004>#1]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003266196</productID>
@@ -732,7 +732,7 @@ Floating Notification
 [Version Code]
 <MULTISTAR:1000:10001>
 #6]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003488383</productID>
@@ -839,7 +839,7 @@ V 2.0.0.8 (One UI 2.X)
 [Version Code]
 <NAVSTAR:1001:11000>
 #7]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003711875</productID>
@@ -890,7 +890,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 (please make sure that the switch is enabled before use.)
 
 #GoodLockFriends #3]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000004085658</productID>
@@ -1048,7 +1048,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 [Version Code]
 <NOTISTAR:2001:9001>
 #GoodLockFriends]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003036952</productID>
@@ -1119,7 +1119,7 @@ Enjoy the convenience of gestures on your phone and tablet with this app.
 Thank you.
 
 #GoodLockFriends #5]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000005198690</productID>
@@ -1180,7 +1180,7 @@ Set double tap to shortcut by pressing S Pen
 * OneUI2.1 supports only 'Change the form of Air Command' feature.
 
 #Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003084407</productID>
@@ -1327,7 +1327,7 @@ We are trying to make a fresh experience for users.
 [Version Code]
 <SLIMINDICATOR:1003:10000>
 #2]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000005563964</productID>
@@ -1431,7 +1431,7 @@ English, Korean, Chinese
 * Feature availability may vary by device model/OS version.
 
 <ROUTINE_PLUS:3000:99999>]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003206291</productID>
@@ -1592,7 +1592,7 @@ Provide custom effect creation option.
 - More sound effects menu
 
 #GoodLockFriends]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003032367</productID>
@@ -1672,7 +1672,7 @@ Task Changer is provided as a submenu of Home Up after One UI 3. (Home Up > Task
 [Version Code]
 <RECENTS:1001:3001>
 #3]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000004623161</productID>
@@ -1792,7 +1792,7 @@ Permissions (Required)
   ■ Photos and videos (Storage): Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
 
 #GoodLockFriends #2]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000005212031</productID>
@@ -1912,7 +1912,7 @@ Wonderland uses these permissions
 Photos and Videos : Access images and videos for wallpaper creation.
 
 #wonderland #livewallpaper #dynamicwallpaper #lockscreeneffects #alwaysondisplay #particleeffects #motioneffects #customwallpaper #personalizedlockscreen]]></description>
-		<fromPrepost>false</fromPrepost>
+		<fromPrepost></fromPrepost>
 	</appInfo>
 	<serverType>PRD</serverType>
 </result>
