@@ -605,7 +605,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20260126092318593_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20260206033631329_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1246,14 +1246,14 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20260126065615669_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20260206040830369_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[8.0.33.0]]></versionName>
-		<versionCode>803300000</versionCode> 
-		<realContentSize>10369642</realContentSize>
+		<versionName><![CDATA[8.0.88.0]]></versionName>
+		<versionCode>808800000</versionCode> 
+		<realContentSize>7955334</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||SUBSTITUTE_NOTIFICATION_APP_NAME||READ_MEDIA_VIDEO||MANAGE_ACTIVITY_STACKS||FOREGROUND_SERVICE||com.wssnps.permission.COM_WSSNPS||INTERACT_ACROSS_USERS||READ_MEDIA_IMAGES||QUERY_ALL_PACKAGES||VIBRATE||INTERNAL_SYSTEM_WINDOW||MANAGE_ACTIVITY_TASKS||INTERACT_ACROSS_USERS_FULL||SET_PROCESS_LIMIT||CONTROL_KEYGUARD||ACCESS_NETWORK_STATE||MANAGE_USERS||READ_EXTERNAL_STORAGE</permission>
 			<updateDescription><![CDATA[<v8.0.88.0>  
