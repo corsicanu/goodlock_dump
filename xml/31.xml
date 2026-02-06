@@ -447,7 +447,13 @@ The following permissions are required for the app service. You can still use th
 		<realContentSize>79858088</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||WRITE_EXTERNAL_STORAGE||INTERNET||WRITE_MEDIA_IMAGES||ACCESS_NETWORK_STATE||READ_EXTERNAL_STORAGE||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<1.8.00.13>  
+			<updateDescription><![CDATA[<1.8.05.4>
+- Fixed an issue where keyboard customization was occasionally reset.
+- When saving keyboard customization, you can select “Apply effects only” to keep the current theme while applying effects.
+- Improved app stability and optimized app size.
+- Fixed other UI and usability-related issues.
+
+<1.8.00.13>  
 Starting with One UI 8, meet the new face of Keys Cafe.  
 Based on valuable feedback from keyboard users, more convenient and fun features have been added.  
 ※This version is first available on select devices with One UI 8 and will be rolled out gradually.
@@ -1082,7 +1088,14 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<realContentSize>10369642</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||SUBSTITUTE_NOTIFICATION_APP_NAME||READ_MEDIA_VIDEO||MANAGE_ACTIVITY_STACKS||FOREGROUND_SERVICE||com.wssnps.permission.COM_WSSNPS||INTERACT_ACROSS_USERS||READ_MEDIA_IMAGES||QUERY_ALL_PACKAGES||VIBRATE||INTERNAL_SYSTEM_WINDOW||MANAGE_ACTIVITY_TASKS||INTERACT_ACROSS_USERS_FULL||SET_PROCESS_LIMIT||CONTROL_KEYGUARD||ACCESS_NETWORK_STATE||MANAGE_USERS||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v8.0.33.00>  
+			<updateDescription><![CDATA[<v8.0.88.0>  
+※ Supports devices with One UI 5 (Android 13) and above.  
+- Improved app freezing issues and duplicate notification prevention.  
+- Added notification storage for work profile/dual messenger/secure folder (varies by One UI version).  
+- App performance optimization.  
+
+
+<v8.0.33.00>  
 - App performance optimization.  
 - Fixed to not allow spaces when entering keywords.  
  (Spaces were causing filtering issues, which have been resolved.)  
