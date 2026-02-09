@@ -325,14 +325,14 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000007812075</productID>
 		<productName><![CDATA[Display Assistant]]></productName>
 		<appId>com.samsung.android.displayassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000007812075/IconImage_20260128015424821_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000007812075/IconImage_20260209043322189_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[8.1.02]]></versionName>
-		<versionCode>810200000</versionCode> 
-		<realContentSize>8460583</realContentSize>
+		<versionName><![CDATA[8.1.05]]></versionName>
+		<versionCode>810500000</versionCode> 
+		<realContentSize>7762554</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>UPDATE_APP_OPS_STATS||FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||CONNECTIVITY_INTERNAL||START_FOREGROUND_SERVICES_FROM_BACKGROUND||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||POST_NOTIFICATIONS||FOREGROUND_SERVICE_MEDIA_PLAYBACK||PACKAGE_USAGE_STATS||STATUS_BAR||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||CONFIGURE_DISPLAY_BRIGHTNESS||INTERNAL_SYSTEM_WINDOW||DEVICE_POWER||INTERNET||SYSTEM_APPLICATION_OVERLAY||READ_PHONE_STATE</permission>
 			<updateDescription><![CDATA[<8.5.20>
@@ -754,7 +754,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20260113224725723_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20260209050205658_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
