@@ -138,7 +138,7 @@ v15.0.00.7
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260127021736415_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260223120110049_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -147,13 +147,29 @@ v15.0.00.7
 		<versionCode>110301000</versionCode> 
 		<realContentSize>8786174</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>ACCESS_NETWORK_STATE</permission>
+		<permission>STATUS_BAR||EXPAND_STATUS_BAR||MANAGE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE</permission>
 			<updateDescription><![CDATA[Support model
-- One UI 8.0 or higher : Flip7/Fold7/S25FE
+- One UI 8.0 or higher : S26/Flip7/Fold7/S25FE
 - One UI 7.0 or higher : S25/A56/M56/F56
 - One UI 6.1 or higher : S24FE/S21FE/A55/M53/Quantum5/Fold6/Flip6
 - One UI 6.0 or higher : S24/A73/A72/A54/A53/A52s/A52 5G/A52/M54/F54/Quantum 2
 - One UI 5.1 or higher : S23/S23FE/S22/S21/S20/Note20/Fold5/Flip5/Fold4/Flip4/Fold3/Flip3/Fold2/Flip
+
+
+<v4.5.00.19>
+- Touch AF/AE in Pro video mode
+- Focus peaking in pro modes
+- Auto focus speed and sensitivity 
+- Swipe Shutter button to
+- 24 MP resolution
+- Advanced Photo mode controls
+- Optical image stabilization (OIS)
+- Video softening
+- 8K recording when mirroring 
+- Presets in Pro mode
+- Customize indicators
+- TILTA wireless lens controller
+- Additional modes
 
 <v4.0.00.6>
 - 3D capture [Flip7/Fold7/S25]
@@ -240,51 +256,95 @@ Support new features :  S23, S22 ONEUI5.1
 - A color palette icon has been applied.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your camera settings to suit your preferences.
 
-[Description]
-It provides ON/OFF features for the following features:
+The following features are available:
+(Some features may not be available on all models.)
+
+Lens and zoom
 - Zoom shortcuts
   Select the extra zoom shortcuts to show in Camera.
-- Auto HDR
-  Blend the best parts of multiple exposures into a single picture with improved colour and detail.
-- Picture softening
-  Smooth out sharp edges and textures in Photo mode pictures.
 - Auto lens switching
   Let the camera pick the best lens based on the zoom, lighting, and distance to the subject.
-- Distortion correction
-  Automatically fix bowing or bending lines caused by lens and perspective distortion.
-- Adaptive pixel
-  Reduce noise in low light shots by combining multiple lower-resolution frames into the final high-resolution picture.
-- Upscale digital zoom
-  If the resolution decreases due to zoom, upscale pictures back to the resolution you selected.
-- Quick tap shutter
-  Take pictures as soon as your finger touches the Shutter button instead of when you lift it off. You can still swipe or press and hold the Shutter button to capture GIFs, burst shots, and videos, but a picture will be taken too.
+
+Focus
 - Prioritize focus over speed
   Wait for the camera to finish focusing before triggering the shutter. This may delay the shutter slightly.
-- Motion photo shutter sound
-  Sound / Timing
+- Touch AF/AE in Pro video mode
+  Configure the AF/AE behavior during recording in Pro video mode.
+- Focus peaking in pro modes
+  Adjust how focus peaking looks when using manual focus in Pro and Pro video modes.
+- Auto focus speed and sensitivity
+  Set the speed and sensitivity of the auto focus for photos and videos.
+
+Shutter
+- Quick tap shutter
+  Take pictures as soon as you touch the Shutter. An extra picture will also be taken when you swipe or hold the Shutter.
+- Swipe Shutter button to edge to
+- Timer multi-photo options
 - Video recording in Photo mode
   Touch and hold the Shutter button to record videos in Photo mode.
-- 3D Capture
-  Add a 3D capture option to the top of the preview so you can create spatial photos and videos for Galaxy XR headsets.
-- DOF adapter correction
-  Automatically flip previews and captures vertically to support external depth-of-field adapters. The correction is only applied in Pro and Pro Video modes. This feature requires an external accessory.
-- Anamorphic lens correction
-  Automatically de-squeeze previews and videos to correct distortion from external anamorphic lenses. This correction is only applied in Pro Video mode while using 16:9 ratio (8K and 120 fps excluded).
+
+Photos
+- Auto HDR
+  Blend the best parts of multiple exposures into a single picture with improved color and detail.
+- Photo softening
+  Smooth out sharp edges and textures in Photo mode pictures.
+- Distortion correction
+  Automatically fix bowing or bending lines caused by lens and perspective distortion.
+- Advanced Photo mode controls
+  Add Pro controls to Photo mode and limit shutter speed and ISO to reduce motion blur and grain.
+- Advanced resolution options
+  · 24 MP resolution
+    Add a 24 MP option to Photo mode. Resolution may decrease due to zoom and camera settings.
+  · Adaptive pixel
+    Reduce noise in low light shots by combining multiple lower-resolution frames into the final high-resolution picture.
+  · Upscale digital zoom
+    If the resolution decreases due to zoom, upscale pictures back to the resolution you selected.
+
+Video
 - HDR10+
-  Use HDR10+ instead of normal HDR in Video and Pro video modes. Requires HDR to be on in Camera settings > Advanced video options. If HDR10+ is off in the camera preview, videos will be recorded in SDR.
-- Audio monitoring
-  Monitor the sound to be recorded in video modes through external output devices such as BT, HDMI, and USB earphones.
-- Save videos to external storage
-  Automatically save videos to an external storage device connected to the USB-C port on your phone. Compatible with Video, Pro video, Portrait Video, Slow motion, and Hyperlapse modes.
+  Use HDR10+ instead of normal HDR in Video and Pro video modes.
+- Optical image stabilization (OIS)
+  Video stabilization in Camera settings also needs to be off to stop stabilization.
+- Video softening
+  Smooth out sharp edges and textures in Video mode.
+- Dim screen while recording
+- 8K recording when mirroring
+  Allow 8K recording when mirroring through Smart View or an HDMI connection.
+
+Presets
+- Presets in Pro mode
+  Save and share your camera settings as presets.
+
+Capture for Galaxy XR
+- 3D capture
+  Add a 3D capture option to the top of the preview so you can create spatial photos and videos for Galaxy XR headsets.
+
+Additional modes
+- Night
+  Add the Night mode.
+- Single take
+  Add the Single take mode.
+- Dual rec
+  Add the Dual rec mode.
+
+Camera preview
+- Camera timeout
 - Clean preview on HDMI displays
   Show the camera preview without settings or buttons on HDMI-connected displays.
+- Customize indicators
+  Select the default indicators to show in photo/video modes.
 
-The following features are also available. 
-- Timer multi-photo options
-- Camera timeout
-- Dim screen while recording
+External accessories
+- DOF adapter correction
+  Automatically flip previews and captures vertically to support external depth-of-field adapters. The correction is only applied in Pro and Pro Video modes.
+- Anamorphic lens correction
+  Automatically de-squeeze videos and video previews to correct distortion from external anamorphic lenses. The correction is applied to all 16:9 videos shot in Pro Video mode.
+- TILTA wireless lens controller
+  Use a TILTA controller to operate the camera in Pro video mode.
+- Audio monitoring
+  While shooting video, play the sound being recorded through connected Bluetooth, HDMI, or USB headphones or speakers.
 
 [Language]
 - English
