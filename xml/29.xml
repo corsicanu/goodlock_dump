@@ -586,7 +586,13 @@ Provides advanced functions related to Samsung Keyboard.
 		<realContentSize>20176821</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>FOREGROUND_SERVICE||INTERACT_ACROSS_USERS||MEDIA_CONTENT_CONTROL||INTERACT_ACROSS_USERS_FULL||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||MANAGE_USERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||MANAGE_FINGERPRINT||USE_BIOMETRIC_INTERNAL||BIND_APPWIDGET||SET_WALLPAPER||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
-			<updateDescription><![CDATA[<v8.5.00.10>
+			<updateDescription><![CDATA[<v8.5.00.17>
+□ One UI 8.0 or higher
+- Fixed lock screen / AOD clock settings error
+- Fixed errors occurring during Smart Switch / GTS
+- Fixed manual brightness malfunction on non-Full screen AOD devices
+
+<v8.5.00.10>
 □ One UI 8.5 or higher
 - Adjusted manual brightness range for Full screen AOD
 - Added 'Swirl' type to Unlock animation
