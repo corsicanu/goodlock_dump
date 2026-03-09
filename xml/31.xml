@@ -1317,7 +1317,11 @@ Thank you.
 		<realContentSize>26094917</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v2.3.18>  
+			<updateDescription><![CDATA[<v2.3.19>  
+※ This version supports devices with One UI 8.0 and above.  
+-  Fixed an issue where Air command types were not applied on One UI 8.0 devices
+
+<v2.3.18>  
 ※ This version supports devices with One UI 8.0 and above.  
 - Fixed app errors and improved stability.  
 - Re-enabled Air Command type setting (available on One UI 8.5 and above).
