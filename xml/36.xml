@@ -51,7 +51,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260223120110049_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260308233611701_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -62,7 +62,7 @@ The following permissions are required for the app service. You can still use th
 		<restrictedAge>0</restrictedAge>
 		<permission>STATUS_BAR||EXPAND_STATUS_BAR||MANAGE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE</permission>
 			<updateDescription><![CDATA[Support model
-- One UI 8.0 or higher : S26/Flip7/Fold7/S25FE
+- One UI 8.0 or higher : S26/Flip7/Fold7/S25FE/A57/A37
 - One UI 7.0 or higher : S25/A56/M56/F56
 - One UI 6.1 or higher : S24FE/S21FE/A55/M53/Quantum5/Fold6/Flip6
 - One UI 6.0 or higher : S24/A73/A72/A54/A53/A52s/A52 5G/A52/M54/F54/Quantum 2
