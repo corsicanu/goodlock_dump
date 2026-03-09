@@ -504,7 +504,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000008414529</productID>
 		<productName><![CDATA[Gallery Assistant]]></productName>
 		<appId>com.samsung.android.gallery.assistant.app</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008414529/IconImage_20260223120135343_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008414529/IconImage_20260309041952825_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1628,14 +1628,14 @@ Thank you.
 		<productID>000005198690</productID>
 		<productName><![CDATA[Pentastic]]></productName>
 		<appId>com.samsung.android.pentastic</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20260212044653283_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20260309042428525_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.3.18]]></versionName>
-		<versionCode>231800000</versionCode> 
-		<realContentSize>36450525</realContentSize>
+		<versionName><![CDATA[2.3.19]]></versionName>
+		<versionCode>231900000</versionCode> 
+		<realContentSize>22213999</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WRITE_SETTINGS</permission>
 			<updateDescription><![CDATA[<v2.3.19>  
