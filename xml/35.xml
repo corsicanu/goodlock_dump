@@ -2206,7 +2206,10 @@ Provide custom effect creation option.
 		<realContentSize>37221477</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
-			<updateDescription><![CDATA[<Version: 1.1.01.46>
+			<updateDescription><![CDATA[<Version: 1.1.01.47>
+- Improved app stability.
+
+<Version: 1.1.01.46>
 App stability and usability improved.
 - Fixed errors that occurred in some situations.
 - Improved icon apply/edit behavior.
