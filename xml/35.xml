@@ -51,7 +51,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260308233611701_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260319091108810_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -68,6 +68,9 @@ The following permissions are required for the app service. You can still use th
 - One UI 6.0 or higher : S24/A73/A72/A54/A53/A52s/A52 5G/A52/M54/F54/Quantum 2
 - One UI 5.1 or higher : S23/S23FE/S22/S21/S20/Note20/Fold5/Flip5/Fold4/Flip4/Fold3/Flip3/Fold2/Flip
 
+<v4.5.00.20>
+- Update UX for 24 MP resolution
+- Applied stabilization code
 
 <v4.5.00.19>
 - Touch AF/AE in Pro video mode
@@ -95,14 +98,14 @@ Motion photo shutter sound (Flip7/Fold7)
   - Sound / Timing
 
 <v3.0.00.3>
-Apply stabilization code
+Applied stabilization code
 
 <v3.0.00.2>
 - Added the "HDR10+"
 - Added the "Save videos to external storage"
 
 <v2.1.00.2>
-Apply stabilization code
+Applied stabilization code
 
 <v2.1.00.1>
 Support new features : S24 
@@ -117,7 +120,7 @@ Support new features : S24
   - Monitor the sound to be recorded in video modes through external output devices such as BT, HDMI, and USB earphones.
 
 <v2.0.01.0>
-Apply stabilization code
+Applied stabilization code
 
 <v2.0.00.0>
 1. "Optical quality crop zoom" → "2x crop zoom shortcut"
@@ -199,6 +202,8 @@ Shutter
   Touch and hold the Shutter button to record videos in Photo mode.
 
 Photos
+- 24 MP resolution
+  Add a 24 MP option to Photo mode. Resolution may decrease due to zoom and camera settings.
 - Auto HDR
   Blend the best parts of multiple exposures into a single picture with improved color and detail.
 - Photo softening
@@ -208,8 +213,6 @@ Photos
 - Advanced Photo mode controls
   Add Pro controls to Photo mode and limit shutter speed and ISO to reduce motion blur and grain.
 - Advanced resolution options
-  · 24 MP resolution
-    Add a 24 MP option to Photo mode. Resolution may decrease due to zoom and camera settings.
   · Adaptive pixel
     Reduce noise in low light shots by combining multiple lower-resolution frames into the final high-resolution picture.
   · Upscale digital zoom
