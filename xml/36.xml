@@ -559,7 +559,7 @@ The following access permissions are required to provide you with this service. 
 		<productID>000008122674</productID>
 		<productName><![CDATA[Game Booster +]]></productName>
 		<appId>com.samsung.android.game.honeyplayplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20260128035026004_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20260324062353632_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -569,8 +569,9 @@ The following access permissions are required to provide you with this service. 
 		<realContentSize>12578388</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||GET_PACKAGES||SYSTEM_ALERT_WINDOW||FOREGROUND_SERVICE_SPECIAL_USE||READ_PRIVILEGED_PHONE_STATE||RECEIVE_BOOT_COMPLETED||READ_SEARCH_INDEXABLES||REQUEST_INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||BLUETOOTH_CONNECT</permission>
-			<updateDescription><![CDATA[OneUI-8. <v2.0.00.14>
-- Bug fix]]></updateDescription>
+			<updateDescription><![CDATA[<2.0.00.23>
+※S26 Pilot Feature Release
+-Added Gamepad Touch Mapping, AP clock limitation, and Game Intro Fast-forward features.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[With Galaxy, enjoy a more fun gaming experience!
@@ -585,8 +586,16 @@ OneUI 7.0
  You can change apps that are not classified as games but are games to the game category, so you can receive game-related support provided by the device.
 
 OneUI 8.0
-- Aim Assit:
+- Aim Assist: 
+ You can customize your aim with a variety of images, colors, and sizes. 
 
+One UI 8.5 (S26 Pilot Release)
+- Gamepad Touch Mapping: 
+You can map gamepad actions to any desired location on the screen.
+- CPU and GPU Settings - AP clock limitation: 
+You can adjust CPU and GPU performance for each game.
+- Game Intro Fast-forward: 
+Speeds up the intro videos when launching a game.
 
 [Target]
 - This application is available on Android 15 or higher SAMSUNG devices.
@@ -600,6 +609,8 @@ OneUI 8.0
 [Mandatory Access Permissions]
 - Nearby Devices (Required):
  Access to Bluetooth device information for gamepad key remapping function
+- Accessibility (Optional): 
+ Accessibility permission is needed for the Gamepad Touch Mapping feature
 
 #GoodLockFriends #2]]></description>
 		<fromPrepost></fromPrepost>
@@ -1559,7 +1570,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20260318230445616_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20260324045026438_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
