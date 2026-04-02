@@ -1712,17 +1712,25 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20260305070002955_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20260402031354408_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[10.0.01.3]]></versionName>
-		<versionCode>1000103000</versionCode> 
-		<realContentSize>17557482</realContentSize>
+		<versionName><![CDATA[10.0.04.26]]></versionName>
+		<versionCode>1000426000</versionCode> 
+		<realContentSize>11847829</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||SYSTEM_ALERT_WINDOW||WRITE_SECURE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v10.0.01.3>  
+		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||READ_MEDIA_IMAGES||ACCESS_NETWORK_STATE||SYSTEM_ALERT_WINDOW||WRITE_SECURE_SETTINGS||READ_EXTERNAL_STORAGE</permission>
+			<updateDescription><![CDATA[<v10.0.04.26>  
+1. New features (One UI 8.5 only)  
+- Panel style customization  
+- Landscape layout settings  
+- Control bar level display  
+- Panel item resizing  
+2. Stability improvements and bug fixes  
+
+<v10.0.01.3>  
 1. 'Quick Settings Panel Button Arrangement' feature reintroduced  
 2. Stability improvements and bug fixes  
 
