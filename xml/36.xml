@@ -772,7 +772,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20260206033631329_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20260408234009599_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -782,7 +782,13 @@ The following permissions are required for the app service. You can still use th
 		<realContentSize>48858734</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||WRITE_EXTERNAL_STORAGE||INTERNET||WRITE_MEDIA_IMAGES||ACCESS_NETWORK_STATE||READ_EXTERNAL_STORAGE||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<1.8.05.4>
+			<updateDescription><![CDATA[<v1.7.00.13>
+※ This version is specifically for One UI 4.0 to 7.0 ※
+[What's New]
+- Improved app stability and performance
+[Note]
+Please update to the latest version for optimal experience.
+<1.8.05.4>
 - Fixed an issue where keyboard customization was occasionally reset.
 - When saving keyboard customization, you can select “Apply effects only” to keep the current theme while applying effects.
 - Improved app stability and optimized app size.
