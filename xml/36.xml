@@ -51,7 +51,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260410060156896_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260413053020564_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -559,19 +559,18 @@ The following access permissions are required to provide you with this service. 
 		<productID>000008122674</productID>
 		<productName><![CDATA[Game Booster +]]></productName>
 		<appId>com.samsung.android.game.honeyplayplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20260324062353632_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20260413072058026_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.0.00.14]]></versionName>
-		<versionCode>200014000</versionCode> 
-		<realContentSize>12578388</realContentSize>
+		<versionName><![CDATA[2.0.00.29]]></versionName>
+		<versionCode>200029000</versionCode> 
+		<realContentSize>8209033</realContentSize>
 		<restrictedAge>0</restrictedAge>
-		<permission>FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||GET_PACKAGES||SYSTEM_ALERT_WINDOW||FOREGROUND_SERVICE_SPECIAL_USE||READ_PRIVILEGED_PHONE_STATE||RECEIVE_BOOT_COMPLETED||READ_SEARCH_INDEXABLES||REQUEST_INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||BLUETOOTH_CONNECT</permission>
-			<updateDescription><![CDATA[<2.0.00.23>
-※S26 Pilot Feature Release
--Added Gamepad Touch Mapping, AP clock limitation, and Game Intro Fast-forward features.]]></updateDescription>
+		<permission>FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||GET_PACKAGES||SYSTEM_ALERT_WINDOW||READ_PRIVILEGED_PHONE_STATE||RECEIVE_BOOT_COMPLETED||READ_SEARCH_INDEXABLES||REQUEST_INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||BLUETOOTH_CONNECT</permission>
+			<updateDescription><![CDATA[<2.0.00.29>
+- Added Gamepad Touch Mapping, AP clock limitation, and Game Intro Fast-forward features for available devices.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[With Galaxy, enjoy a more fun gaming experience!
