@@ -250,7 +250,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20260421015100012_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20260429080827533_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1392,7 +1392,7 @@ We are trying to make a fresh experience for users.
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20260428091911161_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20260429080841939_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1792,17 +1792,24 @@ Permissions (Required)
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20260428092009133_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20260429083651314_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[1.6.16]]></versionName>
 		<versionCode>161600000</versionCode> 
 		<realContentSize>88597011</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>BIND_WALLPAPER||INTERACT_ACROSS_USERS||com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||RECEIVE_BOOT_COMPLETED||AMBIENT_WALLPAPER||ACCESS_NETWORK_STATE||WAKE_LOCK||com.android.homescreen.home.permission.preview_image||SET_WALLPAPER||READ_EXTERNAL_STORAGE||SET_WALLPAPER_COMPONENT||MAINLINE_NETWORK_STACK</permission>
-			<updateDescription><![CDATA[<v1.6.16>
+			<updateDescription><![CDATA[<v1.6.19>
+- Improved the app so that the 3D effect is applied again when using portrait photos for motion wallpapers.
+- Changed photo and video permissions to optional permissions, and updated the app to request permission only when loading actual files.
+- Fixed an issue where videos and animations in wallpapers would occasionally stop.
+- Improved storage usage through resource optimization and cleanup of unnecessary temporary files.
+- Fixed an issue where restore could fail during backup/restore due to incorrect resource handling.
+
+<v1.6.16>
 - Improved battery efficiency when using dynamic wallpapers.
 
 <v1.6.15>
@@ -1861,27 +1868,7 @@ Permissions (Required)
 * After applying the lock screen transition effect, changing the settings related to Always On Display and lock screen through settings, LockStar, ClockFace, etc. may release the transition effect.
 - Add new 3 effects (Hexagon, Slice, Flip)
 - Change chooser UI for image and effect
-- Adjust default configuration value of effect
-
-<v1.3.04>
-- Supports Flex Window wallpaper setting through MultiStar's LauncherWidget. (Galaxy Z Flip5 Only)
-- Improving the transition effect to respond smoothly.
-- Fixed an issue that shows an incorrect image frame in some effects when screen off
-- Various bug fixes and usability improvements are included
-
-<v1.3.01>
-- Supports new type of wallpaper that includes transition effect when user turns on the screen
-- For Fold device, users can set different wallpaper for each display
-- For Fold and Flip device, users can connect transition effects on folding angle through dynamic animation option
-
-<v1.2.30>
-- Solve the problem that the video does not play normally
-
-<v1.2.29>
-- Support wallpaper sharing through Galaxy To Share
-
-<v1.2.27>
-- Support OneUI 5.0]]></updateDescription>
+- Adjust default configuration value of effect]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create moving wallpapers and stunning lock screen effects.
