@@ -138,7 +138,7 @@ v15.0.00.7
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260424075309467_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260430031523393_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -149,7 +149,8 @@ v15.0.00.7
 		<restrictedAge>0</restrictedAge>
 		<permission>STATUS_BAR||EXPAND_STATUS_BAR||MANAGE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE</permission>
 			<updateDescription><![CDATA[Support model
-- One UI 8.0 or higher : S26/Flip7/Fold7/S25FE/A57/A37
+- One UI 8.5 or higher : A57/A37/A36/M36/A35/M35/A34/M34/TabS11/TabS10/TabS10FE/TabS9/TabS9FE/TabS8
+- One UI 8.0 or higher : S26/Flip7/Fold7/S25FE
 - One UI 7.0 or higher : S25/A56/M56/F56
 - One UI 6.1 or higher : S24FE/S21FE/A55/M53/Quantum5/Fold6/Flip6
 - One UI 6.0 or higher : S24/A73/A72/A54/A53/A52s/A52 5G/A52/M54/F54/Quantum 2
@@ -256,7 +257,7 @@ Support new features :  S23, S22 ONEUI5.1
 
 <v1.0.00.5>
 - The description text has been modified.
-- A color palette icon has been applied.]]></updateDescription>
+- A color palette icon has been a]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your camera settings to suit your preferences.
