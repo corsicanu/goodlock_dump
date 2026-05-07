@@ -5,6 +5,85 @@
 	<endNum>16</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
+		<productID>000008893789</productID>
+		<productName><![CDATA[MultiStar]]></productName>
+		<appId>com.samsung.android.multistar</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008893789/IconImage_20260507034158902_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.5.02]]></versionName>
+		<versionCode>250200000</versionCode> 
+		<realContentSize>5494099</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission></permission>
+			<updateDescription><![CDATA[]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Experience enhanced multi-window functionality.
+
+[Description]
+[One UI 8]
+- Added 'Launcher Widget' feature for Flip7 (screen size conversion and ratio adjustment)
+- Added FlipShot feature (mirror selfie feature exclusive to Flip devices)
+- Removed 'Continue using all apps on the front screen' menu for Galaxy Z Tri-fold
+
+[One UI 7]
+- Added 'Keep split mode' feature for tablets/folds
+- Added Japanese language support
+- Added dual messenger app support (Flip 5)
+
+[One UI 6]
+- Added Flip5-exclusive cover widget
+- Added Smart Switch permission
+- Added Galaxy-to-Share settings export/import feature
+- Changed launcher widget app limit (up to 200 apps)
+
+[One UI 5]
+- Added Smart Switch backup feature
+
+[One UI 4]
+Enhanced usability on Flip 3's cover screen (※ Requires Always On Display v7.1.30.4 or higher)
+- Cover launcher widget
+Launch game apps or some media apps directly from the flip cover screen (Flip 3 only, up to 5 apps)
+
+Seamless multi-window experience
+- Use multiple apps in multi-window mode without interruption.
+
+[One UI 3 (Android 11)]
+Wider split-screen view
+- Hide status bar and navigation bar in split-screen mode
+
+Maximize screen space
+- Expand apps to cover the camera area
+
+[One UI 2 (Android 10)]
+Multi-window for all apps
+- Run all apps in pop-up windows and split-screen mode.
+
+[One UI 1 (Android 9)]
+Ghost mode
+- Adjust transparency of pop-up screens to view content underneath.
+Floating notifications
+- Receive notifications as icons.
+
+[Target]
+- Application available on SAMSUNG devices running Android 8.1 or higher.
+- Some devices may not be supported.
+
+[Supported Languages]
+- Korean
+- English
+- Chinese
+- Japanese
+
+[Version Code]
+<MULTISTAR:1000:10001>
+#6]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000008668428</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
@@ -462,169 +541,6 @@ You can decorate your lockscreen wallpapers more beautiful.
 - Japanese
 
 <LOCKSTAR:1003:4004>#1]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003266196</productID>
-		<productName><![CDATA[MultiStar]]></productName>
-		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20260421015126751_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.5.02]]></versionName>
-		<versionCode>250200000</versionCode> 
-		<realContentSize>5494099</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<permission>INTERACT_ACROSS_USERS||BLUETOOTH_ADMIN||MEDIA_CONTENT_CONTROL||MANAGE_APP_OPS_MODES||REBOOT||INTERACT_ACROSS_USERS_FULL||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||REGISTER_WINDOW_MANAGER_LISTENERS||MANAGE_ACTIVITY_STACKS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||REORDER_TASKS||MANAGE_ACTIVITY_TASKS||REAL_GET_TASKS||CONTROL_DISPLAY_BRIGHTNESS||com.system.permission.READ_NOTIFICATIONS||BROADCAST_STICKY||INTERNET||CONTROL_KEYGUARD||STATUS_BAR_SERVICE||USE_FULL_SCREEN_INTENT||BLUETOOTH||WRITE_SETTINGS||ACCESS_KEYGUARD_SECURE_STORAGE</permission>
-			<updateDescription><![CDATA[<10.4.06>  
-- Fixed issue where widget list was not visible in cover launcher  
-
-<v10.3.29>  
-- Galaxy Z Trifold only) Removed unsupported menu  - 'Continue using all apps on front screen'.  
-- Function optimization.  
-
-<v10.2.13>
-※ Supports devices with One UI 8 and above.
-- Application performance optimized.
-
-<10.1.14>
-※ Supports One UI 8 and above.  
--Added stickers and emojis.
--Fixed minor bugs.
-
-<v10.0.32>  
-※ Supports One UI 8 and above.  
-Exclusive 'Launcher Widget' feature for Flip7  
-- App Screen Size Conversion: Size conversion icon appears for easy switching between full, landscape, and portrait modes.  
-- Portrait Mode Screen Ratio Adjustment: Screen ratio in portrait mode can be adjusted from 16:9 to 21:9 in settings. 
-
-<v10.0.23>
-- Support for One UI 8.0
-- New feature: FlipShot
-  When taking mirror selfies, display stylish photos and messages on the cover screen of Flip devices. (※Available only on Flip devices.)
-
-<v9.1.09>
-※ v9.X.X supports One UI 7 devices.
--Fixed cover launcher widget display issues for different app versions.
--Resolved temporary activation of cover game widget in unsupported regions.
-
-<v9.0.15>
-- Supports One UI 7
-- Expanded 'Split mode maintain' to all models
-
-<v7.2.19>
-※Version 7.X.X supports the One UI 6 device. 
-1) Launcher Widget in the cover screen
-  - Optimized for OneUI 6.1.1 support
-  - App icon badge supported
-2) Other bug fixes and feature improvements
-
-<v7.1.33>
-Additions
-- '[Tablet / Fold Device] Provide 'Maintain split mode'' (supports One UI 6.1 and above)
-
-Fixes
-- Improved visibility of navigation bar area
-- Fixed phenomenon that does not reset when deleting app data
-
-<v7.1.17>
-※ (Flip 5 )This version includes modifications related to  'MultiStar > I ♡ Galaxy Foldable  > Launcher widget' 
-    1) Support Dual messenger apps
-    2) Improved a page loading speed
-    3) Fixed errors that specific apps was not loading in a cover screen
-
-<v7.1.05>
-- One UI 6 support
-- Added Japanese language support
-
-[One UI 5]
-<v6.7.3>
-- (Flip 5) Limit the number of apps in the launcher widget (up to 200)
-- (Flip 5) Add 'Samsung Music' to launcher widget
-- (Flip 5) Fixed touch error when running app in launcher widget
-
-<v6.6.1>
-- YouTube not being added to Rotate with our best.
-- Fixed the phenomenon that the device died during SmartSwitch on B5 devices
-- Some apps provided by Samsung as widgets are excluded from the Launcher widget list.
-    You can use these apps as default widgets provided.
-
-<v6.5.10>
-- Added a cover widget specific to 'Flip 5'
-- Added the permission for Smart Switch
-
-<6.4.2>
-- Fixed the issue of not running the app set in Cover launch widget
-
-<v6.3.5>
-- Fixed errors that corner gesture
-- Fixed errors that cover launcher widget
-
-<v6.2.5>
-- It supports backup through smart switch.
-
-<v6.1.0>
-- Fixed errors that did not execute longPress
-
-<v6.0.12>
-※'One UI 5' device is available after this version.
-
-[One UI 4]
-<V5.3.6>
-- Fixed internal errors that MultiStar did not execute
-
-<V5.2.16>
-- Bug fix to Quick launch of the Multi window
-
-<v5.1.20>
-- Cover Launcher Widget function (※ Always On Display  v7.1.30.4 or later)
-  :Support running the app directly from Galaxy Z Flip 3 cover screen
-- Fix some menu descriptions]]></updateDescription>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
-
-[Description]
-[ One UI 4]
-Improved usability on the cover screen of Flip 3. (※ Always On Display  v7.1.30.4 or later)
--Cover launcher widget
- Launch game apps or some media apps directly from the cover screen. (Flip 3 target, you can add up to 5 apps)
-
-Use Multi window without pausing
-- You can use several apps at the same time on the Multi window mode without stopping.
-
-[One UI 3 (Android 11)]
-Immersive Mode 
-- Hide status bar and navigation bar in split screen view
- 
-The app size stretch to camera hole 
-- Open the app by widening the camera area
-
-[One UI 2 (Android 10)]
-Enable Multi window to all apps 
-- All apps can be launched in a Popup window and split screen.
-
-[One UI 1 (Android 9)]
-Ghost Mode 
-- When you use Popup Window, you can adjust the transparency of Windows so that you can see what is under the window.
-
-Floating Notification 
-- You can receive notifications in the form of icons.
-
-
-[Target]
-- Android O os 8.1~  SAMSUNG devices.
-
-[Language]
-- English
-- Korean
-- Chinese
-
-[Version Code]
-<MULTISTAR:1000:10001>
-#6]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
