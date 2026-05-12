@@ -317,6 +317,60 @@ Floating notifications
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000008873485</productID>
+		<productName><![CDATA[Nice Shot]]></productName>
+		<appId>com.samsung.android.app.captureplugin</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008873485/IconImage_20260512065323065_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.3.07]]></versionName>
+		<versionCode>230700000</versionCode> 
+		<realContentSize>7467945</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission></permission>
+			<updateDescription><![CDATA[<v2.3.07>
+- Fix the issue where the NiceShot app remains in the GoodLock disable target list even after being disabled
+
+<v2.3.06>
+- Add 'Share to GTS' menu in more option
+- Fix settings not applied issues in some devices
+
+<v2.3.02>
+- Support GTS (Galaxy To Share)
+- Show selected color in the color selection menu as text
+
+<v2.2.01>
+- Added Japanese language support]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[[One UI 5]
+○ Screen capture : Delete the "Do not copy image to the clipboard when saving" setting
+                         (Do not support saving the clipboard when capturing from One UI 5)
+○ Screen recording : Delete the "Selfie video options -> Selfie video size" setting
+                           (※ Please use the settings in "Settings -> Advanced features -> Screenshots and screen recorder" of the device.)
+
+[One UI 4]
+* Each menu offered will appear differently on the specifications supported by the device.
+○ Screen capture : Provides settings such as activating the delete button immediately when capturing the screen, not saving it to the clipboard, and turning off the magnet effect after capturing.
+
+○ Screen recording : You can set various backgrounds when shooting self-videos, and you can automatically run the Do Not Disturb mode when recording screens.
+
+[Before Q os]
+Provides a variety of screenshot options.
+(Some functions are available only on smart capture support devices.)
+Provides a variety of screen shot options.(Some functions are available only on smart capture support terminals.)
+- Save Format: Change the screen shot format to PNG or JPG.
+- Automatic removal of system UI: Remove indicator and navigation bar and save.
+- #Tag: We recommend Tag for easy classification after smart capture.
+- Automatic deletion after sharing: It will be automatically deleted from the Smart Capture toolbar when it is not saved in Gallery.
+- Screen Recording: Provides screen recording function.
+
+* Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
@@ -1152,60 +1206,6 @@ Press "Vibration history" in app's main screen and you get a list of application
 (please make sure that the switch is enabled before use.)
 
 #GoodLockFriends #3]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003926817</productID>
-		<productName><![CDATA[Nice Shot]]></productName>
-		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003926817/IconImage_20260421015245234_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.3.07]]></versionName>
-		<versionCode>230700000</versionCode> 
-		<realContentSize>7467945</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<permission>com.wssnps.permission.COM_WSSNPS||STATUS_BAR_SERVICE||ACCESS_NETWORK_STATE</permission>
-			<updateDescription><![CDATA[<v2.3.07>
-- Fix the issue where the NiceShot app remains in the GoodLock disable target list even after being disabled
-
-<v2.3.06>
-- Add 'Share to GTS' menu in more option
-- Fix settings not applied issues in some devices
-
-<v2.3.02>
-- Support GTS (Galaxy To Share)
-- Show selected color in the color selection menu as text
-
-<v2.2.01>
-- Added Japanese language support]]></updateDescription>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[[One UI 5]
-○ Screen capture : Delete the "Do not copy image to the clipboard when saving" setting
-                         (Do not support saving the clipboard when capturing from One UI 5)
-○ Screen recording : Delete the "Selfie video options -> Selfie video size" setting
-                           (※ Please use the settings in "Settings -> Advanced features -> Screenshots and screen recorder" of the device.)
-
-[One UI 4]
-* Each menu offered will appear differently on the specifications supported by the device.
-○ Screen capture : Provides settings such as activating the delete button immediately when capturing the screen, not saving it to the clipboard, and turning off the magnet effect after capturing.
-
-○ Screen recording : You can set various backgrounds when shooting self-videos, and you can automatically run the Do Not Disturb mode when recording screens.
-
-[Before Q os]
-Provides a variety of screenshot options.
-(Some functions are available only on smart capture support devices.)
-Provides a variety of screen shot options.(Some functions are available only on smart capture support terminals.)
-- Save Format: Change the screen shot format to PNG or JPG.
-- Automatic removal of system UI: Remove indicator and navigation bar and save.
-- #Tag: We recommend Tag for easy classification after smart capture.
-- Automatic deletion after sharing: It will be automatically deleted from the Smart Capture toolbar when it is not saved in Gallery.
-- Screen Recording: Provides screen recording function.
-
-* Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
