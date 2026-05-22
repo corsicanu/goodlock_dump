@@ -294,6 +294,168 @@ We are trying to make a fresh experience for users.
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000008853087</productID>
+		<productName><![CDATA[NotiStar]]></productName>
+		<appId>com.samsung.systemui.notilus</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008853087/IconImage_20260522010257943_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.0.88.0]]></versionName>
+		<versionCode>808800000</versionCode> 
+		<realContentSize>7955334</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission></permission>
+			<updateDescription><![CDATA[<v8.0.88.0>  
+※ Supports devices with One UI 5 (Android 13) and above.  
+- Improved app freezing issues and duplicate notification prevention.  
+- Added notification storage for work profile/dual messenger/secure folder (varies by One UI version).  
+- App performance optimization.  
+
+
+<v8.0.33.00>  
+- App performance optimization.  
+- Fixed to not allow spaces when entering keywords.  
+ (Spaces were causing filtering issues, which have been resolved.)  
+※ Spaces in previously created filter keywords were not automatically removed, so please manually check and adjust them.  
+※ Please restart your device after installing the new version.
+
+
+
+<v8.0.17.0>
+- Supports One UI 8.0
+
+<v7.0.17.0> 
+Fixed the issue of notification permissions being reset after rebooting.
+
+<v7.0.15.0>
+- Supports One UI 7.0
+- Fixes notification duplication issue
+- Resolves layout problems
+- Stores app notifications in work profile (One UI 5~)
+
+<v6.0.92.0>
+- Supports One UI 6.1.1
+- Changed widget logic on cover screen
+- Added selection of notification screen background color on lock screen
+- Fixed an issue where receiving notifications with large images caused errors
+
+<v6.0.32.00>
+- Fix Layout bug
+- Support Flip5 cover widget
+- Fix bug that lockscreen icon is remain on home screen
+- Show bigger image if notification has image
+- Long press notification to save image
+
+<v5.3.73.0>
+-Support for OneUI 6.0
+-Added support for Japanese language
+※ Supports displaying app icons to run Flip5 coverscreen. Please use MultiStar Launcher Widget
+
+v5.2.54.00
+- Fix P OS FC
+
+v5.2.53.00
+- Support Widget
+- Set app unable to clear notifications (Support after One UI 5.1.1)
+- Sync with lock state when using NotiStar on Lock screen
+- Support Dark mode
+
+v5.1.24.00
+- Layout bug fix
+- Support smart switch (settings only)
+- Fix duplicated entry point view on lock screen
+
+v5.1.08.00
+- OneUI 5.0 support
+- Fixed an error related to the lock screen entry point icon
+- Other UI bug fixes
+
+v4.2.53.0
+ - 'One UI 4' device is available after this version.
+
+v3.1.33.0
+ - Fix some layout errors (ex. permission window, RTL etc)
+
+v3.1.31.1
+ - Add permission notice
+
+v3.1.30.0
+ 1. Show the alert message when the lock screen hide the content setting is turned on.
+ 2. Fix Database searching issue with special characters.
+ (Search might not work properly if some special characters are included in the filter.)
+ 3. Fixed other minor bugs.
+
+v3.1.24.0
+ 1. Fixed an issue where the entry point disappears from the lock screen intermittently
+ 2. Fixed minor bugs
+
+v3.1.19.1
+- We now support the following:
+ 1. Landscape mode for all layouts
+ 2. Copy & Share with long-press a notification
+ 3. Keyword highlighting when searching notifications
+
+- The following fixed: 
+ 1. App icons of saved notifications turned white
+ 2. Other performance issues
+
+v2.1.22.20
+- Fixed the issue that our lock screen handler keeps on home screen.
+- Support the landscape mode. (Except the menu, 'Start icon settings on Lock screen', which will be improved later)
+
+v2.1.22.9
+- Fixed Issue that the NotiStar freezes when the screen is scrolled while many notifications are coming in.
+- Fixed Issue that LockScreen handler disappear.
+
+v2.1.22.6
+- A notification filter's whole characters will be shown (without ... mark). (the filter's limit is 8 characters) 
+- Fixed the late response after 'clear all' action of notifications
+- Fixed the dark theme issue with clear all dialog 
+- Fixed LockScreen handler's resolution issue
+
+v2.1.22.1
+- Add timestamp at Notification Card
+- Fixed LockScreen handler's visibility issue
+ 
+v2.1.21.6
+- Improve sluggish issue while multiwindow( like pop-view and split view) of NotiStar.
+- Fixed the filter sorting issue.
+- Fixed the issue that NotiStar was not running after update.
+- Minor change of UI.]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[NotiStar is a new notification management service.
+
+[Description]
+NotiStar is a new notification management service.
+With this service, you can manage all the notifications you've received.
+You can also search through past notifications or categorize them as desired.
+All your notifications remain stored until you delete them.
+We aim to provide users with a fresh experience.
+
+Tip: Long-press the NotiStar menu in the Good Lock app to create a shortcut icon on your home screen.
+
+[Supported Models]
+- Android 9 (P OS) and above SAMSUNG devices
+
+[Supported Languages]
+- Korean
+- English
+- Chinese Simplified
+- Japanese
+
+[Optional Permission]
+- Storage (Optional)
+  : When editing lock screen accessible icons, storage access is required to display wallpapers on the preview screen.
+
+[Version Code]
+<NOTISTAR:2001:9002>
+#GoodLockFriends]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000008904555</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
@@ -1368,171 +1530,6 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
-		<productID>000004085658</productID>
-		<productName><![CDATA[NotiStar]]></productName>
-		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20260421015254417_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[8.0.88.0]]></versionName>
-		<versionCode>808800000</versionCode> 
-		<realContentSize>7955334</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<permission>READ_WALLPAPER_INTERNAL||SUBSTITUTE_NOTIFICATION_APP_NAME||READ_MEDIA_VIDEO||MANAGE_ACTIVITY_STACKS||FOREGROUND_SERVICE||com.wssnps.permission.COM_WSSNPS||INTERACT_ACROSS_USERS||READ_MEDIA_IMAGES||QUERY_ALL_PACKAGES||VIBRATE||INTERNAL_SYSTEM_WINDOW||MANAGE_ACTIVITY_TASKS||INTERACT_ACROSS_USERS_FULL||SET_PROCESS_LIMIT||CONTROL_KEYGUARD||ACCESS_NETWORK_STATE||MANAGE_USERS||READ_EXTERNAL_STORAGE</permission>
-			<updateDescription><![CDATA[<v8.0.88.0>  
-※ Supports devices with One UI 5 (Android 13) and above.  
-- Improved app freezing issues and duplicate notification prevention.  
-- Added notification storage for work profile/dual messenger/secure folder (varies by One UI version).  
-- App performance optimization.  
-
-
-<v8.0.33.00>  
-- App performance optimization.  
-- Fixed to not allow spaces when entering keywords.  
- (Spaces were causing filtering issues, which have been resolved.)  
-※ Spaces in previously created filter keywords were not automatically removed, so please manually check and adjust them.  
-※ Please restart your device after installing the new version.
-
-
-
-<v8.0.17.0>
-- Supports One UI 8.0
-
-<v7.0.17.0> 
-Fixed the issue of notification permissions being reset after rebooting.
-
-<v7.0.15.0>
-- Supports One UI 7.0
-- Fixes notification duplication issue
-- Resolves layout problems
-- Stores app notifications in work profile (One UI 5~)
-
-<v6.0.92.0>
-- Supports One UI 6.1.1
-- Changed widget logic on cover screen
-- Added selection of notification screen background color on lock screen
-- Fixed an issue where receiving notifications with large images caused errors
-
-<v6.0.32.00>
-- Fix Layout bug
-- Support Flip5 cover widget
-- Fix bug that lockscreen icon is remain on home screen
-- Show bigger image if notification has image
-- Long press notification to save image
-
-<v5.3.73.0>
--Support for OneUI 6.0
--Added support for Japanese language
-※ Supports displaying app icons to run Flip5 coverscreen. Please use MultiStar Launcher Widget
-
-v5.2.54.00
-- Fix P OS FC
-
-v5.2.53.00
-- Support Widget
-- Set app unable to clear notifications (Support after One UI 5.1.1)
-- Sync with lock state when using NotiStar on Lock screen
-- Support Dark mode
-
-v5.1.24.00
-- Layout bug fix
-- Support smart switch (settings only)
-- Fix duplicated entry point view on lock screen
-
-v5.1.08.00
-- OneUI 5.0 support
-- Fixed an error related to the lock screen entry point icon
-- Other UI bug fixes
-
-v4.2.53.0
- - 'One UI 4' device is available after this version.
-
-v3.1.33.0
- - Fix some layout errors (ex. permission window, RTL etc)
-
-v3.1.31.1
- - Add permission notice
-
-v3.1.30.0
- 1. Show the alert message when the lock screen hide the content setting is turned on.
- 2. Fix Database searching issue with special characters.
- (Search might not work properly if some special characters are included in the filter.)
- 3. Fixed other minor bugs.
-
-v3.1.24.0
- 1. Fixed an issue where the entry point disappears from the lock screen intermittently
- 2. Fixed minor bugs
-
-v3.1.19.1
-- We now support the following:
- 1. Landscape mode for all layouts
- 2. Copy & Share with long-press a notification
- 3. Keyword highlighting when searching notifications
-
-- The following fixed: 
- 1. App icons of saved notifications turned white
- 2. Other performance issues
-
-v2.1.22.20
-- Fixed the issue that our lock screen handler keeps on home screen.
-- Support the landscape mode. (Except the menu, 'Start icon settings on Lock screen', which will be improved later)
-
-v2.1.22.9
-- Fixed Issue that the NotiStar freezes when the screen is scrolled while many notifications are coming in.
-- Fixed Issue that LockScreen handler disappear.
-
-v2.1.22.6
-- A notification filter's whole characters will be shown (without ... mark). (the filter's limit is 8 characters) 
-- Fixed the late response after 'clear all' action of notifications
-- Fixed the dark theme issue with clear all dialog 
-- Fixed LockScreen handler's resolution issue
-
-v2.1.22.1
-- Add timestamp at Notification Card
-- Fixed LockScreen handler's visibility issue
- 
-v2.1.21.6
-- Improve sluggish issue while multiwindow( like pop-view and split view) of NotiStar.
-- Fixed the filter sorting issue.
-- Fixed the issue that NotiStar was not running after update.
-- Minor change of UI.]]></updateDescription>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[NotiStar is new notification management service
-
-[Description]
-NotiStar is new notification management service
-By using this, You can manage many of the notifications you have received so far
-In addition, you can search for delivered notifications or categorize them as you like.
-All of these notifications are always there before you delete them.
-We are trying to make fresh experience for users.
-
-Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is created on the home screen
-
-[Target]
-- Android T OS 13.0 SAMSUNG devices.
-- Android S OS 12.0 SAMSUNG devices.
-- Android R OS 11.0 SAMSUNG devices.
-- Android Q OS 10.0 SAMSUNG devices.
-- Android P OS 9.0 SAMSUNG devices.
-
-[Language]
-- Korean
-- English
-- Chinese
-
-[Optional permission]
-- Storage (Optional)
-  : When editing icons accessible on the lock screen, Storage is accessed to show the wallpaper on the preview screen.
-
-[Version Code]
-<NOTISTAR:2001:9002>
-#GoodLockFriends]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
@@ -1861,7 +1858,7 @@ English, Korean, Chinese
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20260519080336691_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20260522023116992_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1871,7 +1868,12 @@ English, Korean, Chinese
 		<realContentSize>26794146</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>MODIFY_PHONE_STATE||FOREGROUND_SERVICE||BLUETOOTH_ADMIN||FOREGROUND_SERVICE_SPECIAL_USE||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||ACCESS_NOTIFICATION_POLICY||INTERACT_ACROSS_USERS_FULL||ACCESS_NETWORK_STATE||WAKE_LOCK||POST_NOTIFICATIONS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||VIBRATE||RECORD_AUDIO||DEVICE_POWER||MODIFY_AUDIO_ROUTING||INTERNET||SYSTEM_APPLICATION_OVERLAY||MODIFY_AUDIO_SETTINGS||BLUETOOTH||BLUETOOTH_CONNECT||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v9.0.00.3>
+			<updateDescription><![CDATA[<v8.5.00.2>
+※Supports One UI 8 and above.
+- Improved app stability.
+
+<v9.0.00.3>
+※Supports One UI 9 and above.
 - SESL 9.0 Applied
 - Fixed volume panel icon bug
 - Fixed FC issue
