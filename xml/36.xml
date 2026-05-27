@@ -1931,10 +1931,10 @@ English, Korean, Chinese
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[8.5.00.1]]></versionName>
-		<versionCode>850000001</versionCode> 
-		<realContentSize>28201247</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.5.00.2]]></versionName>
+		<versionCode>850000002</versionCode> 
+		<realContentSize>28224449</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>MODIFY_PHONE_STATE||FOREGROUND_SERVICE||BLUETOOTH_ADMIN||FOREGROUND_SERVICE_SPECIAL_USE||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||ACCESS_NOTIFICATION_POLICY||INTERACT_ACROSS_USERS_FULL||ACCESS_NETWORK_STATE||WAKE_LOCK||POST_NOTIFICATIONS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||VIBRATE||RECORD_AUDIO||DEVICE_POWER||MODIFY_AUDIO_ROUTING||INTERNET||SYSTEM_APPLICATION_OVERLAY||MODIFY_AUDIO_SETTINGS||BLUETOOTH||BLUETOOTH_CONNECT||WRITE_SETTINGS</permission>
 			<updateDescription><![CDATA[<v8.5.00.2>
