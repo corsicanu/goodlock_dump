@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>16</endNum>
+	<endNum>17</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008669028</productID>
@@ -635,6 +635,158 @@ Floating notifications
 [Version Code]
 <MULTISTAR:1000:10001>
 #6]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000008862497</productID>
+		<productName><![CDATA[LockStar]]></productName>
+		<appId>com.samsung.systemui.lockstar</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008862497/IconImage_20260601034314079_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[3.0.00.32]]></versionName>
+		<versionCode>300032000</versionCode> 
+		<realContentSize>64610116</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission></permission>
+			<updateDescription><![CDATA[<v8.5.00.17>
+□ One UI 8.0 or higher
+- Fixed lock screen / AOD clock settings error
+- Fixed errors occurring during Smart Switch / GTS
+- Fixed manual brightness malfunction on non-Full screen AOD devices
+
+<v8.5.00.10>
+□ One UI 8.5 or higher
+- Adjusted manual brightness range for Full screen AOD
+- Added 'Swirl' type to Unlock animation
+- Improved status bar visibility in Unlock animation edit screen
+
+□ One UI 8.0 or higher
+- Adjusted AOD brightness for 'Add text' items
+- Fixed missing manual brightness option on non-Full screen AOD devices
+
+<v8.5.0.8>  
+※ New Features  
+1. Newly supported on One UI 8.5  
+- Added new 'Unlock Animation' effects  
+- [Full Screen AOD models] Added support for manual AOD brightness adjustment  
+
+2. Supported on One UI 8.0 or higher  
+- Added 'Text' feature  
+
+※ Bug Fixes  
+- Fixed fingerprint effect issue  
+- Added adjustment for widget 'corner rounding'  
+
+<v7.0.01.10>  
+- Fixed intermittent errors that may occur during package updates.  
+- Resolved notification display issues on the tablet's horizontal lock screen. 
+
+<v7.0.01.9>
+※ Available only on One UI 8 or higher
+- Fixed malfunction of Fold 7 cover screen AOD (unable to add widgets and stickers, brightness adjustment malfunction)
+- Fixed lock screen widget errors.
+
+<v7.0.01.5>
+※ Supports One UI 8 devices.
+-Fixed the issue where the responsive clock was not functioning.
+-Improved loading errors for the lock screen widget.
+-Corrected the icon display error while using the 'Extend Unlock' feature.
+
+<v7.0.00.14>
+- Supports devices for One UI 7.0
+- Integrated the LockStar settings screen with the preload lock screen editor
+
+<v6.1.00.18>
+- Fixed the issue of clock display and editing in the LockStar app on Flip 6
+- Other errors improved
+
+<v6.1.0.11>
+- Supports devices upgraded to One UI 6.1
+  ※ The following functions require an update to AOD version v8.7.99.11 or later and are not available on devices supporting "Full Screen AOD" (e.g., s24)
+    1) Edit AOD function
+    2) AOD manual brightness option
+
+
+v.6.1.00.4
+[Changes]
+The widget can be freely moved from the bottom fixed position.
+※ From One UI 6.1, this app only supports the 'lock screen' on devices where the operation between the lock screen and AOD is integrated.
+
+v.6.0.0.5
+- Fixed an issue that did not show the settings for a widget at times
+- Improve the app performance
+
+v.6.0.0.4
+- OneUI 6 support
+
+v.5.1.0.25
+- Added stabilization behavior for widgets
+- Fixed an issue where the face recognition VI would not stop
+
+v5.1.0.24
+ - Added 'Widgets' on Lock screen and Always On Display
+   ※Constraints info in Always On Display
+      : Widget usage is not available for burn-in protection in the below cases
+        1) when you are using a clock type from Image Clock
+        2) when you applied the clock of custom type in ClockFace app
+
+v.5.0.00.15
+- GTS error correction
+
+v.5.0.00.14
+- Support Smart Switch backup and restore
+
+v.5.0.0.9
+- Fixed its edit layout error
+
+V.5.0.0.6
+- Update for OneUI 5.0 Foldable Devices
+
+V.5.0.0.3
+- Update for OneUI 5.0 Devices
+
+V.3.0.0.32
+- Fixed an error which a lock icon keeps visible on quick panel
+
+V3.0.0.30
+ - Fixed to remove a internal error (only One UI 5.0 beta device)
+
+V3.0.0.29
+- Fixed the shrinked width of music widget
+※ LockStar is NOT working in OneUI 5.0 beta binary.
+
+V3.0.0.26
+This version fixed 
+- the problem that notificaion card is not center aligned
+- the problem that notification icon color is not applied when theme is applied
+
+
+V3.0.0.24
+- New UX patch for Galaxy foldable
+
+V3.0.0.6
+- Fixed SystemUI exception that occurs when using the list type of app shortcut
+- Fixed color errors in notification icons
+- Fixed the errors  when used with the old version of ClockFace (2020)
+  (Please keep the latest version)]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Design your new lock screen.
+Freely arrange clocks, quick access apps, and widgets to create your own unique style.
+
+* Available on Samsung devices running Android 8.0 (Oreo) or later.
+* May not be supported on certain Galaxy devices.
+
+[Supported Languages]
+- Korean
+- English
+- Chinese
+- Japanese
+
+<LOCKSTAR:1003:4004>#1]]></description>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
@@ -1655,7 +1807,7 @@ Provide custom effect creation option.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20260428091843471_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20260601030419635_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1665,7 +1817,13 @@ Provide custom effect creation option.
 		<realContentSize>23800964</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
-			<updateDescription><![CDATA[<Version: 1.1.01.47>
+			<updateDescription><![CDATA[<Version: 1.1.02.01>
+- Enhanced keyboard customization with new keycap designs (One UI 9)
+- Improved live icons and previews for Clock/Calendar (One UI 9)
+- Improved color tuning and overall theme quality
+- General usability improvements and bug fixes
+
+<Version: 1.1.01.47>
 - Improved app stability.
 
 <Version: 1.1.01.46>
