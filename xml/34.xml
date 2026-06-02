@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>21</endNum>
+	<endNum>22</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008669143</productID>
@@ -790,6 +790,41 @@ Freely arrange clocks, quick access apps, and widgets to create your own unique 
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000008965710</productID>
+		<productName><![CDATA[Nice Shot]]></productName>
+		<appId>com.samsung.android.app.captureplugin</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008965710/IconImage_20260528101713925_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.3.09]]></versionName>
+		<versionCode>230900000</versionCode> 
+		<realContentSize>6376972</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission></permission>
+			<updateDescription><![CDATA[<2.3.09>
+- System stability and performance improvements
+- Fixed UI issues
+- Resolved language display issue (Korean mode)]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Enhanced Screenshot & Screen Recording Features
+
+Enjoy customizable options for capturing and recording your screen:
+
+□ Screen Capture
+- Instant delete button after capture
+- Option to disable magnet effect after capture
+
+○ Screen Recording  
+- Customizable selfie video backgrounds
+- Auto Do Not Disturb mode during recordings
+
+※ Note: Available features may vary depending on your device specifications.]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000008873485</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
@@ -1266,10 +1301,10 @@ Enjoy your own clockface on Lockscreen and AOD
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[8.0.00.1]]></versionName>
-		<versionCode>800000001</versionCode> 
-		<realContentSize>10912138</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.0.00.4]]></versionName>
+		<versionCode>900000004</versionCode> 
+		<realContentSize>11180969</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>INTERACT_ACROSS_USERS_FULL||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS</permission>
 			<updateDescription><![CDATA[<v9.0.00.4>
