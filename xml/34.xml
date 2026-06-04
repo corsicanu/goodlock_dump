@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>22</endNum>
+	<endNum>21</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008669143</productID>
@@ -1783,82 +1783,6 @@ Set double tap to shortcut by pressing S Pen
 * OneUI2.1 supports only 'Change the form of Air Command' feature.
 
 #Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000006559401</productID>
-		<productName><![CDATA[RegiStar]]></productName>
-		<appId>com.samsung.android.app.galaxyregistry</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20260421015652227_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.67]]></versionName>
-		<versionCode>106700000</versionCode> 
-		<realContentSize>12702319</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<permission>INTERACT_ACROSS_USERS||FOREGROUND_SERVICE||FOREGROUND_SERVICE_SPECIAL_USE||READ_CLIPBOARD_IN_BACKGROUND||INTERACT_ACROSS_USERS_FULL||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||ACCESS_NETWORK_STATE||WAKE_LOCK||WRITE_SECURE_SETTINGS||POST_NOTIFICATIONS||HIGH_SAMPLING_RATE_SENSORS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||VIBRATE||UNLIMITED_TOASTS||START_ACTIVITIES_FROM_BACKGROUND||INJECT_EVENTS||FORCE_STOP_PACKAGES||CONTROL_KEYGUARD||SYSTEM_APPLICATION_OVERLAY</permission>
-			<updateDescription><![CDATA[<1.0.67>
-- Fixed Gemini app launch issue on Flip cover screen.
-- Fixed Back-Tap function error in power saving mode.
-- Applied Back Tap stability patch.
-
-<1.0.58>
-- Apply patch considering compatibility with One UI 7.0 
-- Apply patch to provide app stability
-
-<v1.0.54>
-- Voice recording operation error improvement
-- App function stabilization patch applied	
-- [Flip6/Fold6 exclusive feature] Actions executable on off-screen added (sound time notification, vibration time notification)	
-
-<v1.0.48>
-- Fixed "Mute or unmute all volumes" not working.
-
-v1.0.47
-- Apply One UI 6.0 stabilization code
-- Fixed app crash when entering 'Customize your settings home'
-- Fixed 'Live caption' not working
-
-v1.0.43
--Fixed app termination during press and hold of a side-key on some devices.
-
-v1.0.42
-- Improved logic to reduce current consumption
-- Fixed action error on cover screen
-- Corrected screen touch errors
-
-v1.0.39
-- Provides 'Back-Tap action' feature as a Modes and Routines action
-- Fixed bugs
-
-v1.0.37
-- Fixed a black dot show while using back tapping function
-
-v1.0.36
-- Add a sensitivity option of back tapping function
-- Support a back tapping function on Fold devices
-
-v1.0.29
-- Add action option menu of back tapping function (main > Back-Tap action > action detection limit)
-- Fixed the problem of automatic switching of PIP when executing a action
-
-v1.0.26
-- Modify the notification display during the 'Back-Tap action'
-- Add mode selection settings for screenshot actions
-- Add Shortcut selection for 'Open app' action]]></updateDescription>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Conveniently configure the Settings app and press the side key, tap the back, or press the screen strongly to quickly launch useful features.
-
-- Re-configure menu of Settings home screen
- : Change order, hide,manage groups
-- Set method of displaying Samsung account on the Settings home screen
-- Search settings change history, change notification settings
-- Activate features by tapping the back of the device (Galaxy S/ Flip only)
-- Run features by long-pressing the side key
-- Run features by pressing the screen strongly (Fold 4 only)]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
