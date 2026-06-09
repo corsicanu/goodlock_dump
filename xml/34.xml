@@ -2074,10 +2074,10 @@ Provide custom effect creation option.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.1.01.47]]></versionName>
-		<versionCode>110147000</versionCode> 
-		<realContentSize>37220631</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.02.1]]></versionName>
+		<versionCode>110201000</versionCode> 
+		<realContentSize>42561141</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_WALLPAPER_INTERNAL||REMOVE_TASKS||PACKAGE_USAGE_STATS||com.wssnps.permission.COM_WSSNPS||FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||RECEIVE_BOOT_COMPLETED||REAL_GET_TASKS||INTERNET||GET_INTENT_SENDER_INTENT||ACCESS_NETWORK_STATE||WAKE_LOCK||SET_WALLPAPER</permission>
 			<updateDescription><![CDATA[<Version: 1.1.02.01>
