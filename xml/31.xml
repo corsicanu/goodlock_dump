@@ -897,6 +897,57 @@ Freely arrange clocks, quick access apps, and widgets to create your own unique 
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000008864914</productID>
+		<productName><![CDATA[ClockFace]]></productName>
+		<appId>com.samsung.android.app.clockface</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008864914/IconImage_20260617082034189_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.2.68.0]]></versionName>
+		<versionCode>226800000</versionCode> 
+		<realContentSize>87621946</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission></permission>
+			<updateDescription><![CDATA[]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[ONE UI 6.1]
+- Added font/weather item (available from S24 models)
+- Added framed image (GIF) item
+
+[ONE UI 6.0]
+- Added framed image (GIF) item
+
+[ONE UI 5.0]
+- Tablet support added (available from Galaxy Tab S8)
+
+[ONE UI 4.1]
+- Connect a Galaxy Watch to preview more watch faces (※ Only for faces created with Watch Face Studio)
+
+[ONE UI 3]
+- Create a customized clock face
+- Select a clock face style and personalize it by adding text, images, and GIFs
+- Enjoy your unique clock face on Lock screen and Always On Display (AOD)
+  - Customize clock face: Change the style and color of hour hand, minute hand, pin, background, etc.
+  - Apply your clock face to Lock screen and AOD
+
+[Supported Models]
+- Android 9 and above SAMSUNG devices
+※ Some models may not be supported  
+
+[Supported Languages]
+- Korean
+- English
+- Simplified Chinese
+- Japanese
+#5]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000008873407</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
@@ -949,118 +1000,6 @@ Provides a variety of screen shot options.(Some functions are available only on 
 
 * Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.]]></description>
 		<fromPrepost>Y</fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003202866</productID>
-		<productName><![CDATA[ClockFace]]></productName>
-		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20260421015111833_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.2.68.0]]></versionName>
-		<versionCode>226800000</versionCode> 
-		<realContentSize>87621946</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<permission>REQUEST_DELETE_PACKAGES||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||SUBSTITUTE_SHARE_TARGET_APP_NAME_AND_ICON||INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||REQUEST_IGNORE_BATTERY_OPTIMIZATIONS||WRITE_SECURE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v3.4.00.4>
-※ v3.4.x supports One UI 8 and above devices.
-Added battery optimization exception for better clock display in ClockFace
-
-<v3.3.08.19>
-The phenomenon of icons being exposed has been fixed.
-
-<v3.3.08.15>
-※Version 3.3.X supports the One UI 7 or higher device. 
--10 new watch presets have been added.
--Minor bug fixes and stability improvements have been made.
-
-<v3.3.7.1>
- - One UI 7.0 and later devices
-
-<v3.1.7.1>
-※Version 3.1.X supports the One UI 6 device. 
-[Added] - One UI 6.1 and later devices
-     - Support for new fonts.
-     - Added a weather item.
-     - Support for frames on images (including GIFs). (One UI 6.0~)
-[Changed]
-※Devices that do not support "clock style" due to integration between lock screen and AOD will only support "Lock screen" clock style in this app.
-
-<3.0.08.0>
-- Updated a wearable plugin version in One UI 6
-
-<v3.0.07.0>
-- One UI 6 support
-- Added Japanese language support
-
-□ One UI 5
-<V2.3.23>
-※ Z Flip3 / Z Flip4
- - Stabilization of clock style menu entry.
-
-<v2.3.19>
- - Fixed the error that some existing clocks were forced to change after the app patch (v2.3.18) in order to keep the previous clocks.
-    ※ Notice for users who installed v2.3.18
-     1. Clocks created in v2.3.18 will be restored to the previous palette (first time only).
-     2. If you applied the sample clock provided in v2.3.18, it will revert to the sample clock of the previous version (v 2.3.6)(first time only).
-
-<v2.3.18>
-- support Zflip5 clocks.
-- support clear background on Image item.
-- added gif search(tenor).
-
-<v2.3.06.0>
-- Add GTS backup and restore (It will be working with GTS newer version.)
-
-□ One UI 3/4
-<v2.2.68>
-- Fixed the issue that Clock style is not updated at times
-
-<v2.2.57> 
-- Supported device extension and fix minor bugs
-
-<v2.2.31.2>
-- Available in One UI 4 based on Android 12
-
-□ One UI 1/2
-<v1.2.09>
-Pre-preparation for OneUI 3]]></updateDescription>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
-
-[ONE UI 6.1]
-added font/weather item ( From S24 models)
-added framed image(GIF) item.
-
-[ONE UI 6.0]
-added framed image(GIF) item.
-
-[ONE UI 5.0]
-Support Tablet ( From Galaxy Tab S8)
-
-[ONE UI 4.1]
-Connect a Galaxy Watch to preview more watch faces (※ However, created by Watch Face Studio)
-
-[One UI 3]
-Create a clockface to your taste. 
-You can select the clockface style and decorate it by adding text, images and GIFs.
-Enjoy your own clockface on Lockscreen and AOD
- - Create clockface: You can change the style and color of an hour hand, minute hand, pin, background, etc.
- - Apply the clockface on Lockscreen and AOD
-
-
-[Target]
-- Android 9/10/11 SAMSUNG devices.
-
-[Language]
-- Korean
-- English
-- Simplified Chinese
-#5]]></description>
-		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003084395</productID>
