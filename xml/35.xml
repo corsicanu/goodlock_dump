@@ -1161,7 +1161,7 @@ v1.0.26
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260715014959190_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260715062016106_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1181,7 +1181,7 @@ v1.0.26
 - One UI 5.1 or higher : S23/S23FE/S22/S21/S20/Note20/Fold5/Flip5/Fold4/Flip4/Fold3/Flip3/Fold2/Flip
 
 <v5.0.00.6>
-- Mirror View Feature Added (B8 Exclusive)
+- Mirror View Feature Added (Z Flip8 Exclusive)
 - Camera Auto-Off – On/Off Control Now Available
 - Photo Mode – Minimum Shutter Speed 1/60 Added
 - Camera Assistant – Multi-Language Support
