@@ -1475,7 +1475,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20260721101209588_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20260723064523677_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1485,7 +1485,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<realContentSize>7272234</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>QUERY_ALL_PACKAGES||VIBRATE||RECEIVE_BOOT_COMPLETED</permission>
-			<updateDescription><![CDATA[<v9.0.00.00>
+			<updateDescription><![CDATA[<v9.0.00.0>
 - Some minor improvements.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
