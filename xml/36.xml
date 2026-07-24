@@ -51,7 +51,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000008905897</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008905897/IconImage_20260518070612625_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008905897/IconImage_20260724070259012_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -233,7 +233,7 @@ Floating notifications
 		<productID>000008878348</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008878348/IconImage_20260518070540006_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008878348/IconImage_20260724070124095_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -463,7 +463,7 @@ Fixed an issue leading to unexpected app closure during effect processing at sta
 - Fixed missing manual brightness option on non-Full screen AOD devices]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
-		<averageRating><![CDATA[10]]></averageRating><description><![CDATA[Design your new lock screen.
+		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[Design your new lock screen.
 Freely arrange clocks, quick access apps, and widgets to create your own unique style.
 
 * Available on Samsung devices running Android 8.0 (Oreo) or later.
