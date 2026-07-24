@@ -1112,7 +1112,7 @@ English, Korean, Chinese Simplified, Japanese
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20260615063035825_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20260724014109266_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1230,10 +1230,10 @@ Provides advanced functions related to Samsung Keyboard.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[8.0.00.1]]></versionName>
-		<versionCode>800000001</versionCode> 
-		<realContentSize>7272234</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.0.00.0]]></versionName>
+		<versionCode>900000000</versionCode> 
+		<realContentSize>6663761</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>QUERY_ALL_PACKAGES||VIBRATE||RECEIVE_BOOT_COMPLETED</permission>
 			<updateDescription><![CDATA[<v9.0.00.0>
@@ -1277,7 +1277,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20260624230206723_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20260724015916527_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1593,7 +1593,7 @@ Provide custom effect creation option.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20260623060037628_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20260724013947563_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1731,7 +1731,7 @@ Permissions (Required)
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20260615063016824_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20260724014118210_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
