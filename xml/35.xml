@@ -892,86 +892,21 @@ Enjoy customizable options for capturing and recording your screen:
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
-		<productID>000008941803</productID>
+		<productID>000009132152</productID>
 		<productName><![CDATA[Routines+]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008941803/IconImage_20260630063254323_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009132152/IconImage_20260722005629129_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.23]]></versionName>
-		<versionCode>112307000</versionCode> 
-		<realContentSize>18140044</realContentSize>
+		<versionName><![CDATA[1.1.28]]></versionName>
+		<versionCode>112807000</versionCode> 
+		<realContentSize>17834225</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission></permission>
-			<updateDescription><![CDATA[<v1.1.23>
-- Improved Touch Macro operation for One UI 8.5 and optimized app performance
-
-<v1.1.20>
- - Fixed touch macro action error in One UI 8.5
-
-<v1.1.18>
--Just in Routine feature added (Supports One UI 7 and above):
-Create routines that can be reminded by Now Brief or notifications at specific times.
-※ Only available in Now Brief on One UI 8.0 and above.
-※ Otherwise, notifications will be used instead.
-- Fixed minor bugs.
-
-
-<v1.0.75>
-- Bug fixes
-
-<v1.0.68>
-- Bug fixes and stabilization code applied
-
-<v1.0.60>
-- Bug fixes and stabilization code applied
-- Add Routine Gallery for OneUI 7.0
-
-<v1.0.52>
--Fixed the "Button action" error.
--Updated the Routine SDK version to 3.1.9.
-
-<v1.0.49>
-1) The following conditions of 'Routine +' are not available in devices with simplified navigation bar.
-     - A combination of 'Home' button and 'Touch and hold' among options of "Button action"
-2) Fixed bugs.
-
-<v1.0.44>
-- Japanese language support
-- Fixed bugs
-
-<v1.0.38>
- - Fixed touch macro action error in One UI 5
-
-<v1.0.34>
- - Added touch macro stop action
-
-
-<v1.0.33>
-- Fixed FC issue during saved button action.
-
-<v1.0.30>
--Added permission notification screen
-
-<v1.0.28>
- - Routine + multi-condition setting error fix
-
-<v1.0.27>
-S pen action
-- Change the menu name (Air action > S pen action)
-- Fix issues where unsupported air actions are provided on some devices
-
-Touch macro
-- Support to create an touch macro without specifying app
-
-Others
-- Fix no Keyboard issues during some operation
-- Fix FC issue related to library compatibility
-
-<v1.0.25>
-Launch Routines +.]]></updateDescription>
+			<updateDescription><![CDATA[<1.1.28>
+- One UI 9.0 stability improvements]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
 		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Add advanced features to Modes and Routines so you can make more powerful routines.
@@ -1254,10 +1189,10 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[2.0.00.48]]></versionName>
-		<versionCode>200000048</versionCode> 
-		<realContentSize>15405679</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.0.01.5]]></versionName>
+		<versionCode>200100005</versionCode> 
+		<realContentSize>16237424</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>READ_MEDIA_VISUAL_USER_SELECTED||WAKE_LOCK||ACCESS_WIFI_STATE||POST_NOTIFICATIONS||MANAGE_EXTERNAL_STORAGE||INTERNET||FOREGROUND_SERVICE_DATA_SYNC||FOREGROUND_SERVICE||RECEIVE_BOOT_COMPLETED||WRITE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE||READ_MEDIA_VIDEO||READ_MEDIA_IMAGES||QUERY_ALL_PACKAGES||VIBRATE||READ_EXTERNAL_STORAGE</permission>
 			<updateDescription><![CDATA[]]></updateDescription>
