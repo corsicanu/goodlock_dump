@@ -282,7 +282,7 @@ Floating notifications
 		<productID>000009132129</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000009132129/IconImage_20260723021504571_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009132129/IconImage_20260730015009653_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -321,7 +321,7 @@ Tip: Long-press the NotiStar menu in the Good Lock app to create a shortcut icon
   : When editing lock screen accessible icons, storage access is required to display wallpapers on the preview screen.
 
 [Version Code]
-<NOTISTAR:2001:9002>
+<NOTISTAR:2001:10001>
 #GoodLockFriends]]></description>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
@@ -1250,7 +1250,7 @@ v1.0.26
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260715062016106_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260730012456628_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1261,7 +1261,7 @@ v1.0.26
 		<restrictedAge>0</restrictedAge>
 		<permission>STATUS_BAR||EXPAND_STATUS_BAR||MANAGE_EXTERNAL_STORAGE||ACCESS_NETWORK_STATE</permission>
 			<updateDescription><![CDATA[Support model
-- One UI 9.0 or higher : Flip8/Fold8
+- One UI 9.0 or higher : S26FE/Flip8/Fold8
 - One UI 8.5 or higher : A57/A37/A36/M36/A35/M35/A34/M34/TabS11/TabS10/TabS10FE/TabS9/TabS9FE
 - One UI 8.0 or higher : S26/Flip7/Fold7/S25FE
 - One UI 7.0 or higher : S25/A56/M56/F56
