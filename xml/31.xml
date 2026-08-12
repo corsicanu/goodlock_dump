@@ -1492,7 +1492,7 @@ Thank you.
 		<productID>000005198690</productID>
 		<productName><![CDATA[Pentastic]]></productName>
 		<appId>com.samsung.android.pentastic</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20260615063110208_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20260812030147134_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1502,7 +1502,10 @@ Thank you.
 		<realContentSize>26094917</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<v2.3.19>  
+			<updateDescription><![CDATA[<3.0.01>
+- Optimized for One UI 9 devices
+
+<v2.3.19>  
 ※ This version supports devices with One UI 8.0 and above.  
 -  Fixed an issue where Air command types were not applied on One UI 8.0 devices
 
