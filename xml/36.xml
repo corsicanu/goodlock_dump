@@ -1082,7 +1082,7 @@ The following access permissions are required to provide you with this service. 
 		<productID>000008122674</productID>
 		<productName><![CDATA[Game Booster +]]></productName>
 		<appId>com.samsung.android.game.honeyplayplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20260724014232099_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20260813055152356_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1092,7 +1092,11 @@ The following access permissions are required to provide you with this service. 
 		<realContentSize>8209033</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||GET_PACKAGES||SYSTEM_ALERT_WINDOW||READ_PRIVILEGED_PHONE_STATE||RECEIVE_BOOT_COMPLETED||READ_SEARCH_INDEXABLES||REQUEST_INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||BLUETOOTH_CONNECT</permission>
-			<updateDescription><![CDATA[<2.0.00.29>
+			<updateDescription><![CDATA[<2.0.00.33>
+- One UI 9 support
+- 'Game controller key remapping' not supported on One UI 9
+
+<2.0.00.29>
 - Added Gamepad Touch Mapping, AP clock limitation, and Game Intro Fast-forward features for available devices.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -1453,7 +1457,7 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20260807065414259_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20260813055141218_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1463,10 +1467,11 @@ Set double tap to shortcut by pressing S Pen
 		<realContentSize>28224449</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>MODIFY_PHONE_STATE||FOREGROUND_SERVICE||BLUETOOTH_ADMIN||FOREGROUND_SERVICE_SPECIAL_USE||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||ACCESS_NOTIFICATION_POLICY||INTERACT_ACROSS_USERS_FULL||ACCESS_NETWORK_STATE||WAKE_LOCK||POST_NOTIFICATIONS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||VIBRATE||RECORD_AUDIO||DEVICE_POWER||MODIFY_AUDIO_ROUTING||INTERNET||SYSTEM_APPLICATION_OVERLAY||MODIFY_AUDIO_SETTINGS||BLUETOOTH||BLUETOOTH_CONNECT||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<9.0.00.10>
+			<updateDescription><![CDATA[<9.0.00.11>
 - Supports One UI 9.0 and above
 - UI improvements
 - Translation error fixes
+
 <v8.5.00.2>
 ※Supports One UI 8 and above.
 - Improved app stability.
