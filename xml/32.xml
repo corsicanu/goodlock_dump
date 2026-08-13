@@ -1424,7 +1424,7 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20260807065414259_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20260813055141218_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1434,10 +1434,11 @@ Set double tap to shortcut by pressing S Pen
 		<realContentSize>26794146</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>MODIFY_PHONE_STATE||FOREGROUND_SERVICE||BLUETOOTH_ADMIN||FOREGROUND_SERVICE_SPECIAL_USE||MEDIA_CONTENT_CONTROL||RECEIVE_BOOT_COMPLETED||ACCESS_NOTIFICATION_POLICY||INTERACT_ACROSS_USERS_FULL||ACCESS_NETWORK_STATE||WAKE_LOCK||POST_NOTIFICATIONS||com.wssnps.permission.COM_WSSNPS||QUERY_ALL_PACKAGES||VIBRATE||RECORD_AUDIO||DEVICE_POWER||MODIFY_AUDIO_ROUTING||INTERNET||SYSTEM_APPLICATION_OVERLAY||MODIFY_AUDIO_SETTINGS||BLUETOOTH||BLUETOOTH_CONNECT||WRITE_SETTINGS</permission>
-			<updateDescription><![CDATA[<9.0.00.10>
+			<updateDescription><![CDATA[<9.0.00.11>
 - Supports One UI 9.0 and above
 - UI improvements
 - Translation error fixes
+
 <v8.5.00.2>
 ※Supports One UI 8 and above.
 - Improved app stability.
