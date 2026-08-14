@@ -1790,7 +1790,7 @@ Permissions (Required)
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20260724014118210_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20260814034555086_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1800,12 +1800,19 @@ Permissions (Required)
 		<realContentSize>85000246</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>BIND_WALLPAPER||INTERACT_ACROSS_USERS||com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||RECEIVE_BOOT_COMPLETED||AMBIENT_WALLPAPER||ACCESS_NETWORK_STATE||WAKE_LOCK||com.android.homescreen.home.permission.preview_image||SET_WALLPAPER||READ_EXTERNAL_STORAGE||SET_WALLPAPER_COMPONENT||MAINLINE_NETWORK_STACK</permission>
-			<updateDescription><![CDATA[<v1.6.19>
-- Improved the app so that the 3D effect is applied again when using portrait photos for motion wallpapers.
-- Changed photo and video permissions to optional permissions, and updated the app to request permission only when loading actual files.
-- Fixed an issue where videos and animations in wallpapers would occasionally stop.
-- Improved storage usage through resource optimization and cleanup of unnecessary temporary files.
-- Fixed an issue where restore could fail during backup/restore due to incorrect resource handling.
+			<updateDescription><![CDATA[<v1.6.22>
+- Improved 3D effect application and stability for portrait photos taken with the latest camera app
+- Fixed motion effect tilting in the wrong direction based on screen orientation
+- Fixed issue where layers disappear when dragged outside the preview in the wallpaper editor
+- Fixed text position changing when modifying style or font
+- Fixed app crash when adding unplayable videos
+
+<v1.6.19>
+- Improved 3D effect application for portrait photos on live wallpapers
+- Changed photo and video permissions to selective and updated permission request timing
+- Fixed intermittent freezing of videos and animations on wallpapers
+- Improved storage usage through resource optimization and temporary file cleanup
+- Fixed restore failure caused by incorrect resource handling during backup/restore
 
 <v1.6.16>
 - Improved battery efficiency when using dynamic wallpapers.
@@ -1859,14 +1866,7 @@ Permissions (Required)
 - Supports AOD transition of Galaxy Z Fold / Flip device. (Some devices with OneUI 6.0 or higher)
 - Remove unnecessary masking effects when setting dynamic animation options for Galaxy Z Fold / Flip devices.
 - Change the location of the image setting button and the effect selection button.
-- Fix the issue where the setting is reset if the button is not pressed on the image setting screen.
-
-<v1.4.04>
-- Support transition effect from Always On Display (Some devices that support OneUI6.0 or higher)
-* After applying the lock screen transition effect, changing the settings related to Always On Display and lock screen through settings, LockStar, ClockFace, etc. may release the transition effect.
-- Add new 3 effects (Hexagon, Slice, Flip)
-- Change chooser UI for image and effect
-- Adjust default configuration value of effect]]></updateDescription>
+- Fix the issue where the setting is reset if the button is not pressed on the image setting screen.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create moving wallpapers and stunning lock screen effects.
