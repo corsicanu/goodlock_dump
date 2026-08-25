@@ -2100,10 +2100,10 @@ Permissions (Required)
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.6.19]]></versionName>
-		<versionCode>161900000</versionCode> 
-		<realContentSize>58882954</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.6.22]]></versionName>
+		<versionCode>162200000</versionCode> 
+		<realContentSize>59483800</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>BIND_WALLPAPER||INTERACT_ACROSS_USERS||com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||RECEIVE_BOOT_COMPLETED||AMBIENT_WALLPAPER||ACCESS_NETWORK_STATE||WAKE_LOCK||com.android.homescreen.home.permission.preview_image||SET_WALLPAPER||READ_EXTERNAL_STORAGE||SET_WALLPAPER_COMPONENT||MAINLINE_NETWORK_STACK</permission>
 			<updateDescription><![CDATA[<v1.6.22>
