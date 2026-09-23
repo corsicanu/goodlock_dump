@@ -1152,10 +1152,10 @@ Speeds up the intro videos when launching a game.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.8.05.4]]></versionName>
-		<versionCode>180500004</versionCode> 
-		<realContentSize>48858734</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.9.00.6]]></versionName>
+		<versionCode>190000006</versionCode> 
+		<realContentSize>44974370</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||WRITE_EXTERNAL_STORAGE||INTERNET||WRITE_MEDIA_IMAGES||ACCESS_NETWORK_STATE||READ_EXTERNAL_STORAGE||WRITE_SETTINGS</permission>
 			<updateDescription><![CDATA[<v1.9.0.6>
