@@ -822,7 +822,7 @@ English, Korean, Chinese Simplified, Japanese
 		<productID>000009033541</productID>
 		<productName><![CDATA[RegiStar]]></productName>
 		<appId>com.samsung.android.app.galaxyregistry</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000009033541/IconImage_20261015061800699_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009033541/IconImage_20261109085535071_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1143,7 +1143,7 @@ The following access permissions are required to provide you with this service. 
 - Added Gamepad Touch Mapping, AP clock limitation, and Game Intro Fast-forward features for available devices.]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[With Galaxy, enjoy a more fun gaming experience!
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[With Galaxy, enjoy a more fun gaming experience!
 
 [Main Features]
 OneUI 7.0
@@ -1826,17 +1826,24 @@ Permissions (Required)
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20260814034555086_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20261109103531307_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[1.6.22]]></versionName>
 		<versionCode>162200000</versionCode> 
 		<realContentSize>59483800</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>BIND_WALLPAPER||INTERACT_ACROSS_USERS||com.wssnps.permission.COM_WSSNPS||READ_MEDIA_IMAGES||VIBRATE||RECEIVE_BOOT_COMPLETED||AMBIENT_WALLPAPER||ACCESS_NETWORK_STATE||WAKE_LOCK||com.android.homescreen.home.permission.preview_image||SET_WALLPAPER||READ_EXTERNAL_STORAGE||SET_WALLPAPER_COMPONENT||MAINLINE_NETWORK_STACK</permission>
-			<updateDescription><![CDATA[<v1.6.22>
+			<updateDescription><![CDATA[<v1.6.28>
+- Improved wallpaper editor preview layout and lock screen display in landscape mode
+- Added a button to bring back layers moved outside the screen in the wallpaper editor
+- Fixed video layers turning black or stopping playback on wallpapers
+- Fixed issue where trimmed videos were not applied correctly
+- Improved wallpaper saving speed and rendering stability on some devices
+
+<v1.6.22>
 - Improved 3D effect application and stability for portrait photos taken with the latest camera app
 - Fixed motion effect tilting in the wrong direction based on screen orientation
 - Fixed issue where layers disappear when dragged outside the preview in the wallpaper editor
