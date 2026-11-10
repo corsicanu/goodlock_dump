@@ -702,23 +702,21 @@ Pre-preparation for OneUI 3]]></updateDescription>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
-		<productID>000008965710</productID>
+		<productID>000009364060</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008965710/IconImage_20260930025201262_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009364060/IconImage_20261029071605730_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.3.09]]></versionName>
-		<versionCode>230900000</versionCode> 
-		<realContentSize>6376972</realContentSize>
+		<versionName><![CDATA[2.3.11]]></versionName>
+		<versionCode>231100000</versionCode> 
+		<realContentSize>6363127</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission></permission>
-			<updateDescription><![CDATA[<2.3.09>
-- System stability and performance improvements
-- Fixed UI issues
-- Resolved language display issue (Korean mode)]]></updateDescription>
+			<updateDescription><![CDATA[<2.3.11>
+- Improved system stability]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
 		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Enhanced Screenshot & Screen Recording Features
