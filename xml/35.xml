@@ -329,7 +329,7 @@ Tip: Long-press the NotiStar menu in the Good Lock app to create a shortcut icon
 		<productID>000009018518</productID>
 		<productName><![CDATA[Edge lighting+]]></productName>
 		<appId>com.samsung.android.edgelightingplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000009018518/IconImage_20260929063738022_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009018518/IconImage_20261115223241932_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1123,7 +1123,7 @@ The following access permissions are required to provide you with this service. 
 		<productID>000008122674</productID>
 		<productName><![CDATA[Game Booster +]]></productName>
 		<appId>com.samsung.android.game.honeyplayplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20260813055152356_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20261116012957015_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -1133,8 +1133,12 @@ The following access permissions are required to provide you with this service. 
 		<realContentSize>10938013</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>FOREGROUND_SERVICE||QUERY_ALL_PACKAGES||GET_PACKAGES||SYSTEM_ALERT_WINDOW||READ_PRIVILEGED_PHONE_STATE||RECEIVE_BOOT_COMPLETED||READ_SEARCH_INDEXABLES||REQUEST_INSTALL_PACKAGES||INTERNET||ACCESS_NETWORK_STATE||WRITE_SECURE_SETTINGS||WAKE_LOCK||BLUETOOTH_CONNECT</permission>
-			<updateDescription><![CDATA[<2.0.00.33>
-- One UI 9 support
+			<updateDescription><![CDATA[<2.0.00.37>
+-Improved an issue where the touch mapping menu became unresponsive while running a game
+-Fixed an issue where the crosshair was displayed when no game was running
+
+<2.0.00.33>
+- One UI 9.0 support
 - 'Game controller key remapping' not supported on One UI 9
 
 <2.0.00.29>
