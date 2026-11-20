@@ -777,24 +777,29 @@ English, Korean, Chinese Simplified, Japanese
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
-		<productID>000009033541</productID>
+		<productID>000009390921</productID>
 		<productName><![CDATA[RegiStar]]></productName>
 		<appId>com.samsung.android.app.galaxyregistry</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000009033541/IconImage_20261109085535071_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009390921/IconImage_20261113034841318_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.73]]></versionName>
-		<versionCode>107300000</versionCode> 
-		<realContentSize>12745783</realContentSize>
+		<versionName><![CDATA[1.0.84]]></versionName>
+		<versionCode>108400000</versionCode> 
+		<realContentSize>9104410</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission></permission>
-			<updateDescription><![CDATA[<1.0.73>
- - Official support for One UI 9.0]]></updateDescription>
+			<updateDescription><![CDATA[<v1.0.84>
+- Improved Back-Tap recognition and added a user guide
+- Improved opening the default digital assistant app
+- Improved Time notification by sound behavior
+- Fixed an issue where the Back-Tap notification was captured during screen capture
+- Fixed an issue where duplicate shortcuts were displayed on the app selection screen
+- General usability and stability improvements]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
-		<averageRating><![CDATA[10]]></averageRating><description><![CDATA[Conveniently configure the Settings app and press the side key, tap the back, or press the screen strongly to quickly launch useful features.
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Conveniently configure the Settings app and press the side key, tap the back, or press the screen strongly to quickly launch useful features.
 
 - Re-configure menu of Settings home screen
  : Change order, hide,manage groups
