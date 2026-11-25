@@ -1784,18 +1784,19 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20261113030426554_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20261125064228286_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[9.0.00.0]]></versionName>
 		<versionCode>900000000</versionCode> 
 		<realContentSize>6663761</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>QUERY_ALL_PACKAGES||VIBRATE||RECEIVE_BOOT_COMPLETED</permission>
-			<updateDescription><![CDATA[<v9.0.00.0>
-- Some minor improvements.]]></updateDescription>
+			<updateDescription><![CDATA[<9.5.00.2>
+- Improved UI visibility and usability
+- Improved deletion of screen wake-up history]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Got tired of mysterious vibration on your phone?
