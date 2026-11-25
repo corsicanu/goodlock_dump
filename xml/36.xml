@@ -48,6 +48,62 @@ The following permissions are required for the app service. You can still use th
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000009398938</productID>
+		<productName><![CDATA[QuickStar]]></productName>
+		<appId>com.samsung.android.qstuner</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009398938/IconImage_20261117073902318_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[12.0.02.30]]></versionName>
+		<versionCode>1200230000</versionCode> 
+		<realContentSize>12252201</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<permission></permission>
+			<updateDescription><![CDATA[<v12.0.02.30>
+- Supported GTS sharing feature
+- General stability and usability improvements
+
+※ Features supported on One UI 9.5 or later
+- Added full image editing features and improved screen layout
+- Added preview on the editing screen
+- Added an option to enable/disable icons]]></updateDescription>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Customize your special Quickpanel.
+
+[Description]
+- Make a simple status bar.
+
+<One UI 5>
+ ※ Support seconds clock on panel.
+ ※ Support date clock on indicator.
+
+<One UI 4>
+ ※ Improve app stability.
+
+[Detail Description]
+QuickStar is QuickPanel Star a SystemUI service app for early adopters.
+QuickStar is a plugin application for customizing SAMSUNG SystemUI Quicksettings components.
+By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provides.
+We are trying to make a fresh experience for users.
+
+[Target]
+- Android 8 or higher devices
+
+[Language]
+- Korean
+- English
+- Chinese
+- Japanese
+
+[Version Code]
+<SLIMINDICATOR:1003:12000>
+#2]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000008905897</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
@@ -227,165 +283,6 @@ Floating notifications
 [Version Code]
 <MULTISTAR:1000:10001>
 #6]]></description>
-		<fromPrepost>Y</fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000008878348</productID>
-		<productName><![CDATA[QuickStar]]></productName>
-		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008878348/IconImage_20260724070124095_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[10.0.04.26]]></versionName>
-		<versionCode>1000426000</versionCode> 
-		<realContentSize>11847829</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<permission></permission>
-			<updateDescription><![CDATA[<v10.0.04.26>  
-1. New features (One UI 8.5 only)  
-- Panel style customization  
-- Landscape layout settings  
-- Control bar level display  
-- Panel item resizing  
-2. Stability improvements and bug fixes  
-
-<v10.0.01.3>  
-1. 'Quick Settings Panel Button Arrangement' feature reintroduced  
-2. Stability improvements and bug fixes  
-
-<v10.0.00.2>  
-1) Official support for One UI 8.5 begins  
-   - Temporary limitation: 'Change quick setting button grid' feature is unavailable on One UI 8.5 devices. (To be improved with official binary release)  
-2) Stability improvements and bug fixes  
-
-
-<v9.0.00.01>
-※ Version v9.X.X supports devices running One UI 7 and above.
-- Supports One UI 8 devices.
-- Fixed other bugs.
-
-<v8.1.02.24>
- - Fixed the problem that the clock position is forcibly set to the middle in a model with no middle option
- - Improve app stability
-
-<v8.1.02.21>
- - Improve app stability
-
-<v8.0.02.18>
- - Support One UI 7
-
-<v7.4.07.56>
- - Improve app stability
-
-<v7.3.06.50>
- - Support hiding mobile hotspot icon
- - Improve app stability
-
-v7.2.06.35
- - Support to change the format of the date displayed on the indicator clock (One UI 6.1)
- - Change the way to connect Theme Park (One UI 6.0 or higher)
-     ※ Please install the latest version of the Theme Park(v1.1.00.8 or higher)
- - Stabilize "Quick settings instant access"
-
-v7.1.03.22
- - Fix the problem of Quick settings instant access
-
-v7.0.03.20
- - Support for OneUI 6.0
- - Supports changing quick setting button grid inside the app (OneUI 6.0)
- - Added GTS support of "Apply color palette to notification icons" (OneUI 5.1.1 or higher)
- - Added Japanese support.
- ※ "Show notifications by last update" and "Quick settings instant access" ON / OFF settings are provided as device functions from One UI 6.0 and removed from the app
-
-v6.4.08.45
- - Fix the problem that the app does not open
-
-v6.4.08.43
- - Support hiding icons of modes and device care in "Visibility of Indicator Icons"
- - Improve app stability
-
-v6.3.06.31
- - Support Smart Switch for the following functions (OneUI4.0 or later)
-     • Show notifications by last update
-     • Show Quick button grid
-     • Open Quick panel directly
-
-v6.2.05.27
- - Fix a problem that its setting value was deactivated automatically at times
-
-v6.1.05.20
- - Support seconds clock on panel (OneUI5)
- - Support date clock on indicator (OneUI5)
- - Improve app stability.
-
-v5.2.00.03
- - Shorten the entry path for 'Open Quick panel directly' menu.
- - Supported a guide overlay on statubar for the area of 'Quick Setting' and 'Notification'
-
-v5.1.00.08
- - Fixed the initialization of the position set via 'Open Quick panel directly' after reboot.
- - Fixed the turned-off of the volume item after reentry in 'Visibility of Indicator Icons'.
- - Removed the unavailable in One UI 4, ex. 'Use sections' in 'Show notifications by last update'
-
-v5.1.00.02
- - Fixed not to show mute icon in One UI 4
-
-v5.0.00.00
- - Available in One UI 4 (based on Android 12)
-
-v4.2.00.20
- - Remove unnecessary permission
- - Fix the layout error
-
-v4.2.00.17
- - Fixed the error that "Show notifications by the last update" was initialized, after the device reboot
- - Fixed the issue where  QuickStar values were not restored after Good Lock update
- - Support  'Middle' position in clock setting in Foldable devices
-
-v4.2.00.15
- - Added new menu, "Style your own Quick Panel"
-
-v4.1.04.06
- - Fixed an error not-restored a feature like Quick button grid after device reboot
-  (※ After using DEX, the unrecovered issue can be improved through SW update in device)
-
-v4.1.04.05
- - Support VPN icon in "Visibility of Indicator Icons"
- - Change app icon and improve GUI]]></updateDescription>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Content Gifts]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your special Quickpanel.
-
-[Description]
-- Make a simple status bar.
-
-<One UI 5>
- ※ Support seconds clock on panel.
- ※ Support date clock on indicator.
-
-<One UI 4>
- ※ Improve app stability.
-
-[Detail Description]
-QuickStar is QuickPanel Star a SystemUI service app for early adopters.
-QuickStar is a plugin application for customizing SAMSUNG SystemUI Quicksettings components.
-By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provides.
-We are trying to make a fresh experience for users.
-
-[Target]
-- Android 8 or higher devices
-
-[Language]
-- Korean
-- English
-- Chinese
-- Japanese
-
-[Version Code]
-<SLIMINDICATOR:1003:10000>
-#2]]></description>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
@@ -1281,18 +1178,19 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20261113030426554_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20261125064228286_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[9.0.00.0]]></versionName>
 		<versionCode>900000000</versionCode> 
 		<realContentSize>6663761</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<permission>QUERY_ALL_PACKAGES||VIBRATE||RECEIVE_BOOT_COMPLETED</permission>
-			<updateDescription><![CDATA[<v9.0.00.0>
-- Some minor improvements.]]></updateDescription>
+			<updateDescription><![CDATA[<9.5.00.2>
+- Improved UI visibility and usability
+- Improved deletion of screen wake-up history]]></updateDescription>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Got tired of mysterious vibration on your phone?
